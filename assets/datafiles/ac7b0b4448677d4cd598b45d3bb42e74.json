@@ -1,0 +1,1889 @@
+{
+    "type": "package",
+    "id": "package--4797a13b-dc1f-4fe3-95ae-98d2d4b79014",
+    "schema_version": "5.0",
+    "maec_objects": [
+        {
+            "type": "malware-instance",
+            "id": "malware-instance--dd01d87a-48c0-4f3d-b5e9-5e66562b25b2",
+            "instance_object_refs": [
+                "0"
+            ],
+            "analysis_metadata": []
+        }
+    ],
+    "observable_objects": {
+        "0": {
+            "type": "file",
+            "hashes": {
+                "MD5": "ac7b0b4448677d4cd598b45d3bb42e74",
+                "SHA-1": "cb613a451845282180a6aff03888396005a0e310",
+                "SHA-256": "1cabb837cef3804c9a684219206ee2ff6b521264e0c7c91cdc39e1a814c12989"
+            },
+            "extensions": {
+                "x-maec-avclass": [
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "spellmanshow.com",
+                                "www.phpbb.com",
+                                "wwp.icq.com",
+                                "web.icq.com",
+                                "yoursupersearch.info"
+                            ],
+                            "email_parents": [],
+                            "magic": "ASCII HTML document text, with very long lines, with CRLF, LF line terminators",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "embedded_urls": [
+                                "http://www.subBlue.com"
+                            ],
+                            "exiftool": {
+                                "MIMEType": "text/plain",
+                                "FileType": "TXT",
+                                "WordCount": "4226",
+                                "LineCount": "699",
+                                "MIMEEncoding": "us-ascii",
+                                "FileTypeExtension": "txt",
+                                "Newlines": "Unix LF"
+                            },
+                            "trid": "HyperText Markup Language (100.0%)",
+                            "positives_delta": 2,
+                            "first_seen_itw": "2009-06-04 06:09:34"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "spellmanshow.com",
+                                "www.phpbb.com",
+                                "wwp.icq.com",
+                                "web.icq.com",
+                                "yoursupersearch.info"
+                            ],
+                            "email_parents": [],
+                            "magic": "ASCII HTML document text, with very long lines, with CRLF, LF line terminators",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "embedded_urls": [
+                                "http://www.subBlue.com"
+                            ],
+                            "exiftool": {
+                                "MIMEType": "text/plain",
+                                "FileType": "TXT",
+                                "WordCount": "4226",
+                                "LineCount": "699",
+                                "MIMEEncoding": "us-ascii",
+                                "FileTypeExtension": "txt",
+                                "Newlines": "Unix LF"
+                            },
+                            "trid": "HyperText Markup Language (100.0%)",
+                            "positives_delta": 2,
+                            "first_seen_itw": "2009-06-04 06:09:34"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "spellmanshow.com",
+                                "www.phpbb.com",
+                                "wwp.icq.com",
+                                "web.icq.com",
+                                "yoursupersearch.info"
+                            ],
+                            "email_parents": [],
+                            "magic": "ASCII HTML document text, with very long lines, with CRLF, LF line terminators",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "embedded_urls": [
+                                "http://www.subBlue.com"
+                            ],
+                            "exiftool": {
+                                "MIMEType": "text/plain",
+                                "FileType": "TXT",
+                                "WordCount": "4226",
+                                "LineCount": "699",
+                                "MIMEEncoding": "us-ascii",
+                                "FileTypeExtension": "txt",
+                                "Newlines": "Unix LF"
+                            },
+                            "trid": "HyperText Markup Language (100.0%)",
+                            "positives_delta": 2,
+                            "first_seen_itw": "2009-06-04 06:09:34"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "spellmanshow.com",
+                                "www.phpbb.com",
+                                "wwp.icq.com",
+                                "web.icq.com",
+                                "yoursupersearch.info"
+                            ],
+                            "email_parents": [],
+                            "magic": "ASCII HTML document text, with very long lines, with CRLF, LF line terminators",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "embedded_urls": [
+                                "http://www.subBlue.com"
+                            ],
+                            "exiftool": {
+                                "MIMEType": "text/plain",
+                                "FileType": "TXT",
+                                "WordCount": "4226",
+                                "LineCount": "699",
+                                "MIMEEncoding": "us-ascii",
+                                "FileTypeExtension": "txt",
+                                "Newlines": "Unix LF"
+                            },
+                            "trid": "HyperText Markup Language (100.0%)",
+                            "positives_delta": 2,
+                            "first_seen_itw": "2009-06-04 06:09:34"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "spellmanshow.com",
+                                "www.phpbb.com",
+                                "wwp.icq.com",
+                                "web.icq.com",
+                                "yoursupersearch.info"
+                            ],
+                            "email_parents": [],
+                            "magic": "ASCII HTML document text, with very long lines, with CRLF, LF line terminators",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "embedded_urls": [
+                                "http://www.subBlue.com"
+                            ],
+                            "exiftool": {
+                                "MIMEType": "text/plain",
+                                "FileType": "TXT",
+                                "WordCount": "4226",
+                                "LineCount": "699",
+                                "MIMEEncoding": "us-ascii",
+                                "FileTypeExtension": "txt",
+                                "Newlines": "Unix LF"
+                            },
+                            "trid": "HyperText Markup Language (100.0%)",
+                            "positives_delta": 2,
+                            "first_seen_itw": "2009-06-04 06:09:34"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "spellmanshow.com",
+                                "www.phpbb.com",
+                                "wwp.icq.com",
+                                "web.icq.com",
+                                "yoursupersearch.info"
+                            ],
+                            "email_parents": [],
+                            "magic": "ASCII HTML document text, with very long lines, with CRLF, LF line terminators",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "embedded_urls": [
+                                "http://www.subBlue.com"
+                            ],
+                            "exiftool": {
+                                "MIMEType": "text/plain",
+                                "FileType": "TXT",
+                                "WordCount": "4226",
+                                "LineCount": "699",
+                                "MIMEEncoding": "us-ascii",
+                                "FileTypeExtension": "txt",
+                                "Newlines": "Unix LF"
+                            },
+                            "trid": "HyperText Markup Language (100.0%)",
+                            "positives_delta": 2,
+                            "first_seen_itw": "2009-06-04 06:09:34"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "spellmanshow.com",
+                                "www.phpbb.com",
+                                "wwp.icq.com",
+                                "web.icq.com",
+                                "yoursupersearch.info"
+                            ],
+                            "email_parents": [],
+                            "magic": "ASCII HTML document text, with very long lines, with CRLF, LF line terminators",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "embedded_urls": [
+                                "http://www.subBlue.com"
+                            ],
+                            "exiftool": {
+                                "MIMEType": "text/plain",
+                                "FileType": "TXT",
+                                "WordCount": "4226",
+                                "LineCount": "699",
+                                "MIMEEncoding": "us-ascii",
+                                "FileTypeExtension": "txt",
+                                "Newlines": "Unix LF"
+                            },
+                            "trid": "HyperText Markup Language (100.0%)",
+                            "positives_delta": 2,
+                            "first_seen_itw": "2009-06-04 06:09:34"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "spellmanshow.com",
+                                "www.phpbb.com",
+                                "wwp.icq.com",
+                                "web.icq.com",
+                                "yoursupersearch.info"
+                            ],
+                            "email_parents": [],
+                            "magic": "ASCII HTML document text, with very long lines, with CRLF, LF line terminators",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "embedded_urls": [
+                                "http://www.subBlue.com"
+                            ],
+                            "exiftool": {
+                                "MIMEType": "text/plain",
+                                "FileType": "TXT",
+                                "WordCount": "4226",
+                                "LineCount": "699",
+                                "MIMEEncoding": "us-ascii",
+                                "FileTypeExtension": "txt",
+                                "Newlines": "Unix LF"
+                            },
+                            "trid": "HyperText Markup Language (100.0%)",
+                            "positives_delta": 2,
+                            "first_seen_itw": "2009-06-04 06:09:34"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "spellmanshow.com",
+                                "www.phpbb.com",
+                                "wwp.icq.com",
+                                "web.icq.com",
+                                "yoursupersearch.info"
+                            ],
+                            "email_parents": [],
+                            "magic": "ASCII HTML document text, with very long lines, with CRLF, LF line terminators",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "embedded_urls": [
+                                "http://www.subBlue.com"
+                            ],
+                            "exiftool": {
+                                "MIMEType": "text/plain",
+                                "FileType": "TXT",
+                                "WordCount": "4226",
+                                "LineCount": "699",
+                                "MIMEEncoding": "us-ascii",
+                                "FileTypeExtension": "txt",
+                                "Newlines": "Unix LF"
+                            },
+                            "trid": "HyperText Markup Language (100.0%)",
+                            "positives_delta": 2,
+                            "first_seen_itw": "2009-06-04 06:09:34"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "spellmanshow.com",
+                                "www.phpbb.com",
+                                "wwp.icq.com",
+                                "web.icq.com",
+                                "yoursupersearch.info"
+                            ],
+                            "email_parents": [],
+                            "magic": "ASCII HTML document text, with very long lines, with CRLF, LF line terminators",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "embedded_urls": [
+                                "http://www.subBlue.com"
+                            ],
+                            "exiftool": {
+                                "MIMEType": "text/plain",
+                                "FileType": "TXT",
+                                "WordCount": "4226",
+                                "LineCount": "699",
+                                "MIMEEncoding": "us-ascii",
+                                "FileTypeExtension": "txt",
+                                "Newlines": "Unix LF"
+                            },
+                            "trid": "HyperText Markup Language (100.0%)",
+                            "positives_delta": 2,
+                            "first_seen_itw": "2009-06-04 06:09:34"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "spellmanshow.com",
+                                "www.phpbb.com",
+                                "wwp.icq.com",
+                                "web.icq.com",
+                                "yoursupersearch.info"
+                            ],
+                            "email_parents": [],
+                            "magic": "ASCII HTML document text, with very long lines, with CRLF, LF line terminators",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "embedded_urls": [
+                                "http://www.subBlue.com"
+                            ],
+                            "exiftool": {
+                                "MIMEType": "text/plain",
+                                "FileType": "TXT",
+                                "WordCount": "4226",
+                                "LineCount": "699",
+                                "MIMEEncoding": "us-ascii",
+                                "FileTypeExtension": "txt",
+                                "Newlines": "Unix LF"
+                            },
+                            "trid": "HyperText Markup Language (100.0%)",
+                            "positives_delta": 2,
+                            "first_seen_itw": "2009-06-04 06:09:34"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "spellmanshow.com",
+                                "www.phpbb.com",
+                                "wwp.icq.com",
+                                "web.icq.com",
+                                "yoursupersearch.info"
+                            ],
+                            "email_parents": [],
+                            "magic": "ASCII HTML document text, with very long lines, with CRLF, LF line terminators",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "embedded_urls": [
+                                "http://www.subBlue.com"
+                            ],
+                            "exiftool": {
+                                "MIMEType": "text/plain",
+                                "FileType": "TXT",
+                                "WordCount": "4226",
+                                "LineCount": "699",
+                                "MIMEEncoding": "us-ascii",
+                                "FileTypeExtension": "txt",
+                                "Newlines": "Unix LF"
+                            },
+                            "trid": "HyperText Markup Language (100.0%)",
+                            "positives_delta": 2,
+                            "first_seen_itw": "2009-06-04 06:09:34"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "spellmanshow.com",
+                                "www.phpbb.com",
+                                "wwp.icq.com",
+                                "web.icq.com",
+                                "yoursupersearch.info"
+                            ],
+                            "email_parents": [],
+                            "magic": "ASCII HTML document text, with very long lines, with CRLF, LF line terminators",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "embedded_urls": [
+                                "http://www.subBlue.com"
+                            ],
+                            "exiftool": {
+                                "MIMEType": "text/plain",
+                                "FileType": "TXT",
+                                "WordCount": "4226",
+                                "LineCount": "699",
+                                "MIMEEncoding": "us-ascii",
+                                "FileTypeExtension": "txt",
+                                "Newlines": "Unix LF"
+                            },
+                            "trid": "HyperText Markup Language (100.0%)",
+                            "positives_delta": 2,
+                            "first_seen_itw": "2009-06-04 06:09:34"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "spellmanshow.com",
+                                "www.phpbb.com",
+                                "wwp.icq.com",
+                                "web.icq.com",
+                                "yoursupersearch.info"
+                            ],
+                            "email_parents": [],
+                            "magic": "ASCII HTML document text, with very long lines, with CRLF, LF line terminators",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "embedded_urls": [
+                                "http://www.subBlue.com"
+                            ],
+                            "exiftool": {
+                                "MIMEType": "text/plain",
+                                "FileType": "TXT",
+                                "WordCount": "4226",
+                                "LineCount": "699",
+                                "MIMEEncoding": "us-ascii",
+                                "FileTypeExtension": "txt",
+                                "Newlines": "Unix LF"
+                            },
+                            "trid": "HyperText Markup Language (100.0%)",
+                            "positives_delta": 2,
+                            "first_seen_itw": "2009-06-04 06:09:34"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "spellmanshow.com",
+                                "www.phpbb.com",
+                                "wwp.icq.com",
+                                "web.icq.com",
+                                "yoursupersearch.info"
+                            ],
+                            "email_parents": [],
+                            "magic": "ASCII HTML document text, with very long lines, with CRLF, LF line terminators",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "embedded_urls": [
+                                "http://www.subBlue.com"
+                            ],
+                            "exiftool": {
+                                "MIMEType": "text/plain",
+                                "FileType": "TXT",
+                                "WordCount": "4226",
+                                "LineCount": "699",
+                                "MIMEEncoding": "us-ascii",
+                                "FileTypeExtension": "txt",
+                                "Newlines": "Unix LF"
+                            },
+                            "trid": "HyperText Markup Language (100.0%)",
+                            "positives_delta": 2,
+                            "first_seen_itw": "2009-06-04 06:09:34"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "spellmanshow.com",
+                                "www.phpbb.com",
+                                "wwp.icq.com",
+                                "web.icq.com",
+                                "yoursupersearch.info"
+                            ],
+                            "email_parents": [],
+                            "magic": "ASCII HTML document text, with very long lines, with CRLF, LF line terminators",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "embedded_urls": [
+                                "http://www.subBlue.com"
+                            ],
+                            "exiftool": {
+                                "MIMEType": "text/plain",
+                                "FileType": "TXT",
+                                "WordCount": "4226",
+                                "LineCount": "699",
+                                "MIMEEncoding": "us-ascii",
+                                "FileTypeExtension": "txt",
+                                "Newlines": "Unix LF"
+                            },
+                            "trid": "HyperText Markup Language (100.0%)",
+                            "positives_delta": 2,
+                            "first_seen_itw": "2009-06-04 06:09:34"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "spellmanshow.com",
+                                "www.phpbb.com",
+                                "wwp.icq.com",
+                                "web.icq.com",
+                                "yoursupersearch.info"
+                            ],
+                            "email_parents": [],
+                            "magic": "ASCII HTML document text, with very long lines, with CRLF, LF line terminators",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "embedded_urls": [
+                                "http://www.subBlue.com"
+                            ],
+                            "exiftool": {
+                                "MIMEType": "text/plain",
+                                "FileType": "TXT",
+                                "WordCount": "4226",
+                                "LineCount": "699",
+                                "MIMEEncoding": "us-ascii",
+                                "FileTypeExtension": "txt",
+                                "Newlines": "Unix LF"
+                            },
+                            "trid": "HyperText Markup Language (100.0%)",
+                            "positives_delta": 2,
+                            "first_seen_itw": "2009-06-04 06:09:34"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "spellmanshow.com",
+                                "www.phpbb.com",
+                                "wwp.icq.com",
+                                "web.icq.com",
+                                "yoursupersearch.info"
+                            ],
+                            "email_parents": [],
+                            "magic": "ASCII HTML document text, with very long lines, with CRLF, LF line terminators",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "embedded_urls": [
+                                "http://www.subBlue.com"
+                            ],
+                            "exiftool": {
+                                "MIMEType": "text/plain",
+                                "FileType": "TXT",
+                                "WordCount": "4226",
+                                "LineCount": "699",
+                                "MIMEEncoding": "us-ascii",
+                                "FileTypeExtension": "txt",
+                                "Newlines": "Unix LF"
+                            },
+                            "trid": "HyperText Markup Language (100.0%)",
+                            "positives_delta": 2,
+                            "first_seen_itw": "2009-06-04 06:09:34"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "spellmanshow.com",
+                                "www.phpbb.com",
+                                "wwp.icq.com",
+                                "web.icq.com",
+                                "yoursupersearch.info"
+                            ],
+                            "email_parents": [],
+                            "magic": "ASCII HTML document text, with very long lines, with CRLF, LF line terminators",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "embedded_urls": [
+                                "http://www.subBlue.com"
+                            ],
+                            "exiftool": {
+                                "MIMEType": "text/plain",
+                                "FileType": "TXT",
+                                "WordCount": "4226",
+                                "LineCount": "699",
+                                "MIMEEncoding": "us-ascii",
+                                "FileTypeExtension": "txt",
+                                "Newlines": "Unix LF"
+                            },
+                            "trid": "HyperText Markup Language (100.0%)",
+                            "positives_delta": 2,
+                            "first_seen_itw": "2009-06-04 06:09:34"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "spellmanshow.com",
+                                "www.phpbb.com",
+                                "wwp.icq.com",
+                                "web.icq.com",
+                                "yoursupersearch.info"
+                            ],
+                            "email_parents": [],
+                            "magic": "ASCII HTML document text, with very long lines, with CRLF, LF line terminators",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "embedded_urls": [
+                                "http://www.subBlue.com"
+                            ],
+                            "exiftool": {
+                                "MIMEType": "text/plain",
+                                "FileType": "TXT",
+                                "WordCount": "4226",
+                                "LineCount": "699",
+                                "MIMEEncoding": "us-ascii",
+                                "FileTypeExtension": "txt",
+                                "Newlines": "Unix LF"
+                            },
+                            "trid": "HyperText Markup Language (100.0%)",
+                            "positives_delta": 2,
+                            "first_seen_itw": "2009-06-04 06:09:34"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "spellmanshow.com",
+                                "www.phpbb.com",
+                                "wwp.icq.com",
+                                "web.icq.com",
+                                "yoursupersearch.info"
+                            ],
+                            "email_parents": [],
+                            "magic": "ASCII HTML document text, with very long lines, with CRLF, LF line terminators",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "embedded_urls": [
+                                "http://www.subBlue.com"
+                            ],
+                            "exiftool": {
+                                "MIMEType": "text/plain",
+                                "FileType": "TXT",
+                                "WordCount": "4226",
+                                "LineCount": "699",
+                                "MIMEEncoding": "us-ascii",
+                                "FileTypeExtension": "txt",
+                                "Newlines": "Unix LF"
+                            },
+                            "trid": "HyperText Markup Language (100.0%)",
+                            "positives_delta": 2,
+                            "first_seen_itw": "2009-06-04 06:09:34"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "spellmanshow.com",
+                                "www.phpbb.com",
+                                "wwp.icq.com",
+                                "web.icq.com",
+                                "yoursupersearch.info"
+                            ],
+                            "email_parents": [],
+                            "magic": "ASCII HTML document text, with very long lines, with CRLF, LF line terminators",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "embedded_urls": [
+                                "http://www.subBlue.com"
+                            ],
+                            "exiftool": {
+                                "MIMEType": "text/plain",
+                                "FileType": "TXT",
+                                "WordCount": "4226",
+                                "LineCount": "699",
+                                "MIMEEncoding": "us-ascii",
+                                "FileTypeExtension": "txt",
+                                "Newlines": "Unix LF"
+                            },
+                            "trid": "HyperText Markup Language (100.0%)",
+                            "positives_delta": 2,
+                            "first_seen_itw": "2009-06-04 06:09:34"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "spellmanshow.com",
+                                "www.phpbb.com",
+                                "wwp.icq.com",
+                                "web.icq.com",
+                                "yoursupersearch.info"
+                            ],
+                            "email_parents": [],
+                            "magic": "ASCII HTML document text, with very long lines, with CRLF, LF line terminators",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "embedded_urls": [
+                                "http://www.subBlue.com"
+                            ],
+                            "exiftool": {
+                                "MIMEType": "text/plain",
+                                "FileType": "TXT",
+                                "WordCount": "4226",
+                                "LineCount": "699",
+                                "MIMEEncoding": "us-ascii",
+                                "FileTypeExtension": "txt",
+                                "Newlines": "Unix LF"
+                            },
+                            "trid": "HyperText Markup Language (100.0%)",
+                            "positives_delta": 2,
+                            "first_seen_itw": "2009-06-04 06:09:34"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "spellmanshow.com",
+                                "www.phpbb.com",
+                                "wwp.icq.com",
+                                "web.icq.com",
+                                "yoursupersearch.info"
+                            ],
+                            "email_parents": [],
+                            "magic": "ASCII HTML document text, with very long lines, with CRLF, LF line terminators",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "embedded_urls": [
+                                "http://www.subBlue.com"
+                            ],
+                            "exiftool": {
+                                "MIMEType": "text/plain",
+                                "FileType": "TXT",
+                                "WordCount": "4226",
+                                "LineCount": "699",
+                                "MIMEEncoding": "us-ascii",
+                                "FileTypeExtension": "txt",
+                                "Newlines": "Unix LF"
+                            },
+                            "trid": "HyperText Markup Language (100.0%)",
+                            "positives_delta": 2,
+                            "first_seen_itw": "2009-06-04 06:09:34"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "spellmanshow.com",
+                                "www.phpbb.com",
+                                "wwp.icq.com",
+                                "web.icq.com",
+                                "yoursupersearch.info"
+                            ],
+                            "email_parents": [],
+                            "magic": "ASCII HTML document text, with very long lines, with CRLF, LF line terminators",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "embedded_urls": [
+                                "http://www.subBlue.com"
+                            ],
+                            "exiftool": {
+                                "MIMEType": "text/plain",
+                                "FileType": "TXT",
+                                "WordCount": "4226",
+                                "LineCount": "699",
+                                "MIMEEncoding": "us-ascii",
+                                "FileTypeExtension": "txt",
+                                "Newlines": "Unix LF"
+                            },
+                            "trid": "HyperText Markup Language (100.0%)",
+                            "positives_delta": 2,
+                            "first_seen_itw": "2009-06-04 06:09:34"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "spellmanshow.com",
+                                "www.phpbb.com",
+                                "wwp.icq.com",
+                                "web.icq.com",
+                                "yoursupersearch.info"
+                            ],
+                            "email_parents": [],
+                            "magic": "ASCII HTML document text, with very long lines, with CRLF, LF line terminators",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "embedded_urls": [
+                                "http://www.subBlue.com"
+                            ],
+                            "exiftool": {
+                                "MIMEType": "text/plain",
+                                "FileType": "TXT",
+                                "WordCount": "4226",
+                                "LineCount": "699",
+                                "MIMEEncoding": "us-ascii",
+                                "FileTypeExtension": "txt",
+                                "Newlines": "Unix LF"
+                            },
+                            "trid": "HyperText Markup Language (100.0%)",
+                            "positives_delta": 2,
+                            "first_seen_itw": "2009-06-04 06:09:34"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "spellmanshow.com",
+                                "www.phpbb.com",
+                                "wwp.icq.com",
+                                "web.icq.com",
+                                "yoursupersearch.info"
+                            ],
+                            "email_parents": [],
+                            "magic": "ASCII HTML document text, with very long lines, with CRLF, LF line terminators",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "embedded_urls": [
+                                "http://www.subBlue.com"
+                            ],
+                            "exiftool": {
+                                "MIMEType": "text/plain",
+                                "FileType": "TXT",
+                                "WordCount": "4226",
+                                "LineCount": "699",
+                                "MIMEEncoding": "us-ascii",
+                                "FileTypeExtension": "txt",
+                                "Newlines": "Unix LF"
+                            },
+                            "trid": "HyperText Markup Language (100.0%)",
+                            "positives_delta": 2,
+                            "first_seen_itw": "2009-06-04 06:09:34"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "spellmanshow.com",
+                                "www.phpbb.com",
+                                "wwp.icq.com",
+                                "web.icq.com",
+                                "yoursupersearch.info"
+                            ],
+                            "email_parents": [],
+                            "magic": "ASCII HTML document text, with very long lines, with CRLF, LF line terminators",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "embedded_urls": [
+                                "http://www.subBlue.com"
+                            ],
+                            "exiftool": {
+                                "MIMEType": "text/plain",
+                                "FileType": "TXT",
+                                "WordCount": "4226",
+                                "LineCount": "699",
+                                "MIMEEncoding": "us-ascii",
+                                "FileTypeExtension": "txt",
+                                "Newlines": "Unix LF"
+                            },
+                            "trid": "HyperText Markup Language (100.0%)",
+                            "positives_delta": 2,
+                            "first_seen_itw": "2009-06-04 06:09:34"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "spellmanshow.com",
+                                "www.phpbb.com",
+                                "wwp.icq.com",
+                                "web.icq.com",
+                                "yoursupersearch.info"
+                            ],
+                            "email_parents": [],
+                            "magic": "ASCII HTML document text, with very long lines, with CRLF, LF line terminators",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "embedded_urls": [
+                                "http://www.subBlue.com"
+                            ],
+                            "exiftool": {
+                                "MIMEType": "text/plain",
+                                "FileType": "TXT",
+                                "WordCount": "4226",
+                                "LineCount": "699",
+                                "MIMEEncoding": "us-ascii",
+                                "FileTypeExtension": "txt",
+                                "Newlines": "Unix LF"
+                            },
+                            "trid": "HyperText Markup Language (100.0%)",
+                            "positives_delta": 2,
+                            "first_seen_itw": "2009-06-04 06:09:34"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "spellmanshow.com",
+                                "www.phpbb.com",
+                                "wwp.icq.com",
+                                "web.icq.com",
+                                "yoursupersearch.info"
+                            ],
+                            "email_parents": [],
+                            "magic": "ASCII HTML document text, with very long lines, with CRLF, LF line terminators",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "embedded_urls": [
+                                "http://www.subBlue.com"
+                            ],
+                            "exiftool": {
+                                "MIMEType": "text/plain",
+                                "FileType": "TXT",
+                                "WordCount": "4226",
+                                "LineCount": "699",
+                                "MIMEEncoding": "us-ascii",
+                                "FileTypeExtension": "txt",
+                                "Newlines": "Unix LF"
+                            },
+                            "trid": "HyperText Markup Language (100.0%)",
+                            "positives_delta": 2,
+                            "first_seen_itw": "2009-06-04 06:09:34"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "spellmanshow.com",
+                                "www.phpbb.com",
+                                "wwp.icq.com",
+                                "web.icq.com",
+                                "yoursupersearch.info"
+                            ],
+                            "email_parents": [],
+                            "magic": "ASCII HTML document text, with very long lines, with CRLF, LF line terminators",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "embedded_urls": [
+                                "http://www.subBlue.com"
+                            ],
+                            "exiftool": {
+                                "MIMEType": "text/plain",
+                                "FileType": "TXT",
+                                "WordCount": "4226",
+                                "LineCount": "699",
+                                "MIMEEncoding": "us-ascii",
+                                "FileTypeExtension": "txt",
+                                "Newlines": "Unix LF"
+                            },
+                            "trid": "HyperText Markup Language (100.0%)",
+                            "positives_delta": 2,
+                            "first_seen_itw": "2009-06-04 06:09:34"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "spellmanshow.com",
+                                "www.phpbb.com",
+                                "wwp.icq.com",
+                                "web.icq.com",
+                                "yoursupersearch.info"
+                            ],
+                            "email_parents": [],
+                            "magic": "ASCII HTML document text, with very long lines, with CRLF, LF line terminators",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "embedded_urls": [
+                                "http://www.subBlue.com"
+                            ],
+                            "exiftool": {
+                                "MIMEType": "text/plain",
+                                "FileType": "TXT",
+                                "WordCount": "4226",
+                                "LineCount": "699",
+                                "MIMEEncoding": "us-ascii",
+                                "FileTypeExtension": "txt",
+                                "Newlines": "Unix LF"
+                            },
+                            "trid": "HyperText Markup Language (100.0%)",
+                            "positives_delta": 2,
+                            "first_seen_itw": "2009-06-04 06:09:34"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "spellmanshow.com",
+                                "www.phpbb.com",
+                                "wwp.icq.com",
+                                "web.icq.com",
+                                "yoursupersearch.info"
+                            ],
+                            "email_parents": [],
+                            "magic": "ASCII HTML document text, with very long lines, with CRLF, LF line terminators",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "embedded_urls": [
+                                "http://www.subBlue.com"
+                            ],
+                            "exiftool": {
+                                "MIMEType": "text/plain",
+                                "FileType": "TXT",
+                                "WordCount": "4226",
+                                "LineCount": "699",
+                                "MIMEEncoding": "us-ascii",
+                                "FileTypeExtension": "txt",
+                                "Newlines": "Unix LF"
+                            },
+                            "trid": "HyperText Markup Language (100.0%)",
+                            "positives_delta": 2,
+                            "first_seen_itw": "2009-06-04 06:09:34"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "spellmanshow.com",
+                                "www.phpbb.com",
+                                "wwp.icq.com",
+                                "web.icq.com",
+                                "yoursupersearch.info"
+                            ],
+                            "email_parents": [],
+                            "magic": "ASCII HTML document text, with very long lines, with CRLF, LF line terminators",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "embedded_urls": [
+                                "http://www.subBlue.com"
+                            ],
+                            "exiftool": {
+                                "MIMEType": "text/plain",
+                                "FileType": "TXT",
+                                "WordCount": "4226",
+                                "LineCount": "699",
+                                "MIMEEncoding": "us-ascii",
+                                "FileTypeExtension": "txt",
+                                "Newlines": "Unix LF"
+                            },
+                            "trid": "HyperText Markup Language (100.0%)",
+                            "positives_delta": 2,
+                            "first_seen_itw": "2009-06-04 06:09:34"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "spellmanshow.com",
+                                "www.phpbb.com",
+                                "wwp.icq.com",
+                                "web.icq.com",
+                                "yoursupersearch.info"
+                            ],
+                            "email_parents": [],
+                            "magic": "ASCII HTML document text, with very long lines, with CRLF, LF line terminators",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "embedded_urls": [
+                                "http://www.subBlue.com"
+                            ],
+                            "exiftool": {
+                                "MIMEType": "text/plain",
+                                "FileType": "TXT",
+                                "WordCount": "4226",
+                                "LineCount": "699",
+                                "MIMEEncoding": "us-ascii",
+                                "FileTypeExtension": "txt",
+                                "Newlines": "Unix LF"
+                            },
+                            "trid": "HyperText Markup Language (100.0%)",
+                            "positives_delta": 2,
+                            "first_seen_itw": "2009-06-04 06:09:34"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "spellmanshow.com",
+                                "www.phpbb.com",
+                                "wwp.icq.com",
+                                "web.icq.com",
+                                "yoursupersearch.info"
+                            ],
+                            "email_parents": [],
+                            "magic": "ASCII HTML document text, with very long lines, with CRLF, LF line terminators",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "embedded_urls": [
+                                "http://www.subBlue.com"
+                            ],
+                            "exiftool": {
+                                "MIMEType": "text/plain",
+                                "FileType": "TXT",
+                                "WordCount": "4226",
+                                "LineCount": "699",
+                                "MIMEEncoding": "us-ascii",
+                                "FileTypeExtension": "txt",
+                                "Newlines": "Unix LF"
+                            },
+                            "trid": "HyperText Markup Language (100.0%)",
+                            "positives_delta": 2,
+                            "first_seen_itw": "2009-06-04 06:09:34"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "spellmanshow.com",
+                                "www.phpbb.com",
+                                "wwp.icq.com",
+                                "web.icq.com",
+                                "yoursupersearch.info"
+                            ],
+                            "email_parents": [],
+                            "magic": "ASCII HTML document text, with very long lines, with CRLF, LF line terminators",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "embedded_urls": [
+                                "http://www.subBlue.com"
+                            ],
+                            "exiftool": {
+                                "MIMEType": "text/plain",
+                                "FileType": "TXT",
+                                "WordCount": "4226",
+                                "LineCount": "699",
+                                "MIMEEncoding": "us-ascii",
+                                "FileTypeExtension": "txt",
+                                "Newlines": "Unix LF"
+                            },
+                            "trid": "HyperText Markup Language (100.0%)",
+                            "positives_delta": 2,
+                            "first_seen_itw": "2009-06-04 06:09:34"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "spellmanshow.com",
+                                "www.phpbb.com",
+                                "wwp.icq.com",
+                                "web.icq.com",
+                                "yoursupersearch.info"
+                            ],
+                            "email_parents": [],
+                            "magic": "ASCII HTML document text, with very long lines, with CRLF, LF line terminators",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "embedded_urls": [
+                                "http://www.subBlue.com"
+                            ],
+                            "exiftool": {
+                                "MIMEType": "text/plain",
+                                "FileType": "TXT",
+                                "WordCount": "4226",
+                                "LineCount": "699",
+                                "MIMEEncoding": "us-ascii",
+                                "FileTypeExtension": "txt",
+                                "Newlines": "Unix LF"
+                            },
+                            "trid": "HyperText Markup Language (100.0%)",
+                            "positives_delta": 2,
+                            "first_seen_itw": "2009-06-04 06:09:34"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "spellmanshow.com",
+                                "www.phpbb.com",
+                                "wwp.icq.com",
+                                "web.icq.com",
+                                "yoursupersearch.info"
+                            ],
+                            "email_parents": [],
+                            "magic": "ASCII HTML document text, with very long lines, with CRLF, LF line terminators",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "embedded_urls": [
+                                "http://www.subBlue.com"
+                            ],
+                            "exiftool": {
+                                "MIMEType": "text/plain",
+                                "FileType": "TXT",
+                                "WordCount": "4226",
+                                "LineCount": "699",
+                                "MIMEEncoding": "us-ascii",
+                                "FileTypeExtension": "txt",
+                                "Newlines": "Unix LF"
+                            },
+                            "trid": "HyperText Markup Language (100.0%)",
+                            "positives_delta": 2,
+                            "first_seen_itw": "2009-06-04 06:09:34"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "spellmanshow.com",
+                                "www.phpbb.com",
+                                "wwp.icq.com",
+                                "web.icq.com",
+                                "yoursupersearch.info"
+                            ],
+                            "email_parents": [],
+                            "magic": "ASCII HTML document text, with very long lines, with CRLF, LF line terminators",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "embedded_urls": [
+                                "http://www.subBlue.com"
+                            ],
+                            "exiftool": {
+                                "MIMEType": "text/plain",
+                                "FileType": "TXT",
+                                "WordCount": "4226",
+                                "LineCount": "699",
+                                "MIMEEncoding": "us-ascii",
+                                "FileTypeExtension": "txt",
+                                "Newlines": "Unix LF"
+                            },
+                            "trid": "HyperText Markup Language (100.0%)",
+                            "positives_delta": 2,
+                            "first_seen_itw": "2009-06-04 06:09:34"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "spellmanshow.com",
+                                "www.phpbb.com",
+                                "wwp.icq.com",
+                                "web.icq.com",
+                                "yoursupersearch.info"
+                            ],
+                            "email_parents": [],
+                            "magic": "ASCII HTML document text, with very long lines, with CRLF, LF line terminators",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "embedded_urls": [
+                                "http://www.subBlue.com"
+                            ],
+                            "exiftool": {
+                                "MIMEType": "text/plain",
+                                "FileType": "TXT",
+                                "WordCount": "4226",
+                                "LineCount": "699",
+                                "MIMEEncoding": "us-ascii",
+                                "FileTypeExtension": "txt",
+                                "Newlines": "Unix LF"
+                            },
+                            "trid": "HyperText Markup Language (100.0%)",
+                            "positives_delta": 2,
+                            "first_seen_itw": "2009-06-04 06:09:34"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "spellmanshow.com",
+                                "www.phpbb.com",
+                                "wwp.icq.com",
+                                "web.icq.com",
+                                "yoursupersearch.info"
+                            ],
+                            "email_parents": [],
+                            "magic": "ASCII HTML document text, with very long lines, with CRLF, LF line terminators",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "embedded_urls": [
+                                "http://www.subBlue.com"
+                            ],
+                            "exiftool": {
+                                "MIMEType": "text/plain",
+                                "FileType": "TXT",
+                                "WordCount": "4226",
+                                "LineCount": "699",
+                                "MIMEEncoding": "us-ascii",
+                                "FileTypeExtension": "txt",
+                                "Newlines": "Unix LF"
+                            },
+                            "trid": "HyperText Markup Language (100.0%)",
+                            "positives_delta": 2,
+                            "first_seen_itw": "2009-06-04 06:09:34"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "spellmanshow.com",
+                                "www.phpbb.com",
+                                "wwp.icq.com",
+                                "web.icq.com",
+                                "yoursupersearch.info"
+                            ],
+                            "email_parents": [],
+                            "magic": "ASCII HTML document text, with very long lines, with CRLF, LF line terminators",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "embedded_urls": [
+                                "http://www.subBlue.com"
+                            ],
+                            "exiftool": {
+                                "MIMEType": "text/plain",
+                                "FileType": "TXT",
+                                "WordCount": "4226",
+                                "LineCount": "699",
+                                "MIMEEncoding": "us-ascii",
+                                "FileTypeExtension": "txt",
+                                "Newlines": "Unix LF"
+                            },
+                            "trid": "HyperText Markup Language (100.0%)",
+                            "positives_delta": 2,
+                            "first_seen_itw": "2009-06-04 06:09:34"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "spellmanshow.com",
+                                "www.phpbb.com",
+                                "wwp.icq.com",
+                                "web.icq.com",
+                                "yoursupersearch.info"
+                            ],
+                            "email_parents": [],
+                            "magic": "ASCII HTML document text, with very long lines, with CRLF, LF line terminators",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "embedded_urls": [
+                                "http://www.subBlue.com"
+                            ],
+                            "exiftool": {
+                                "MIMEType": "text/plain",
+                                "FileType": "TXT",
+                                "WordCount": "4226",
+                                "LineCount": "699",
+                                "MIMEEncoding": "us-ascii",
+                                "FileTypeExtension": "txt",
+                                "Newlines": "Unix LF"
+                            },
+                            "trid": "HyperText Markup Language (100.0%)",
+                            "positives_delta": 2,
+                            "first_seen_itw": "2009-06-04 06:09:34"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "spellmanshow.com",
+                                "www.phpbb.com",
+                                "wwp.icq.com",
+                                "web.icq.com",
+                                "yoursupersearch.info"
+                            ],
+                            "email_parents": [],
+                            "magic": "ASCII HTML document text, with very long lines, with CRLF, LF line terminators",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "embedded_urls": [
+                                "http://www.subBlue.com"
+                            ],
+                            "exiftool": {
+                                "MIMEType": "text/plain",
+                                "FileType": "TXT",
+                                "WordCount": "4226",
+                                "LineCount": "699",
+                                "MIMEEncoding": "us-ascii",
+                                "FileTypeExtension": "txt",
+                                "Newlines": "Unix LF"
+                            },
+                            "trid": "HyperText Markup Language (100.0%)",
+                            "positives_delta": 2,
+                            "first_seen_itw": "2009-06-04 06:09:34"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "spellmanshow.com",
+                                "www.phpbb.com",
+                                "wwp.icq.com",
+                                "web.icq.com",
+                                "yoursupersearch.info"
+                            ],
+                            "email_parents": [],
+                            "magic": "ASCII HTML document text, with very long lines, with CRLF, LF line terminators",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "embedded_urls": [
+                                "http://www.subBlue.com"
+                            ],
+                            "exiftool": {
+                                "MIMEType": "text/plain",
+                                "FileType": "TXT",
+                                "WordCount": "4226",
+                                "LineCount": "699",
+                                "MIMEEncoding": "us-ascii",
+                                "FileTypeExtension": "txt",
+                                "Newlines": "Unix LF"
+                            },
+                            "trid": "HyperText Markup Language (100.0%)",
+                            "positives_delta": 2,
+                            "first_seen_itw": "2009-06-04 06:09:34"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "spellmanshow.com",
+                                "www.phpbb.com",
+                                "wwp.icq.com",
+                                "web.icq.com",
+                                "yoursupersearch.info"
+                            ],
+                            "email_parents": [],
+                            "magic": "ASCII HTML document text, with very long lines, with CRLF, LF line terminators",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "embedded_urls": [
+                                "http://www.subBlue.com"
+                            ],
+                            "exiftool": {
+                                "MIMEType": "text/plain",
+                                "FileType": "TXT",
+                                "WordCount": "4226",
+                                "LineCount": "699",
+                                "MIMEEncoding": "us-ascii",
+                                "FileTypeExtension": "txt",
+                                "Newlines": "Unix LF"
+                            },
+                            "trid": "HyperText Markup Language (100.0%)",
+                            "positives_delta": 2,
+                            "first_seen_itw": "2009-06-04 06:09:34"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "spellmanshow.com",
+                                "www.phpbb.com",
+                                "wwp.icq.com",
+                                "web.icq.com",
+                                "yoursupersearch.info"
+                            ],
+                            "email_parents": [],
+                            "magic": "ASCII HTML document text, with very long lines, with CRLF, LF line terminators",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "embedded_urls": [
+                                "http://www.subBlue.com"
+                            ],
+                            "exiftool": {
+                                "MIMEType": "text/plain",
+                                "FileType": "TXT",
+                                "WordCount": "4226",
+                                "LineCount": "699",
+                                "MIMEEncoding": "us-ascii",
+                                "FileTypeExtension": "txt",
+                                "Newlines": "Unix LF"
+                            },
+                            "trid": "HyperText Markup Language (100.0%)",
+                            "positives_delta": 2,
+                            "first_seen_itw": "2009-06-04 06:09:34"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "spellmanshow.com",
+                                "www.phpbb.com",
+                                "wwp.icq.com",
+                                "web.icq.com",
+                                "yoursupersearch.info"
+                            ],
+                            "email_parents": [],
+                            "magic": "ASCII HTML document text, with very long lines, with CRLF, LF line terminators",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "embedded_urls": [
+                                "http://www.subBlue.com"
+                            ],
+                            "exiftool": {
+                                "MIMEType": "text/plain",
+                                "FileType": "TXT",
+                                "WordCount": "4226",
+                                "LineCount": "699",
+                                "MIMEEncoding": "us-ascii",
+                                "FileTypeExtension": "txt",
+                                "Newlines": "Unix LF"
+                            },
+                            "trid": "HyperText Markup Language (100.0%)",
+                            "positives_delta": 2,
+                            "first_seen_itw": "2009-06-04 06:09:34"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "spellmanshow.com",
+                                "www.phpbb.com",
+                                "wwp.icq.com",
+                                "web.icq.com",
+                                "yoursupersearch.info"
+                            ],
+                            "email_parents": [],
+                            "magic": "ASCII HTML document text, with very long lines, with CRLF, LF line terminators",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "embedded_urls": [
+                                "http://www.subBlue.com"
+                            ],
+                            "exiftool": {
+                                "MIMEType": "text/plain",
+                                "FileType": "TXT",
+                                "WordCount": "4226",
+                                "LineCount": "699",
+                                "MIMEEncoding": "us-ascii",
+                                "FileTypeExtension": "txt",
+                                "Newlines": "Unix LF"
+                            },
+                            "trid": "HyperText Markup Language (100.0%)",
+                            "positives_delta": 2,
+                            "first_seen_itw": "2009-06-04 06:09:34"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "spellmanshow.com",
+                                "www.phpbb.com",
+                                "wwp.icq.com",
+                                "web.icq.com",
+                                "yoursupersearch.info"
+                            ],
+                            "email_parents": [],
+                            "magic": "ASCII HTML document text, with very long lines, with CRLF, LF line terminators",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "embedded_urls": [
+                                "http://www.subBlue.com"
+                            ],
+                            "exiftool": {
+                                "MIMEType": "text/plain",
+                                "FileType": "TXT",
+                                "WordCount": "4226",
+                                "LineCount": "699",
+                                "MIMEEncoding": "us-ascii",
+                                "FileTypeExtension": "txt",
+                                "Newlines": "Unix LF"
+                            },
+                            "trid": "HyperText Markup Language (100.0%)",
+                            "positives_delta": 2,
+                            "first_seen_itw": "2009-06-04 06:09:34"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "spellmanshow.com",
+                                "www.phpbb.com",
+                                "wwp.icq.com",
+                                "web.icq.com",
+                                "yoursupersearch.info"
+                            ],
+                            "email_parents": [],
+                            "magic": "ASCII HTML document text, with very long lines, with CRLF, LF line terminators",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "embedded_urls": [
+                                "http://www.subBlue.com"
+                            ],
+                            "exiftool": {
+                                "MIMEType": "text/plain",
+                                "FileType": "TXT",
+                                "WordCount": "4226",
+                                "LineCount": "699",
+                                "MIMEEncoding": "us-ascii",
+                                "FileTypeExtension": "txt",
+                                "Newlines": "Unix LF"
+                            },
+                            "trid": "HyperText Markup Language (100.0%)",
+                            "positives_delta": 2,
+                            "first_seen_itw": "2009-06-04 06:09:34"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "spellmanshow.com",
+                                "www.phpbb.com",
+                                "wwp.icq.com",
+                                "web.icq.com",
+                                "yoursupersearch.info"
+                            ],
+                            "email_parents": [],
+                            "magic": "ASCII HTML document text, with very long lines, with CRLF, LF line terminators",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "embedded_urls": [
+                                "http://www.subBlue.com"
+                            ],
+                            "exiftool": {
+                                "MIMEType": "text/plain",
+                                "FileType": "TXT",
+                                "WordCount": "4226",
+                                "LineCount": "699",
+                                "MIMEEncoding": "us-ascii",
+                                "FileTypeExtension": "txt",
+                                "Newlines": "Unix LF"
+                            },
+                            "trid": "HyperText Markup Language (100.0%)",
+                            "positives_delta": 2,
+                            "first_seen_itw": "2009-06-04 06:09:34"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "spellmanshow.com",
+                                "www.phpbb.com",
+                                "wwp.icq.com",
+                                "web.icq.com",
+                                "yoursupersearch.info"
+                            ],
+                            "email_parents": [],
+                            "magic": "ASCII HTML document text, with very long lines, with CRLF, LF line terminators",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "embedded_urls": [
+                                "http://www.subBlue.com"
+                            ],
+                            "exiftool": {
+                                "MIMEType": "text/plain",
+                                "FileType": "TXT",
+                                "WordCount": "4226",
+                                "LineCount": "699",
+                                "MIMEEncoding": "us-ascii",
+                                "FileTypeExtension": "txt",
+                                "Newlines": "Unix LF"
+                            },
+                            "trid": "HyperText Markup Language (100.0%)",
+                            "positives_delta": 2,
+                            "first_seen_itw": "2009-06-04 06:09:34"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "spellmanshow.com",
+                                "www.phpbb.com",
+                                "wwp.icq.com",
+                                "web.icq.com",
+                                "yoursupersearch.info"
+                            ],
+                            "email_parents": [],
+                            "magic": "ASCII HTML document text, with very long lines, with CRLF, LF line terminators",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "embedded_urls": [
+                                "http://www.subBlue.com"
+                            ],
+                            "exiftool": {
+                                "MIMEType": "text/plain",
+                                "FileType": "TXT",
+                                "WordCount": "4226",
+                                "LineCount": "699",
+                                "MIMEEncoding": "us-ascii",
+                                "FileTypeExtension": "txt",
+                                "Newlines": "Unix LF"
+                            },
+                            "trid": "HyperText Markup Language (100.0%)",
+                            "positives_delta": 2,
+                            "first_seen_itw": "2009-06-04 06:09:34"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "spellmanshow.com",
+                                "www.phpbb.com",
+                                "wwp.icq.com",
+                                "web.icq.com",
+                                "yoursupersearch.info"
+                            ],
+                            "email_parents": [],
+                            "magic": "ASCII HTML document text, with very long lines, with CRLF, LF line terminators",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "embedded_urls": [
+                                "http://www.subBlue.com"
+                            ],
+                            "exiftool": {
+                                "MIMEType": "text/plain",
+                                "FileType": "TXT",
+                                "WordCount": "4226",
+                                "LineCount": "699",
+                                "MIMEEncoding": "us-ascii",
+                                "FileTypeExtension": "txt",
+                                "Newlines": "Unix LF"
+                            },
+                            "trid": "HyperText Markup Language (100.0%)",
+                            "positives_delta": 2,
+                            "first_seen_itw": "2009-06-04 06:09:34"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "spellmanshow.com",
+                                "www.phpbb.com",
+                                "wwp.icq.com",
+                                "web.icq.com",
+                                "yoursupersearch.info"
+                            ],
+                            "email_parents": [],
+                            "magic": "ASCII HTML document text, with very long lines, with CRLF, LF line terminators",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "embedded_urls": [
+                                "http://www.subBlue.com"
+                            ],
+                            "exiftool": {
+                                "MIMEType": "text/plain",
+                                "FileType": "TXT",
+                                "WordCount": "4226",
+                                "LineCount": "699",
+                                "MIMEEncoding": "us-ascii",
+                                "FileTypeExtension": "txt",
+                                "Newlines": "Unix LF"
+                            },
+                            "trid": "HyperText Markup Language (100.0%)",
+                            "positives_delta": 2,
+                            "first_seen_itw": "2009-06-04 06:09:34"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "spellmanshow.com",
+                                "www.phpbb.com",
+                                "wwp.icq.com",
+                                "web.icq.com",
+                                "yoursupersearch.info"
+                            ],
+                            "email_parents": [],
+                            "magic": "ASCII HTML document text, with very long lines, with CRLF, LF line terminators",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "embedded_urls": [
+                                "http://www.subBlue.com"
+                            ],
+                            "exiftool": {
+                                "MIMEType": "text/plain",
+                                "FileType": "TXT",
+                                "WordCount": "4226",
+                                "LineCount": "699",
+                                "MIMEEncoding": "us-ascii",
+                                "FileTypeExtension": "txt",
+                                "Newlines": "Unix LF"
+                            },
+                            "trid": "HyperText Markup Language (100.0%)",
+                            "positives_delta": 2,
+                            "first_seen_itw": "2009-06-04 06:09:34"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "spellmanshow.com",
+                                "www.phpbb.com",
+                                "wwp.icq.com",
+                                "web.icq.com",
+                                "yoursupersearch.info"
+                            ],
+                            "email_parents": [],
+                            "magic": "ASCII HTML document text, with very long lines, with CRLF, LF line terminators",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "embedded_urls": [
+                                "http://www.subBlue.com"
+                            ],
+                            "exiftool": {
+                                "MIMEType": "text/plain",
+                                "FileType": "TXT",
+                                "WordCount": "4226",
+                                "LineCount": "699",
+                                "MIMEEncoding": "us-ascii",
+                                "FileTypeExtension": "txt",
+                                "Newlines": "Unix LF"
+                            },
+                            "trid": "HyperText Markup Language (100.0%)",
+                            "positives_delta": 2,
+                            "first_seen_itw": "2009-06-04 06:09:34"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "spellmanshow.com",
+                                "www.phpbb.com",
+                                "wwp.icq.com",
+                                "web.icq.com",
+                                "yoursupersearch.info"
+                            ],
+                            "email_parents": [],
+                            "magic": "ASCII HTML document text, with very long lines, with CRLF, LF line terminators",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "embedded_urls": [
+                                "http://www.subBlue.com"
+                            ],
+                            "exiftool": {
+                                "MIMEType": "text/plain",
+                                "FileType": "TXT",
+                                "WordCount": "4226",
+                                "LineCount": "699",
+                                "MIMEEncoding": "us-ascii",
+                                "FileTypeExtension": "txt",
+                                "Newlines": "Unix LF"
+                            },
+                            "trid": "HyperText Markup Language (100.0%)",
+                            "positives_delta": 2,
+                            "first_seen_itw": "2009-06-04 06:09:34"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

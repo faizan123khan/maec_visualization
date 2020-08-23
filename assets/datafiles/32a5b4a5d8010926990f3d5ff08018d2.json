@@ -1,0 +1,584 @@
+{
+    "type": "package",
+    "id": "package--983a216f-6afb-4967-b699-d27450b039fc",
+    "schema_version": "5.0",
+    "maec_objects": [
+        {
+            "type": "malware-instance",
+            "id": "malware-instance--368bf9eb-f847-4876-9e4a-4d08e2939a12",
+            "instance_object_refs": [
+                "0"
+            ],
+            "analysis_metadata": [
+                {
+                    "is_automated": true,
+                    "analysis_type": "static",
+                    "description": "Created by VirusTotal to MAEC (http://github.com/MAECProject/vt-to-maec)"
+                }
+            ]
+        }
+    ],
+    "observable_objects": {
+        "0": {
+            "type": "file",
+            "hashes": {
+                "MD5": "32a5b4a5d8010926990f3d5ff08018d2",
+                "SHA-1": "180162e26d7ff0e4439475aeafe3b45e514f3871",
+                "SHA-256": "67e7c8db0849d96c48051813a072862202e6687014876381c5b4d08d9b2c0792"
+            },
+            "extensions": {
+                "x-maec-avclass": [
+                    {
+                        "classification_name": null,
+                        "scan_date": "2019-12-12 08:07:34",
+                        "is_detected": false,
+                        "av_name": "Bkav",
+                        "av_vendor": "Bkav",
+                        "av_engine_version": "1.3.0.9899",
+                        "av_definition_version": "20191212"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2019-12-12 08:07:34",
+                        "is_detected": false,
+                        "av_name": "MicroWorld-eScan",
+                        "av_vendor": "MicroWorld-eScan",
+                        "av_engine_version": "14.0.297.0",
+                        "av_definition_version": "20191212"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2019-12-12 08:07:34",
+                        "is_detected": false,
+                        "av_name": "FireEye",
+                        "av_vendor": "FireEye",
+                        "av_engine_version": "29.7.0.0",
+                        "av_definition_version": "20191212"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2019-12-12 08:07:34",
+                        "is_detected": false,
+                        "av_name": "CAT-QuickHeal",
+                        "av_vendor": "CAT-QuickHeal",
+                        "av_engine_version": "14.00",
+                        "av_definition_version": "20191211"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2019-12-12 08:07:34",
+                        "is_detected": false,
+                        "av_name": "McAfee",
+                        "av_vendor": "McAfee",
+                        "av_engine_version": "6.0.6.653",
+                        "av_definition_version": "20191212"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2019-12-12 08:07:34",
+                        "is_detected": false,
+                        "av_name": "Malwarebytes",
+                        "av_vendor": "Malwarebytes",
+                        "av_engine_version": "2.1.1.1115",
+                        "av_definition_version": "20191212"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2019-12-12 08:07:34",
+                        "is_detected": false,
+                        "av_name": "Zillya",
+                        "av_vendor": "Zillya",
+                        "av_engine_version": "2.0.0.3973",
+                        "av_definition_version": "20191211"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2019-12-12 08:07:34",
+                        "is_detected": false,
+                        "av_name": "SUPERAntiSpyware",
+                        "av_vendor": "SUPERAntiSpyware",
+                        "av_engine_version": "5.6.0.1032",
+                        "av_definition_version": "20191210"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2019-12-12 08:07:34",
+                        "is_detected": false,
+                        "av_name": "Sangfor",
+                        "av_vendor": "Sangfor",
+                        "av_engine_version": "1.0",
+                        "av_definition_version": "20191031"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2019-12-12 08:07:34",
+                        "is_detected": false,
+                        "av_name": "Trustlook",
+                        "av_vendor": "Trustlook",
+                        "av_engine_version": "1.0",
+                        "av_definition_version": "20191212"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2019-12-12 08:07:34",
+                        "is_detected": false,
+                        "av_name": "Alibaba",
+                        "av_vendor": "Alibaba",
+                        "av_engine_version": "0.3.0.5",
+                        "av_definition_version": "20190527"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2019-12-12 08:07:34",
+                        "is_detected": false,
+                        "av_name": "K7GW",
+                        "av_vendor": "K7GW",
+                        "av_engine_version": "11.84.32808",
+                        "av_definition_version": "20191212"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2019-12-12 08:07:34",
+                        "is_detected": false,
+                        "av_name": "K7AntiVirus",
+                        "av_vendor": "K7AntiVirus",
+                        "av_engine_version": "11.84.32808",
+                        "av_definition_version": "20191212"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2019-12-12 08:07:34",
+                        "is_detected": false,
+                        "av_name": "Baidu",
+                        "av_vendor": "Baidu",
+                        "av_engine_version": "1.0.0.2",
+                        "av_definition_version": "20190318"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2019-12-12 08:07:34",
+                        "is_detected": false,
+                        "av_name": "F-Prot",
+                        "av_vendor": "F-Prot",
+                        "av_engine_version": "4.7.1.166",
+                        "av_definition_version": "20191212"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2019-12-12 08:07:34",
+                        "is_detected": false,
+                        "av_name": "Symantec",
+                        "av_vendor": "Symantec",
+                        "av_engine_version": "1.11.0.0",
+                        "av_definition_version": "20191212"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2019-12-12 08:07:34",
+                        "is_detected": false,
+                        "av_name": "TotalDefense",
+                        "av_vendor": "TotalDefense",
+                        "av_engine_version": "37.1.62.1",
+                        "av_definition_version": "20191212"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2019-12-12 08:07:34",
+                        "is_detected": false,
+                        "av_name": "TrendMicro-HouseCall",
+                        "av_vendor": "TrendMicro-HouseCall",
+                        "av_engine_version": "10.0.0.1040",
+                        "av_definition_version": "20191212"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2019-12-12 08:07:34",
+                        "is_detected": false,
+                        "av_name": "Avast",
+                        "av_vendor": "Avast",
+                        "av_engine_version": "18.4.3895.0",
+                        "av_definition_version": "20191210"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2019-12-12 08:07:34",
+                        "is_detected": false,
+                        "av_name": "ClamAV",
+                        "av_vendor": "ClamAV",
+                        "av_engine_version": "0.102.1.0",
+                        "av_definition_version": "20191211"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2019-12-12 08:07:34",
+                        "is_detected": false,
+                        "av_name": "Kaspersky",
+                        "av_vendor": "Kaspersky",
+                        "av_engine_version": "15.0.1.13",
+                        "av_definition_version": "20191212"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2019-12-12 08:07:34",
+                        "is_detected": false,
+                        "av_name": "BitDefender",
+                        "av_vendor": "BitDefender",
+                        "av_engine_version": "7.2",
+                        "av_definition_version": "20191212"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2019-12-12 08:07:34",
+                        "is_detected": false,
+                        "av_name": "NANO-Antivirus",
+                        "av_vendor": "NANO-Antivirus",
+                        "av_engine_version": "1.0.134.24859",
+                        "av_definition_version": "20191212"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2019-12-12 08:07:34",
+                        "is_detected": false,
+                        "av_name": "AegisLab",
+                        "av_vendor": "AegisLab",
+                        "av_engine_version": "4.2",
+                        "av_definition_version": "20191212"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2019-12-12 08:07:34",
+                        "is_detected": false,
+                        "av_name": "Tencent",
+                        "av_vendor": "Tencent",
+                        "av_engine_version": "1.0.0.1",
+                        "av_definition_version": "20191212"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2019-12-12 08:07:34",
+                        "is_detected": false,
+                        "av_name": "Ad-Aware",
+                        "av_vendor": "Ad-Aware",
+                        "av_engine_version": "3.0.5.370",
+                        "av_definition_version": "20191212"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2019-12-12 08:07:34",
+                        "is_detected": false,
+                        "av_name": "Sophos",
+                        "av_vendor": "Sophos",
+                        "av_engine_version": "4.98.0",
+                        "av_definition_version": "20191212"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2019-12-12 08:07:34",
+                        "is_detected": false,
+                        "av_name": "Comodo",
+                        "av_vendor": "Comodo",
+                        "av_engine_version": "31832",
+                        "av_definition_version": "20191212"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2019-12-12 08:07:34",
+                        "is_detected": false,
+                        "av_name": "F-Secure",
+                        "av_vendor": "F-Secure",
+                        "av_engine_version": "12.0.86.52",
+                        "av_definition_version": "20191212"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2019-12-12 08:07:34",
+                        "is_detected": false,
+                        "av_name": "DrWeb",
+                        "av_vendor": "DrWeb",
+                        "av_engine_version": "7.0.42.9300",
+                        "av_definition_version": "20191212"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2019-12-12 08:07:34",
+                        "is_detected": false,
+                        "av_name": "VIPRE",
+                        "av_vendor": "VIPRE",
+                        "av_engine_version": "79972",
+                        "av_definition_version": "20191212"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2019-12-12 08:07:34",
+                        "is_detected": false,
+                        "av_name": "TrendMicro",
+                        "av_vendor": "TrendMicro",
+                        "av_engine_version": "11.0.0.1006",
+                        "av_definition_version": "20191212"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2019-12-12 08:07:34",
+                        "is_detected": false,
+                        "av_name": "McAfee-GW-Edition",
+                        "av_vendor": "McAfee-GW-Edition",
+                        "av_engine_version": "v2017.3010",
+                        "av_definition_version": "20191212"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2019-12-12 08:07:34",
+                        "is_detected": false,
+                        "av_name": "CMC",
+                        "av_vendor": "CMC",
+                        "av_engine_version": "1.1.0.977",
+                        "av_definition_version": "20190321"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2019-12-12 08:07:34",
+                        "is_detected": false,
+                        "av_name": "Emsisoft",
+                        "av_vendor": "Emsisoft",
+                        "av_engine_version": "2018.12.0.1641",
+                        "av_definition_version": "20191212"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2019-12-12 08:07:34",
+                        "is_detected": false,
+                        "av_name": "Cyren",
+                        "av_vendor": "Cyren",
+                        "av_engine_version": "6.2.2.2",
+                        "av_definition_version": "20191212"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2019-12-12 08:07:34",
+                        "is_detected": false,
+                        "av_name": "Jiangmin",
+                        "av_vendor": "Jiangmin",
+                        "av_engine_version": "16.0.100",
+                        "av_definition_version": "20191212"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2019-12-12 08:07:34",
+                        "is_detected": false,
+                        "av_name": "Avira",
+                        "av_vendor": "Avira",
+                        "av_engine_version": "8.3.3.8",
+                        "av_definition_version": "20191212"
+                    },
+                    {
+                        "classification_name": "W32/GOSME.ANI!tr.bdr",
+                        "scan_date": "2019-12-12 08:07:34",
+                        "is_detected": true,
+                        "av_name": "Fortinet",
+                        "av_vendor": "Fortinet",
+                        "av_engine_version": "6.2.137.0",
+                        "av_definition_version": "20191212"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2019-12-12 08:07:34",
+                        "is_detected": false,
+                        "av_name": "Antiy-AVL",
+                        "av_vendor": "Antiy-AVL",
+                        "av_engine_version": "3.0.0.1",
+                        "av_definition_version": "20191212"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2019-12-12 08:07:34",
+                        "is_detected": false,
+                        "av_name": "Kingsoft",
+                        "av_vendor": "Kingsoft",
+                        "av_engine_version": "2013.8.14.323",
+                        "av_definition_version": "20191212"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2019-12-12 08:07:34",
+                        "is_detected": false,
+                        "av_name": "Arcabit",
+                        "av_vendor": "Arcabit",
+                        "av_engine_version": "1.0.0.865",
+                        "av_definition_version": "20191212"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2019-12-12 08:07:34",
+                        "is_detected": false,
+                        "av_name": "ViRobot",
+                        "av_vendor": "ViRobot",
+                        "av_engine_version": "2014.3.20.0",
+                        "av_definition_version": "20191212"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2019-12-12 08:07:34",
+                        "is_detected": false,
+                        "av_name": "ZoneAlarm",
+                        "av_vendor": "ZoneAlarm",
+                        "av_engine_version": "1.0",
+                        "av_definition_version": "20191212"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2019-12-12 08:07:34",
+                        "is_detected": false,
+                        "av_name": "Avast-Mobile",
+                        "av_vendor": "Avast-Mobile",
+                        "av_engine_version": "191209-00",
+                        "av_definition_version": "20191209"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2019-12-12 08:07:34",
+                        "is_detected": false,
+                        "av_name": "Microsoft",
+                        "av_vendor": "Microsoft",
+                        "av_engine_version": "1.1.16600.7",
+                        "av_definition_version": "20191212"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2019-12-12 08:07:34",
+                        "is_detected": false,
+                        "av_name": "TACHYON",
+                        "av_vendor": "TACHYON",
+                        "av_engine_version": "2019-12-12.02",
+                        "av_definition_version": "20191212"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2019-12-12 08:07:34",
+                        "is_detected": false,
+                        "av_name": "AhnLab-V3",
+                        "av_vendor": "AhnLab-V3",
+                        "av_engine_version": "3.16.5.25880",
+                        "av_definition_version": "20191212"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2019-12-12 08:07:34",
+                        "is_detected": false,
+                        "av_name": "BitDefenderTheta",
+                        "av_vendor": "BitDefenderTheta",
+                        "av_engine_version": "7.2.37796.0",
+                        "av_definition_version": "20191212"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2019-12-12 08:07:34",
+                        "is_detected": false,
+                        "av_name": "ALYac",
+                        "av_vendor": "ALYac",
+                        "av_engine_version": "1.1.1.5",
+                        "av_definition_version": "20191212"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2019-12-12 08:07:34",
+                        "is_detected": false,
+                        "av_name": "MAX",
+                        "av_vendor": "MAX",
+                        "av_engine_version": "2019.9.16.1",
+                        "av_definition_version": "20191212"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2019-12-12 08:07:34",
+                        "is_detected": false,
+                        "av_name": "VBA32",
+                        "av_vendor": "VBA32",
+                        "av_engine_version": "4.2.0",
+                        "av_definition_version": "20191211"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2019-12-12 08:07:34",
+                        "is_detected": false,
+                        "av_name": "Zoner",
+                        "av_vendor": "Zoner",
+                        "av_engine_version": "1.0.0.1",
+                        "av_definition_version": "20191211"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2019-12-12 08:07:34",
+                        "is_detected": false,
+                        "av_name": "ESET-NOD32",
+                        "av_vendor": "ESET-NOD32",
+                        "av_engine_version": "20497",
+                        "av_definition_version": "20191212"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2019-12-12 08:07:34",
+                        "is_detected": false,
+                        "av_name": "Rising",
+                        "av_vendor": "Rising",
+                        "av_engine_version": "25.0.0.24",
+                        "av_definition_version": "20191211"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2019-12-12 08:07:34",
+                        "is_detected": false,
+                        "av_name": "Yandex",
+                        "av_vendor": "Yandex",
+                        "av_engine_version": "5.5.2.24",
+                        "av_definition_version": "20191211"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2019-12-12 08:07:34",
+                        "is_detected": false,
+                        "av_name": "Ikarus",
+                        "av_vendor": "Ikarus",
+                        "av_engine_version": "0.1.5.2",
+                        "av_definition_version": "20191211"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2019-12-12 08:07:34",
+                        "is_detected": false,
+                        "av_name": "GData",
+                        "av_vendor": "GData",
+                        "av_engine_version": "A:25.24228B:26.16966",
+                        "av_definition_version": "20191212"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2019-12-12 08:07:34",
+                        "is_detected": false,
+                        "av_name": "AVG",
+                        "av_vendor": "AVG",
+                        "av_engine_version": "18.4.3895.0",
+                        "av_definition_version": "20191210"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2019-12-12 08:07:34",
+                        "is_detected": false,
+                        "av_name": "Panda",
+                        "av_vendor": "Panda",
+                        "av_engine_version": "4.6.4.2",
+                        "av_definition_version": "20191211"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2019-12-12 08:07:34",
+                        "is_detected": false,
+                        "av_name": "Qihoo-360",
+                        "av_vendor": "Qihoo-360",
+                        "av_engine_version": "1.0.0.1120",
+                        "av_definition_version": "20191212"
+                    }
+                ]
+            }
+        }
+    }
+}

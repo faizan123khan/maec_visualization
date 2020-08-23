@@ -1,0 +1,1445 @@
+{
+    "type": "package",
+    "id": "package--5810029a-fd9b-45cb-9fde-f1fc5eb8c7aa",
+    "schema_version": "5.0",
+    "maec_objects": [
+        {
+            "type": "malware-instance",
+            "id": "malware-instance--e2be237c-3e35-45b8-a2ec-4d03a06a1862",
+            "instance_object_refs": [
+                "0"
+            ],
+            "analysis_metadata": []
+        }
+    ],
+    "observable_objects": {
+        "0": {
+            "type": "file",
+            "hashes": {
+                "MD5": "43d638012968e1c5ca8d5d6141aa3df1",
+                "SHA-1": "7e76504029af12660d45308663e1d9086f719b84",
+                "SHA-256": "e80ace7bc41cb6b95d9eb2860b8ec1772e771d58bdfda6c1b9d86d600c984fcb"
+            },
+            "extensions": {
+                "x-maec-avclass": [
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "garyreiswigauthor.com",
+                                "mad.ly",
+                                "gmpg.org"
+                            ],
+                            "email_parents": [],
+                            "magic": "HTML document text",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=UTF-8",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html",
+                                "Title": "What Others Are Saying About LAND RUSH \u00ab  Gary Reiswig"
+                            },
+                            "trid": "HyperText Markup Language with DOCTYPE (80.6%)\nHyperText Markup Language (19.3%)",
+                            "positives_delta": 1,
+                            "first_seen_itw": "2010-08-05 14:19:01"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "garyreiswigauthor.com",
+                                "mad.ly",
+                                "gmpg.org"
+                            ],
+                            "email_parents": [],
+                            "magic": "HTML document text",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=UTF-8",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html",
+                                "Title": "What Others Are Saying About LAND RUSH \u00ab  Gary Reiswig"
+                            },
+                            "trid": "HyperText Markup Language with DOCTYPE (80.6%)\nHyperText Markup Language (19.3%)",
+                            "positives_delta": 1,
+                            "first_seen_itw": "2010-08-05 14:19:01"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "garyreiswigauthor.com",
+                                "mad.ly",
+                                "gmpg.org"
+                            ],
+                            "email_parents": [],
+                            "magic": "HTML document text",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=UTF-8",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html",
+                                "Title": "What Others Are Saying About LAND RUSH \u00ab  Gary Reiswig"
+                            },
+                            "trid": "HyperText Markup Language with DOCTYPE (80.6%)\nHyperText Markup Language (19.3%)",
+                            "positives_delta": 1,
+                            "first_seen_itw": "2010-08-05 14:19:01"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "garyreiswigauthor.com",
+                                "mad.ly",
+                                "gmpg.org"
+                            ],
+                            "email_parents": [],
+                            "magic": "HTML document text",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=UTF-8",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html",
+                                "Title": "What Others Are Saying About LAND RUSH \u00ab  Gary Reiswig"
+                            },
+                            "trid": "HyperText Markup Language with DOCTYPE (80.6%)\nHyperText Markup Language (19.3%)",
+                            "positives_delta": 1,
+                            "first_seen_itw": "2010-08-05 14:19:01"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "garyreiswigauthor.com",
+                                "mad.ly",
+                                "gmpg.org"
+                            ],
+                            "email_parents": [],
+                            "magic": "HTML document text",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=UTF-8",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html",
+                                "Title": "What Others Are Saying About LAND RUSH \u00ab  Gary Reiswig"
+                            },
+                            "trid": "HyperText Markup Language with DOCTYPE (80.6%)\nHyperText Markup Language (19.3%)",
+                            "positives_delta": 1,
+                            "first_seen_itw": "2010-08-05 14:19:01"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "garyreiswigauthor.com",
+                                "mad.ly",
+                                "gmpg.org"
+                            ],
+                            "email_parents": [],
+                            "magic": "HTML document text",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=UTF-8",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html",
+                                "Title": "What Others Are Saying About LAND RUSH \u00ab  Gary Reiswig"
+                            },
+                            "trid": "HyperText Markup Language with DOCTYPE (80.6%)\nHyperText Markup Language (19.3%)",
+                            "positives_delta": 1,
+                            "first_seen_itw": "2010-08-05 14:19:01"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "garyreiswigauthor.com",
+                                "mad.ly",
+                                "gmpg.org"
+                            ],
+                            "email_parents": [],
+                            "magic": "HTML document text",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=UTF-8",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html",
+                                "Title": "What Others Are Saying About LAND RUSH \u00ab  Gary Reiswig"
+                            },
+                            "trid": "HyperText Markup Language with DOCTYPE (80.6%)\nHyperText Markup Language (19.3%)",
+                            "positives_delta": 1,
+                            "first_seen_itw": "2010-08-05 14:19:01"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "garyreiswigauthor.com",
+                                "mad.ly",
+                                "gmpg.org"
+                            ],
+                            "email_parents": [],
+                            "magic": "HTML document text",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=UTF-8",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html",
+                                "Title": "What Others Are Saying About LAND RUSH \u00ab  Gary Reiswig"
+                            },
+                            "trid": "HyperText Markup Language with DOCTYPE (80.6%)\nHyperText Markup Language (19.3%)",
+                            "positives_delta": 1,
+                            "first_seen_itw": "2010-08-05 14:19:01"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "garyreiswigauthor.com",
+                                "mad.ly",
+                                "gmpg.org"
+                            ],
+                            "email_parents": [],
+                            "magic": "HTML document text",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=UTF-8",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html",
+                                "Title": "What Others Are Saying About LAND RUSH \u00ab  Gary Reiswig"
+                            },
+                            "trid": "HyperText Markup Language with DOCTYPE (80.6%)\nHyperText Markup Language (19.3%)",
+                            "positives_delta": 1,
+                            "first_seen_itw": "2010-08-05 14:19:01"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "garyreiswigauthor.com",
+                                "mad.ly",
+                                "gmpg.org"
+                            ],
+                            "email_parents": [],
+                            "magic": "HTML document text",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=UTF-8",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html",
+                                "Title": "What Others Are Saying About LAND RUSH \u00ab  Gary Reiswig"
+                            },
+                            "trid": "HyperText Markup Language with DOCTYPE (80.6%)\nHyperText Markup Language (19.3%)",
+                            "positives_delta": 1,
+                            "first_seen_itw": "2010-08-05 14:19:01"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "garyreiswigauthor.com",
+                                "mad.ly",
+                                "gmpg.org"
+                            ],
+                            "email_parents": [],
+                            "magic": "HTML document text",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=UTF-8",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html",
+                                "Title": "What Others Are Saying About LAND RUSH \u00ab  Gary Reiswig"
+                            },
+                            "trid": "HyperText Markup Language with DOCTYPE (80.6%)\nHyperText Markup Language (19.3%)",
+                            "positives_delta": 1,
+                            "first_seen_itw": "2010-08-05 14:19:01"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "garyreiswigauthor.com",
+                                "mad.ly",
+                                "gmpg.org"
+                            ],
+                            "email_parents": [],
+                            "magic": "HTML document text",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=UTF-8",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html",
+                                "Title": "What Others Are Saying About LAND RUSH \u00ab  Gary Reiswig"
+                            },
+                            "trid": "HyperText Markup Language with DOCTYPE (80.6%)\nHyperText Markup Language (19.3%)",
+                            "positives_delta": 1,
+                            "first_seen_itw": "2010-08-05 14:19:01"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "garyreiswigauthor.com",
+                                "mad.ly",
+                                "gmpg.org"
+                            ],
+                            "email_parents": [],
+                            "magic": "HTML document text",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=UTF-8",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html",
+                                "Title": "What Others Are Saying About LAND RUSH \u00ab  Gary Reiswig"
+                            },
+                            "trid": "HyperText Markup Language with DOCTYPE (80.6%)\nHyperText Markup Language (19.3%)",
+                            "positives_delta": 1,
+                            "first_seen_itw": "2010-08-05 14:19:01"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "garyreiswigauthor.com",
+                                "mad.ly",
+                                "gmpg.org"
+                            ],
+                            "email_parents": [],
+                            "magic": "HTML document text",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=UTF-8",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html",
+                                "Title": "What Others Are Saying About LAND RUSH \u00ab  Gary Reiswig"
+                            },
+                            "trid": "HyperText Markup Language with DOCTYPE (80.6%)\nHyperText Markup Language (19.3%)",
+                            "positives_delta": 1,
+                            "first_seen_itw": "2010-08-05 14:19:01"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "garyreiswigauthor.com",
+                                "mad.ly",
+                                "gmpg.org"
+                            ],
+                            "email_parents": [],
+                            "magic": "HTML document text",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=UTF-8",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html",
+                                "Title": "What Others Are Saying About LAND RUSH \u00ab  Gary Reiswig"
+                            },
+                            "trid": "HyperText Markup Language with DOCTYPE (80.6%)\nHyperText Markup Language (19.3%)",
+                            "positives_delta": 1,
+                            "first_seen_itw": "2010-08-05 14:19:01"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "garyreiswigauthor.com",
+                                "mad.ly",
+                                "gmpg.org"
+                            ],
+                            "email_parents": [],
+                            "magic": "HTML document text",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=UTF-8",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html",
+                                "Title": "What Others Are Saying About LAND RUSH \u00ab  Gary Reiswig"
+                            },
+                            "trid": "HyperText Markup Language with DOCTYPE (80.6%)\nHyperText Markup Language (19.3%)",
+                            "positives_delta": 1,
+                            "first_seen_itw": "2010-08-05 14:19:01"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "garyreiswigauthor.com",
+                                "mad.ly",
+                                "gmpg.org"
+                            ],
+                            "email_parents": [],
+                            "magic": "HTML document text",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=UTF-8",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html",
+                                "Title": "What Others Are Saying About LAND RUSH \u00ab  Gary Reiswig"
+                            },
+                            "trid": "HyperText Markup Language with DOCTYPE (80.6%)\nHyperText Markup Language (19.3%)",
+                            "positives_delta": 1,
+                            "first_seen_itw": "2010-08-05 14:19:01"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "garyreiswigauthor.com",
+                                "mad.ly",
+                                "gmpg.org"
+                            ],
+                            "email_parents": [],
+                            "magic": "HTML document text",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=UTF-8",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html",
+                                "Title": "What Others Are Saying About LAND RUSH \u00ab  Gary Reiswig"
+                            },
+                            "trid": "HyperText Markup Language with DOCTYPE (80.6%)\nHyperText Markup Language (19.3%)",
+                            "positives_delta": 1,
+                            "first_seen_itw": "2010-08-05 14:19:01"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "garyreiswigauthor.com",
+                                "mad.ly",
+                                "gmpg.org"
+                            ],
+                            "email_parents": [],
+                            "magic": "HTML document text",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=UTF-8",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html",
+                                "Title": "What Others Are Saying About LAND RUSH \u00ab  Gary Reiswig"
+                            },
+                            "trid": "HyperText Markup Language with DOCTYPE (80.6%)\nHyperText Markup Language (19.3%)",
+                            "positives_delta": 1,
+                            "first_seen_itw": "2010-08-05 14:19:01"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "garyreiswigauthor.com",
+                                "mad.ly",
+                                "gmpg.org"
+                            ],
+                            "email_parents": [],
+                            "magic": "HTML document text",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=UTF-8",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html",
+                                "Title": "What Others Are Saying About LAND RUSH \u00ab  Gary Reiswig"
+                            },
+                            "trid": "HyperText Markup Language with DOCTYPE (80.6%)\nHyperText Markup Language (19.3%)",
+                            "positives_delta": 1,
+                            "first_seen_itw": "2010-08-05 14:19:01"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "garyreiswigauthor.com",
+                                "mad.ly",
+                                "gmpg.org"
+                            ],
+                            "email_parents": [],
+                            "magic": "HTML document text",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=UTF-8",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html",
+                                "Title": "What Others Are Saying About LAND RUSH \u00ab  Gary Reiswig"
+                            },
+                            "trid": "HyperText Markup Language with DOCTYPE (80.6%)\nHyperText Markup Language (19.3%)",
+                            "positives_delta": 1,
+                            "first_seen_itw": "2010-08-05 14:19:01"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "garyreiswigauthor.com",
+                                "mad.ly",
+                                "gmpg.org"
+                            ],
+                            "email_parents": [],
+                            "magic": "HTML document text",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=UTF-8",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html",
+                                "Title": "What Others Are Saying About LAND RUSH \u00ab  Gary Reiswig"
+                            },
+                            "trid": "HyperText Markup Language with DOCTYPE (80.6%)\nHyperText Markup Language (19.3%)",
+                            "positives_delta": 1,
+                            "first_seen_itw": "2010-08-05 14:19:01"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "garyreiswigauthor.com",
+                                "mad.ly",
+                                "gmpg.org"
+                            ],
+                            "email_parents": [],
+                            "magic": "HTML document text",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=UTF-8",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html",
+                                "Title": "What Others Are Saying About LAND RUSH \u00ab  Gary Reiswig"
+                            },
+                            "trid": "HyperText Markup Language with DOCTYPE (80.6%)\nHyperText Markup Language (19.3%)",
+                            "positives_delta": 1,
+                            "first_seen_itw": "2010-08-05 14:19:01"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "garyreiswigauthor.com",
+                                "mad.ly",
+                                "gmpg.org"
+                            ],
+                            "email_parents": [],
+                            "magic": "HTML document text",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=UTF-8",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html",
+                                "Title": "What Others Are Saying About LAND RUSH \u00ab  Gary Reiswig"
+                            },
+                            "trid": "HyperText Markup Language with DOCTYPE (80.6%)\nHyperText Markup Language (19.3%)",
+                            "positives_delta": 1,
+                            "first_seen_itw": "2010-08-05 14:19:01"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "garyreiswigauthor.com",
+                                "mad.ly",
+                                "gmpg.org"
+                            ],
+                            "email_parents": [],
+                            "magic": "HTML document text",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=UTF-8",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html",
+                                "Title": "What Others Are Saying About LAND RUSH \u00ab  Gary Reiswig"
+                            },
+                            "trid": "HyperText Markup Language with DOCTYPE (80.6%)\nHyperText Markup Language (19.3%)",
+                            "positives_delta": 1,
+                            "first_seen_itw": "2010-08-05 14:19:01"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "garyreiswigauthor.com",
+                                "mad.ly",
+                                "gmpg.org"
+                            ],
+                            "email_parents": [],
+                            "magic": "HTML document text",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=UTF-8",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html",
+                                "Title": "What Others Are Saying About LAND RUSH \u00ab  Gary Reiswig"
+                            },
+                            "trid": "HyperText Markup Language with DOCTYPE (80.6%)\nHyperText Markup Language (19.3%)",
+                            "positives_delta": 1,
+                            "first_seen_itw": "2010-08-05 14:19:01"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "garyreiswigauthor.com",
+                                "mad.ly",
+                                "gmpg.org"
+                            ],
+                            "email_parents": [],
+                            "magic": "HTML document text",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=UTF-8",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html",
+                                "Title": "What Others Are Saying About LAND RUSH \u00ab  Gary Reiswig"
+                            },
+                            "trid": "HyperText Markup Language with DOCTYPE (80.6%)\nHyperText Markup Language (19.3%)",
+                            "positives_delta": 1,
+                            "first_seen_itw": "2010-08-05 14:19:01"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "garyreiswigauthor.com",
+                                "mad.ly",
+                                "gmpg.org"
+                            ],
+                            "email_parents": [],
+                            "magic": "HTML document text",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=UTF-8",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html",
+                                "Title": "What Others Are Saying About LAND RUSH \u00ab  Gary Reiswig"
+                            },
+                            "trid": "HyperText Markup Language with DOCTYPE (80.6%)\nHyperText Markup Language (19.3%)",
+                            "positives_delta": 1,
+                            "first_seen_itw": "2010-08-05 14:19:01"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "garyreiswigauthor.com",
+                                "mad.ly",
+                                "gmpg.org"
+                            ],
+                            "email_parents": [],
+                            "magic": "HTML document text",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=UTF-8",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html",
+                                "Title": "What Others Are Saying About LAND RUSH \u00ab  Gary Reiswig"
+                            },
+                            "trid": "HyperText Markup Language with DOCTYPE (80.6%)\nHyperText Markup Language (19.3%)",
+                            "positives_delta": 1,
+                            "first_seen_itw": "2010-08-05 14:19:01"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "garyreiswigauthor.com",
+                                "mad.ly",
+                                "gmpg.org"
+                            ],
+                            "email_parents": [],
+                            "magic": "HTML document text",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=UTF-8",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html",
+                                "Title": "What Others Are Saying About LAND RUSH \u00ab  Gary Reiswig"
+                            },
+                            "trid": "HyperText Markup Language with DOCTYPE (80.6%)\nHyperText Markup Language (19.3%)",
+                            "positives_delta": 1,
+                            "first_seen_itw": "2010-08-05 14:19:01"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "garyreiswigauthor.com",
+                                "mad.ly",
+                                "gmpg.org"
+                            ],
+                            "email_parents": [],
+                            "magic": "HTML document text",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=UTF-8",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html",
+                                "Title": "What Others Are Saying About LAND RUSH \u00ab  Gary Reiswig"
+                            },
+                            "trid": "HyperText Markup Language with DOCTYPE (80.6%)\nHyperText Markup Language (19.3%)",
+                            "positives_delta": 1,
+                            "first_seen_itw": "2010-08-05 14:19:01"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "garyreiswigauthor.com",
+                                "mad.ly",
+                                "gmpg.org"
+                            ],
+                            "email_parents": [],
+                            "magic": "HTML document text",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=UTF-8",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html",
+                                "Title": "What Others Are Saying About LAND RUSH \u00ab  Gary Reiswig"
+                            },
+                            "trid": "HyperText Markup Language with DOCTYPE (80.6%)\nHyperText Markup Language (19.3%)",
+                            "positives_delta": 1,
+                            "first_seen_itw": "2010-08-05 14:19:01"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "garyreiswigauthor.com",
+                                "mad.ly",
+                                "gmpg.org"
+                            ],
+                            "email_parents": [],
+                            "magic": "HTML document text",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=UTF-8",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html",
+                                "Title": "What Others Are Saying About LAND RUSH \u00ab  Gary Reiswig"
+                            },
+                            "trid": "HyperText Markup Language with DOCTYPE (80.6%)\nHyperText Markup Language (19.3%)",
+                            "positives_delta": 1,
+                            "first_seen_itw": "2010-08-05 14:19:01"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "garyreiswigauthor.com",
+                                "mad.ly",
+                                "gmpg.org"
+                            ],
+                            "email_parents": [],
+                            "magic": "HTML document text",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=UTF-8",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html",
+                                "Title": "What Others Are Saying About LAND RUSH \u00ab  Gary Reiswig"
+                            },
+                            "trid": "HyperText Markup Language with DOCTYPE (80.6%)\nHyperText Markup Language (19.3%)",
+                            "positives_delta": 1,
+                            "first_seen_itw": "2010-08-05 14:19:01"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "garyreiswigauthor.com",
+                                "mad.ly",
+                                "gmpg.org"
+                            ],
+                            "email_parents": [],
+                            "magic": "HTML document text",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=UTF-8",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html",
+                                "Title": "What Others Are Saying About LAND RUSH \u00ab  Gary Reiswig"
+                            },
+                            "trid": "HyperText Markup Language with DOCTYPE (80.6%)\nHyperText Markup Language (19.3%)",
+                            "positives_delta": 1,
+                            "first_seen_itw": "2010-08-05 14:19:01"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "garyreiswigauthor.com",
+                                "mad.ly",
+                                "gmpg.org"
+                            ],
+                            "email_parents": [],
+                            "magic": "HTML document text",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=UTF-8",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html",
+                                "Title": "What Others Are Saying About LAND RUSH \u00ab  Gary Reiswig"
+                            },
+                            "trid": "HyperText Markup Language with DOCTYPE (80.6%)\nHyperText Markup Language (19.3%)",
+                            "positives_delta": 1,
+                            "first_seen_itw": "2010-08-05 14:19:01"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "garyreiswigauthor.com",
+                                "mad.ly",
+                                "gmpg.org"
+                            ],
+                            "email_parents": [],
+                            "magic": "HTML document text",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=UTF-8",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html",
+                                "Title": "What Others Are Saying About LAND RUSH \u00ab  Gary Reiswig"
+                            },
+                            "trid": "HyperText Markup Language with DOCTYPE (80.6%)\nHyperText Markup Language (19.3%)",
+                            "positives_delta": 1,
+                            "first_seen_itw": "2010-08-05 14:19:01"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "garyreiswigauthor.com",
+                                "mad.ly",
+                                "gmpg.org"
+                            ],
+                            "email_parents": [],
+                            "magic": "HTML document text",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=UTF-8",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html",
+                                "Title": "What Others Are Saying About LAND RUSH \u00ab  Gary Reiswig"
+                            },
+                            "trid": "HyperText Markup Language with DOCTYPE (80.6%)\nHyperText Markup Language (19.3%)",
+                            "positives_delta": 1,
+                            "first_seen_itw": "2010-08-05 14:19:01"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "garyreiswigauthor.com",
+                                "mad.ly",
+                                "gmpg.org"
+                            ],
+                            "email_parents": [],
+                            "magic": "HTML document text",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=UTF-8",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html",
+                                "Title": "What Others Are Saying About LAND RUSH \u00ab  Gary Reiswig"
+                            },
+                            "trid": "HyperText Markup Language with DOCTYPE (80.6%)\nHyperText Markup Language (19.3%)",
+                            "positives_delta": 1,
+                            "first_seen_itw": "2010-08-05 14:19:01"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "garyreiswigauthor.com",
+                                "mad.ly",
+                                "gmpg.org"
+                            ],
+                            "email_parents": [],
+                            "magic": "HTML document text",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=UTF-8",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html",
+                                "Title": "What Others Are Saying About LAND RUSH \u00ab  Gary Reiswig"
+                            },
+                            "trid": "HyperText Markup Language with DOCTYPE (80.6%)\nHyperText Markup Language (19.3%)",
+                            "positives_delta": 1,
+                            "first_seen_itw": "2010-08-05 14:19:01"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "garyreiswigauthor.com",
+                                "mad.ly",
+                                "gmpg.org"
+                            ],
+                            "email_parents": [],
+                            "magic": "HTML document text",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=UTF-8",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html",
+                                "Title": "What Others Are Saying About LAND RUSH \u00ab  Gary Reiswig"
+                            },
+                            "trid": "HyperText Markup Language with DOCTYPE (80.6%)\nHyperText Markup Language (19.3%)",
+                            "positives_delta": 1,
+                            "first_seen_itw": "2010-08-05 14:19:01"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "garyreiswigauthor.com",
+                                "mad.ly",
+                                "gmpg.org"
+                            ],
+                            "email_parents": [],
+                            "magic": "HTML document text",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=UTF-8",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html",
+                                "Title": "What Others Are Saying About LAND RUSH \u00ab  Gary Reiswig"
+                            },
+                            "trid": "HyperText Markup Language with DOCTYPE (80.6%)\nHyperText Markup Language (19.3%)",
+                            "positives_delta": 1,
+                            "first_seen_itw": "2010-08-05 14:19:01"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "garyreiswigauthor.com",
+                                "mad.ly",
+                                "gmpg.org"
+                            ],
+                            "email_parents": [],
+                            "magic": "HTML document text",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=UTF-8",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html",
+                                "Title": "What Others Are Saying About LAND RUSH \u00ab  Gary Reiswig"
+                            },
+                            "trid": "HyperText Markup Language with DOCTYPE (80.6%)\nHyperText Markup Language (19.3%)",
+                            "positives_delta": 1,
+                            "first_seen_itw": "2010-08-05 14:19:01"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "garyreiswigauthor.com",
+                                "mad.ly",
+                                "gmpg.org"
+                            ],
+                            "email_parents": [],
+                            "magic": "HTML document text",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=UTF-8",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html",
+                                "Title": "What Others Are Saying About LAND RUSH \u00ab  Gary Reiswig"
+                            },
+                            "trid": "HyperText Markup Language with DOCTYPE (80.6%)\nHyperText Markup Language (19.3%)",
+                            "positives_delta": 1,
+                            "first_seen_itw": "2010-08-05 14:19:01"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "garyreiswigauthor.com",
+                                "mad.ly",
+                                "gmpg.org"
+                            ],
+                            "email_parents": [],
+                            "magic": "HTML document text",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=UTF-8",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html",
+                                "Title": "What Others Are Saying About LAND RUSH \u00ab  Gary Reiswig"
+                            },
+                            "trid": "HyperText Markup Language with DOCTYPE (80.6%)\nHyperText Markup Language (19.3%)",
+                            "positives_delta": 1,
+                            "first_seen_itw": "2010-08-05 14:19:01"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "garyreiswigauthor.com",
+                                "mad.ly",
+                                "gmpg.org"
+                            ],
+                            "email_parents": [],
+                            "magic": "HTML document text",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=UTF-8",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html",
+                                "Title": "What Others Are Saying About LAND RUSH \u00ab  Gary Reiswig"
+                            },
+                            "trid": "HyperText Markup Language with DOCTYPE (80.6%)\nHyperText Markup Language (19.3%)",
+                            "positives_delta": 1,
+                            "first_seen_itw": "2010-08-05 14:19:01"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "garyreiswigauthor.com",
+                                "mad.ly",
+                                "gmpg.org"
+                            ],
+                            "email_parents": [],
+                            "magic": "HTML document text",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=UTF-8",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html",
+                                "Title": "What Others Are Saying About LAND RUSH \u00ab  Gary Reiswig"
+                            },
+                            "trid": "HyperText Markup Language with DOCTYPE (80.6%)\nHyperText Markup Language (19.3%)",
+                            "positives_delta": 1,
+                            "first_seen_itw": "2010-08-05 14:19:01"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "garyreiswigauthor.com",
+                                "mad.ly",
+                                "gmpg.org"
+                            ],
+                            "email_parents": [],
+                            "magic": "HTML document text",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=UTF-8",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html",
+                                "Title": "What Others Are Saying About LAND RUSH \u00ab  Gary Reiswig"
+                            },
+                            "trid": "HyperText Markup Language with DOCTYPE (80.6%)\nHyperText Markup Language (19.3%)",
+                            "positives_delta": 1,
+                            "first_seen_itw": "2010-08-05 14:19:01"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "garyreiswigauthor.com",
+                                "mad.ly",
+                                "gmpg.org"
+                            ],
+                            "email_parents": [],
+                            "magic": "HTML document text",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=UTF-8",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html",
+                                "Title": "What Others Are Saying About LAND RUSH \u00ab  Gary Reiswig"
+                            },
+                            "trid": "HyperText Markup Language with DOCTYPE (80.6%)\nHyperText Markup Language (19.3%)",
+                            "positives_delta": 1,
+                            "first_seen_itw": "2010-08-05 14:19:01"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "garyreiswigauthor.com",
+                                "mad.ly",
+                                "gmpg.org"
+                            ],
+                            "email_parents": [],
+                            "magic": "HTML document text",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=UTF-8",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html",
+                                "Title": "What Others Are Saying About LAND RUSH \u00ab  Gary Reiswig"
+                            },
+                            "trid": "HyperText Markup Language with DOCTYPE (80.6%)\nHyperText Markup Language (19.3%)",
+                            "positives_delta": 1,
+                            "first_seen_itw": "2010-08-05 14:19:01"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "garyreiswigauthor.com",
+                                "mad.ly",
+                                "gmpg.org"
+                            ],
+                            "email_parents": [],
+                            "magic": "HTML document text",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=UTF-8",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html",
+                                "Title": "What Others Are Saying About LAND RUSH \u00ab  Gary Reiswig"
+                            },
+                            "trid": "HyperText Markup Language with DOCTYPE (80.6%)\nHyperText Markup Language (19.3%)",
+                            "positives_delta": 1,
+                            "first_seen_itw": "2010-08-05 14:19:01"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "garyreiswigauthor.com",
+                                "mad.ly",
+                                "gmpg.org"
+                            ],
+                            "email_parents": [],
+                            "magic": "HTML document text",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=UTF-8",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html",
+                                "Title": "What Others Are Saying About LAND RUSH \u00ab  Gary Reiswig"
+                            },
+                            "trid": "HyperText Markup Language with DOCTYPE (80.6%)\nHyperText Markup Language (19.3%)",
+                            "positives_delta": 1,
+                            "first_seen_itw": "2010-08-05 14:19:01"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "garyreiswigauthor.com",
+                                "mad.ly",
+                                "gmpg.org"
+                            ],
+                            "email_parents": [],
+                            "magic": "HTML document text",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=UTF-8",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html",
+                                "Title": "What Others Are Saying About LAND RUSH \u00ab  Gary Reiswig"
+                            },
+                            "trid": "HyperText Markup Language with DOCTYPE (80.6%)\nHyperText Markup Language (19.3%)",
+                            "positives_delta": 1,
+                            "first_seen_itw": "2010-08-05 14:19:01"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "garyreiswigauthor.com",
+                                "mad.ly",
+                                "gmpg.org"
+                            ],
+                            "email_parents": [],
+                            "magic": "HTML document text",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=UTF-8",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html",
+                                "Title": "What Others Are Saying About LAND RUSH \u00ab  Gary Reiswig"
+                            },
+                            "trid": "HyperText Markup Language with DOCTYPE (80.6%)\nHyperText Markup Language (19.3%)",
+                            "positives_delta": 1,
+                            "first_seen_itw": "2010-08-05 14:19:01"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "garyreiswigauthor.com",
+                                "mad.ly",
+                                "gmpg.org"
+                            ],
+                            "email_parents": [],
+                            "magic": "HTML document text",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=UTF-8",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html",
+                                "Title": "What Others Are Saying About LAND RUSH \u00ab  Gary Reiswig"
+                            },
+                            "trid": "HyperText Markup Language with DOCTYPE (80.6%)\nHyperText Markup Language (19.3%)",
+                            "positives_delta": 1,
+                            "first_seen_itw": "2010-08-05 14:19:01"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "garyreiswigauthor.com",
+                                "mad.ly",
+                                "gmpg.org"
+                            ],
+                            "email_parents": [],
+                            "magic": "HTML document text",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=UTF-8",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html",
+                                "Title": "What Others Are Saying About LAND RUSH \u00ab  Gary Reiswig"
+                            },
+                            "trid": "HyperText Markup Language with DOCTYPE (80.6%)\nHyperText Markup Language (19.3%)",
+                            "positives_delta": 1,
+                            "first_seen_itw": "2010-08-05 14:19:01"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "garyreiswigauthor.com",
+                                "mad.ly",
+                                "gmpg.org"
+                            ],
+                            "email_parents": [],
+                            "magic": "HTML document text",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=UTF-8",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html",
+                                "Title": "What Others Are Saying About LAND RUSH \u00ab  Gary Reiswig"
+                            },
+                            "trid": "HyperText Markup Language with DOCTYPE (80.6%)\nHyperText Markup Language (19.3%)",
+                            "positives_delta": 1,
+                            "first_seen_itw": "2010-08-05 14:19:01"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "garyreiswigauthor.com",
+                                "mad.ly",
+                                "gmpg.org"
+                            ],
+                            "email_parents": [],
+                            "magic": "HTML document text",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=UTF-8",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html",
+                                "Title": "What Others Are Saying About LAND RUSH \u00ab  Gary Reiswig"
+                            },
+                            "trid": "HyperText Markup Language with DOCTYPE (80.6%)\nHyperText Markup Language (19.3%)",
+                            "positives_delta": 1,
+                            "first_seen_itw": "2010-08-05 14:19:01"
+                        }
+                    },
+                    {
+                        "process": {
+                            "embedded_domains": [
+                                "garyreiswigauthor.com",
+                                "mad.ly",
+                                "gmpg.org"
+                            ],
+                            "email_parents": [],
+                            "magic": "HTML document text",
+                            "sigcheck": {
+                                "tags": []
+                            },
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=UTF-8",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html",
+                                "Title": "What Others Are Saying About LAND RUSH \u00ab  Gary Reiswig"
+                            },
+                            "trid": "HyperText Markup Language with DOCTYPE (80.6%)\nHyperText Markup Language (19.3%)",
+                            "positives_delta": 1,
+                            "first_seen_itw": "2010-08-05 14:19:01"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

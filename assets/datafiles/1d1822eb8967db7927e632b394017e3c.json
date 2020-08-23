@@ -1,0 +1,1866 @@
+{
+    "vhash": "016046655d157090101002b009f6z100d1z21z60801840011bz",
+    "submission_names": [
+        "InetDownload",
+        "InetDownload.EXE",
+        "VirusShare_dd30099df88aaa32643336730a646761",
+        "C:\\mgcMsWuEdy\\_5vz_bCRM\\jvnIK3KFQ.tar.bz2",
+        "f:\\output_black\\pe32\\VirusShare_1d1822eb8967db7927e632b394017e3c"
+    ],
+    "scan_date": "2020-01-09 05:16:44",
+    "first_seen": "2016-05-30 17:31:32",
+    "times_submitted": 2,
+    "additional_info": {
+        "embedded_domains": [
+            "softsing.weebly.com",
+            "blog.sina.com.cn",
+            "downalbum.googlecode.com",
+            "photo.blog.sina.com.cn",
+            "softsing.googlecode.com"
+        ],
+        "exiftool": {
+            "UninitializedDataSize": 0,
+            "InitializedDataSize": 311296,
+            "ImageVersion": 0.0,
+            "FileSubtype": 0,
+            "FileVersionNumber": "1.0.0.1",
+            "LanguageCode": "English (U.S.)",
+            "InternalName": "InetDownload",
+            "FileDescription": "InetDownload MFC Application",
+            "ImageFileCharacteristics": "No relocs, Executable, 32-bit",
+            "CharacterSet": "Unicode",
+            "LinkerVersion": 8.0,
+            "EntryPoint": "0x8594c",
+            "OriginalFileName": "InetDownload.EXE",
+            "MIMEType": "application/octet-stream",
+            "LegalCopyright": "Copyright (C) 1999",
+            "FileVersion": "1, 0, 0, 1",
+            "TimeStamp": "2010:12:01 16:27:49+01:00",
+            "FileType": "Win32 EXE",
+            "PEType": "PE32",
+            "FileFlagsMask": "0x003f",
+            "ProductVersion": "1, 0, 0, 1",
+            "SubsystemVersion": 4.0,
+            "OSVersion": 4.0,
+            "FileOS": "Win32",
+            "Subsystem": "Windows GUI",
+            "MachineType": "Intel 386 or later, and compatibles",
+            "CodeSize": 716800,
+            "ProductName": "InetDownload Application",
+            "ProductVersionNumber": "1.0.0.1",
+            "FileTypeExtension": "exe",
+            "ObjectFileType": "Executable application"
+        },
+        "trid": "Win32 Executable MS Visual C++ (generic) (20.4%)\nWin64 Executable (generic) (18.0%)\nUPX compressed Win32 Executable (17.7%)\nWin32 EXE Yoda's Crypter (17.4%)\nMicrosoft Visual C++ compiled executable (generic) (10.8%)",
+        "pe-imphash": "3324169c9e98b1c7231917f86e2de683",
+        "pe-resource-list": {
+            "abdf36bde89a26349f5741c17c235dacea88d441d8662ba16a598dc50c3c4864": "data",
+            "8a495f17bc472bfc5e6923d9efa687848fac027ad60694f9c3f10a4f7b194924": "Lotus 1-2-3",
+            "c054645d86387fd491743027e6c2284d6a7262f6aced9321cbc1465cef2b6b1f": "ASCII text",
+            "f273e554605a89aa0994c9d42bc2569be3db5b19b2900dacb30f3218ed1174a0": "data",
+            "28b5698fd9bd7879a945745e3f5590c7af1113ff9bc1c357bdc4926a645042c4": "data",
+            "491df5e526dedeba473e41db0354c4c2d6821f3c9d94a5de679691347e366e10": "ASCII text",
+            "fbeb3be87e80cb8e1d2af3d8140796c1bb80c6c7056f60897088ff9e355c3867": "data",
+            "31bff9afbf08a8869318cd946a1d73a4425afefc5693c6e06671bde1e86de1dc": "ASCII text",
+            "b10dbc12b07de942d7e2345d62b5c5eab682e0db1909b88c2e69bc022ed67f9e": "data",
+            "4ecc7f2578fd7b137c04f85ffcbd67d6eab0bc8b1df4246cebd2a2aa517f3c60": "Lotus 1-2-3",
+            "1edf6767fadba4637e8b12b63212f187e9bc9d3242487b16d50916ac616437cb": "data",
+            "12a5b9052dd16bed260343bc4352d436167c991c54497c5af441304646549386": "Lotus 1-2-3",
+            "36db380991291cac5c99e42332efda20210f63985544d95e8fa6ef85bf2bdf8e": "ASCII text",
+            "1b8660b0c53b94f3e029de58e56d08c8097a080244e9dc65d4155a9b603820d8": "ASCII text",
+            "c4a6e3a7a346baecb09a0c49268eb44f388382a7866a4e912b53d48fa3b34c26": "data",
+            "ff47a48c11c234903a7d625cb8b62101909f735ad84266c98dd4834549452c39": "Lotus 1-2-3",
+            "51b01d862d60ccc40c1bf6ea56d4b8f85d2cf67c443918569db9f1603270dd89": "data",
+            "1f1b61a7f04edc3691a6c9350132b09929d5bfa1c900f6ff500e55c5ebc63212": "ASCII text",
+            "a281289f1231b54bb3803ff8d16ba05ff7c4cbf1c3c83195e85543905ad0fba8": "data",
+            "2bf742d2beb4c56dd6eb68347dd8ee28da85bed9e6d165b36c6edb91da01d5d6": "data",
+            "326c048595bbc72e3f989cb3b95fbf09dc83739ced3cb13eb6f03336f95d74f1": "Lotus 1-2-3",
+            "22191cff37ecdb7e392b71b71a0119f633230dadb323243fb935b9fb34bbe438": "data",
+            "6e113fd8e9f3156ae68251c6076beb9b59fe29e589d06398e7019802521f69d3": "data",
+            "c1bc5318a82ea1a1809618040026851947f6aa5171d904a9e60966f4551ca1a3": "ASCII text",
+            "6440c3a38dcfb81d45bc6be31b776fdae116dd7a2933b407b67132f6cfa0e6eb": "data",
+            "ebaf4bcc0f0d7ca9a3458ea52520d2dd10811069241940b9b2e79ac1a4c3ca5c": "data",
+            "ee63d4681e7622067fd29005c6cc67b456031eb723c7239f05f1cb097af0ef98": "Lotus 1-2-3",
+            "e7c0005285d1ab59732d5f99f77a9bdd6342b01cf44437ebd7a07611a227e272": "data",
+            "ec26c438d10e3e84ec855c47f07a176e6c11bbfae1557d526490711b80f087fe": "Lotus 1-2-3",
+            "66f1747ba4c17f6fca44818ed98445f01645651c120e72f558245e2df6949d35": "ASCII text",
+            "322e92d75b3fec9e16b81466f4cf111d298b80812d5b238f4ee032c025a02050": "data",
+            "04a21516ea0b198bca5b7b0e96583a653170815cc0d8526966492a62b833b928": "application/x-ms-dos-executable",
+            "cfc4ff9e46fbb61f61b68f36adc6593b137233d1cbaa50fe37e5653f0cb20396": "data",
+            "f9c81ce9b4176b305c554a15f0ca2b98b11be76c1f13ef22169999aa07e9612f": "data",
+            "b0be5e7409e91887ed482702dcd18000201ec7eac95311a87f9afc8a084262b3": "data",
+            "35b5abb90316b4017d5531e031cbf15bae6e8dd46f6dd221701693a22a7795be": "ASCII text",
+            "f64ccc0582bc7c66af8b40049e485e8e241335261ec95ace909293ba50b2e4a3": "data",
+            "7f51554313c6765ba649783a942064cdfe6f5a70248a6f56840f71969f87ced0": "ASCII text",
+            "8fb31bd16061fce5e6a3261562a3c3e48709e8001ce33b839dd1669a55ef22b9": "ASCII text",
+            "d91dc4e26fd86def5ee907c72f32457bea07d21fa618012245f641d08501548d": "ASCII text",
+            "9882a8462ce9de3cc9a5d0ca48c8c4f7ca97f1f846f0c10e6655e33c9734b152": "data",
+            "0b0e16c38a3d5a85566e67b1d9a7e720e4dee27e163b06099d3d7dfa5dbed9ee": "data",
+            "a92f60b25322592e7ddd13d88e4006c097666f4d87c8cb0c21ffdccd53b31d78": "Lotus 1-2-3",
+            "8db6df648274a0fc3d28430367216e1c17c364ca613066cbb0e133637e92ba62": "data",
+            "4693f18ee190a21095f877327ad527c3d90bd00e61c70b83241940494a825140": "data",
+            "6eb54801f91b6d8effccbfaefe6b2d7705a274a75940e6226e24e0d4ec58c396": "data",
+            "d036e1af5639fb867f5035330e81788bbc24eff762610e3f6bba5d78903a845a": "ASCII text",
+            "6aa71d6a26cde04aadbbfefb689bf35bb564af2f3bb8a6918d596c8ea63d4006": "data",
+            "05e0d5787611ed4f643733e3e6e62d00f426422b5d3e443ceebac22e9d294bc4": "ASCII text",
+            "7765ed10182b3a0596a5b7786a4b623623cb0d88c2bb58d9d7d37ef7739a954e": "data",
+            "dea879b05e84f62a637411b4dae5fcb4408af5a25be4a1f3cc639d9949e9f4e6": "data",
+            "90b9dda4721d2340f33eb4bb10bc7c76836bf57b4ec488829087a33090695847": "data",
+            "1c98e7b127220695bbdca8eff1d5ebfdd1c8f69441376380b04b640a06680a92": "data",
+            "6e1e7738a1b6373d8829f817915822ef415a1727bb5bb7cfe809e31b3c143ac5": "Lotus 1-2-3",
+            "9c17b4621412d6ded24a76aed74d4425ae61f86b6d4092ca1e28ca66b7c71399": "Lotus 1-2-3",
+            "e6bef05177430dd0710b2878ea9028fb4cd23b7dd9e6066a7dce3934c8e05124": "Lotus 1-2-3",
+            "ef309b720f166673cad840a88e7636e9161ad91415cc7c176010cebba07757e5": "Lotus 1-2-3",
+            "8cc002d222cf596d8ec9dd9cc4fb691cefc70d4bb6431f5caa1a578a1c3b6323": "data",
+            "a0adcedb82b57089f64e2857f97cefd6cf25f4d27eefc6648bda83fd5fef66bb": "Lotus 1-2-3",
+            "652988945185cf5d604d9b48de66288d82d8ed0acdd134398e90d002d2d9fc72": "data",
+            "368f9cb089d206a8b61251f0c85eeda97ee08a56b33be8579246e964d3af6169": "data",
+            "373e6f041785acd63a05014297a83cf04dbf607ea8981569b8209ba5777a0df2": "ASCII text",
+            "f47e65628355e68edcb0fa52a1ecb51ad5c02ebe29e2a14120d4c810556f1ce3": "ASCII text",
+            "0714c554acd308b38c3d6319f7e470f76a16d712f696545eacac2bdc725dfb95": "ASCII text",
+            "25f585bd4924c6c79bc757dc1d18f8f7995a45d92c68df84f77ded4e8922ad3a": "data",
+            "a2f0549cca7170ae03ba042464efe62365fba38c20049e439871c9e5ce0f914f": "Lotus 1-2-3",
+            "415ebeef86d6a9251c262c49432f8d82746aff1f5521d49272ed77d58d1508db": "data",
+            "601635482a9b1864ea0c61ce0282c5c9fe1d014aa95dbb4f60770f1c2b6df3da": "data",
+            "05c276379b3c1fafbc95910667a6fc86db5d62bf40c30e20946497932f4544c7": "data",
+            "a7f446d31ccff19a043e06c6e592eff704efd2e54ddaae251be194b505f1e4d8": "audio/x-wav",
+            "28b8110695851e5280ff55cb78507b03e8b74dd370b8e122179c82b56f7e5f37": "Lotus 1-2-3",
+            "4cf716efaf68e0cb2ec45ec55d291050b5712b05653cae68edbb999f803d2a98": "data"
+        },
+        "trendmicro-housecall-heuristic": "TROJ_GEN.R00JH09F116",
+        "pe-resource-langs": {
+            "ENGLISH EIRE": 6,
+            "ENGLISH US": 2,
+            "CHINESE SIMPLIFIED": 64
+        },
+        "f-prot-unpacker": "UPX_LZMA",
+        "contacted_domains": [
+            "softsing.weebly.com",
+            "softsing.googlecode.com",
+            "downalbum.googlecode.com"
+        ],
+        "contacted_urls": [
+            "http://softsing.weebly.com/",
+            "http://softsing.googlecode.com/svn/trunk/url/recommend.html",
+            "http://downalbum.googlecode.com/svn/trunk/url/sinablogalbum.xml"
+        ],
+        "magic": "PE32 executable for MS Windows (GUI) Intel 80386 32-bit",
+        "sigcheck": {
+            "product": "InetDownload Application",
+            "description": "InetDownload MFC Application",
+            "file version": "1, 0, 0, 1",
+            "original name": "InetDownload.EXE",
+            "authentihash": "828bef959b1d0d65fae78b5dd2b8119e02a763e741e3837b88896d89de985553",
+            "copyright": "Copyright (C) 1999",
+            "link date": "4:27 PM 12/1/2010",
+            "internal name": "InetDownload"
+        },
+        "behaviour-v1": {
+            "hooking": [
+                {
+                    "type": "WH_MSGFILTER",
+                    "method": "SetWindowsHook",
+                    "success": true
+                },
+                {
+                    "type": "WH_CALLWNDPROC",
+                    "method": "SetWindowsHook",
+                    "success": true
+                },
+                {
+                    "type": "WH_CBT",
+                    "method": "SetWindowsHook",
+                    "success": true
+                }
+            ],
+            "network": {
+                "udp": [
+                    "<MACHINE_DNS_SERVER>:53"
+                ],
+                "http": [],
+                "tcp": [],
+                "dns": []
+            },
+            "service": {
+                "controlled": [],
+                "opened": [],
+                "created": [],
+                "started": [],
+                "opened-managers": [],
+                "deleted": []
+            },
+            "extra": [
+                "SetWindowsHook"
+            ],
+            "process": {
+                "shellcmds": [],
+                "terminated": [],
+                "tree": [
+                    {
+                        "pid": 1040,
+                        "name": "157b1c7e70e56ee8e80f37544593ce539f6df7e054ed12da4e43c79478eb9444",
+                        "children": []
+                    }
+                ],
+                "injected": [],
+                "created": []
+            },
+            "hosts_file": null,
+            "windows": {
+                "searched": []
+            },
+            "runtime-dlls": [
+                {
+                    "success": true,
+                    "file": "riched20.dll"
+                },
+                {
+                    "success": false,
+                    "file": "c:\\157b1c7e70e56ee8e80f37544593ce539f6df7e054ed12da4e43c79478eb9444enu.dll"
+                },
+                {
+                    "success": false,
+                    "file": "c:\\157b1c7e70e56ee8e80f37544593ce539f6df7e054ed12da4e43c79478eb9444loc.dll"
+                },
+                {
+                    "success": true,
+                    "file": "kernel32.dll"
+                },
+                {
+                    "success": true,
+                    "file": "comctl32.dll"
+                },
+                {
+                    "success": true,
+                    "file": "gdi32.dll"
+                },
+                {
+                    "success": true,
+                    "file": "msimg32.dll"
+                },
+                {
+                    "success": true,
+                    "file": "msvcrt.dll"
+                },
+                {
+                    "success": true,
+                    "file": "msvfw32.dll"
+                },
+                {
+                    "success": true,
+                    "file": "user32.dll"
+                },
+                {
+                    "success": true,
+                    "file": "dciman32.dll"
+                },
+                {
+                    "success": true,
+                    "file": "c:\\skinh.dll"
+                }
+            ],
+            "mutex": {
+                "opened": [],
+                "created": []
+            },
+            "registry": {
+                "deleted": [],
+                "set": []
+            },
+            "filesystem": {
+                "opened": [
+                    {
+                        "path": "C:\\SkinH.dll",
+                        "success": true
+                    }
+                ],
+                "read": [
+                    {
+                        "path": "C:\\SkinH.dll",
+                        "success": true
+                    }
+                ],
+                "moved": [],
+                "downloaded": [],
+                "written": [
+                    {
+                        "path": "C:\\SkinH.dll",
+                        "success": true
+                    }
+                ],
+                "replaced": [],
+                "deleted": [],
+                "copied": []
+            }
+        },
+        "main_icon": {
+            "raw_md5": "5e3fe2bbde6c39579609f6ac083950d8",
+            "dhash": "c09c92bcbec696cc"
+        },
+        "positives_delta": 9,
+        "pe-machine-type": 332,
+        "first_seen_itw": "2009-11-04 07:46:36",
+        "pe-resource-types": {
+            "RT_DIALOG": 10,
+            "RT_GROUP_CURSOR": 15,
+            "RT_ICON": 1,
+            "Struct(240)": 3,
+            "RT_MANIFEST": 1,
+            "RT_STRING": 16,
+            "RT_MENU": 2,
+            "AVI": 1,
+            "SKIN": 2,
+            "RT_BITMAP": 2,
+            "RT_CURSOR": 16,
+            "RT_VERSION": 2,
+            "RT_GROUP_ICON": 1
+        },
+        "pe-timestamp": 1291217269,
+        "imports": {
+            "SHLWAPI.dll": [
+                "PathFindExtensionA",
+                "PathIsUNCA",
+                "StrToIntA",
+                "PathStripToRootA",
+                "PathFindFileNameA",
+                "StrRChrA",
+                "PathFindExtensionW",
+                "UrlUnescapeA"
+            ],
+            "comdlg32.dll": [
+                "GetFileTitleA"
+            ],
+            "urlmon.dll": [
+                "URLDownloadToFileA"
+            ],
+            "iphlpapi.dll": [
+                "GetAdaptersInfo"
+            ],
+            "OLEAUT32.dll": [
+                "VariantChangeType",
+                "VariantTimeToSystemTime",
+                "SysStringLen",
+                "SystemTimeToVariantTime",
+                "SysAllocStringLen",
+                "OleCreateFontIndirect",
+                "VariantClear",
+                "SysAllocString",
+                "SafeArrayDestroy",
+                "VariantCopy",
+                "SysFreeString",
+                "SysAllocStringByteLen",
+                "VariantInit"
+            ],
+            "oledlg.dll": [
+                "Ord(8)"
+            ],
+            "WININET.dll": [
+                "HttpSendRequestA",
+                "InternetOpenUrlA",
+                "InternetQueryDataAvailable",
+                "InternetWriteFile",
+                "HttpOpenRequestA",
+                "InternetReadFile",
+                "InternetCanonicalizeUrlA",
+                "InternetCloseHandle",
+                "InternetGetLastResponseInfoA",
+                "InternetOpenA",
+                "InternetConnectA",
+                "InternetQueryOptionA",
+                "InternetSetStatusCallback",
+                "InternetErrorDlg",
+                "HttpQueryInfoA",
+                "InternetSetFilePointer",
+                "InternetCrackUrlA"
+            ],
+            "GDI32.dll": [
+                "GetDIBColorTable",
+                "GetWindowExtEx",
+                "SetMapMode",
+                "PatBlt",
+                "SetStretchBltMode",
+                "GetRgnBox",
+                "SaveDC",
+                "TextOutA",
+                "CreateFontIndirectA",
+                "CreateRectRgnIndirect",
+                "GetClipBox",
+                "GetDeviceCaps",
+                "OffsetViewportOrgEx",
+                "DeleteDC",
+                "RestoreDC",
+                "SetBkMode",
+                "SelectObject",
+                "DeleteObject",
+                "BitBlt",
+                "CreateDIBSection",
+                "SetTextColor",
+                "GetObjectA",
+                "CreateBitmap",
+                "RectVisible",
+                "GetStockObject",
+                "SetViewportOrgEx",
+                "ScaleWindowExtEx",
+                "SetBkColor",
+                "ExtTextOutA",
+                "PtVisible",
+                "ExtSelectClipRgn",
+                "CreateCompatibleDC",
+                "StretchBlt",
+                "ScaleViewportExtEx",
+                "SetViewportExtEx",
+                "GetTextExtentPoint32A",
+                "GetMapMode",
+                "SetDIBColorTable",
+                "SetWindowExtEx",
+                "GetTextColor",
+                "Escape",
+                "GetViewportExtEx",
+                "GetBkColor"
+            ],
+            "SHELL32.dll": [
+                "CommandLineToArgvW",
+                "SHBrowseForFolderA",
+                "SHGetPathFromIDListA",
+                "SHGetMalloc",
+                "ShellExecuteA",
+                "Shell_NotifyIconA"
+            ],
+            "KERNEL32.DLL": [
+                "GetStdHandle",
+                "GetConsoleOutputCP",
+                "FileTimeToSystemTime",
+                "GetFileAttributesA",
+                "WaitForSingleObject",
+                "HeapDestroy",
+                "GetFileAttributesW",
+                "lstrcmpW",
+                "FreeEnvironmentStringsA",
+                "DeleteCriticalSection",
+                "GetDiskFreeSpaceA",
+                "GetConsoleMode",
+                "GetLocaleInfoA",
+                "LocalAlloc",
+                "lstrcatA",
+                "SetErrorMode",
+                "FreeEnvironmentStringsW",
+                "SetStdHandle",
+                "GetFileTime",
+                "GetTempPathA",
+                "GetCPInfo",
+                "GetStringTypeA",
+                "GetDiskFreeSpaceW",
+                "InterlockedExchange",
+                "GetTempPathW",
+                "GetSystemTimeAsFileTime",
+                "EnumResourceLanguagesA",
+                "HeapReAlloc",
+                "GetStringTypeW",
+                "GetFullPathNameA",
+                "FreeLibrary",
+                "LocalFree",
+                "FormatMessageW",
+                "ResumeThread",
+                "InitializeCriticalSection",
+                "LoadResource",
+                "GlobalHandle",
+                "FindClose",
+                "InterlockedDecrement",
+                "FormatMessageA",
+                "GetFullPathNameW",
+                "SetLastError",
+                "GetSystemTime",
+                "GetModuleFileNameW",
+                "GlobalFindAtomA",
+                "HeapAlloc",
+                "GetVersionExA",
+                "GetModuleFileNameA",
+                "GetVolumeInformationA",
+                "GetPrivateProfileStringA",
+                "SetThreadPriority",
+                "UnhandledExceptionFilter",
+                "TlsGetValue",
+                "MultiByteToWideChar",
+                "GetModuleHandleA",
+                "LockFileEx",
+                "CreateThread",
+                "GlobalAddAtomA",
+                "SetUnhandledExceptionFilter",
+                "ConvertDefaultLocale",
+                "GetCurrentProcess",
+                "MulDiv",
+                "ExitThread",
+                "SetEnvironmentVariableA",
+                "TerminateProcess",
+                "WriteConsoleA",
+                "GlobalAlloc",
+                "SetEndOfFile",
+                "GetCurrentThreadId",
+                "LeaveCriticalSection",
+                "WriteConsoleW",
+                "AreFileApisANSI",
+                "HeapFree",
+                "EnterCriticalSection",
+                "SetHandleCount",
+                "LoadLibraryW",
+                "GetOEMCP",
+                "QueryPerformanceCounter",
+                "GetTickCount",
+                "TlsAlloc",
+                "VirtualProtect",
+                "FlushFileBuffers",
+                "LoadLibraryA",
+                "RtlUnwind",
+                "GetStartupInfoA",
+                "UnlockFile",
+                "GetFileSize",
+                "GlobalDeleteAtom",
+                "GetPrivateProfileIntA",
+                "CreateDirectoryA",
+                "DeleteFileA",
+                "GetWindowsDirectoryA",
+                "SetEvent",
+                "DeleteFileW",
+                "GlobalLock",
+                "GetProcessHeap",
+                "CompareStringW",
+                "GlobalReAlloc",
+                "lstrcmpA",
+                "FindFirstFileA",
+                "lstrcpyA",
+                "ResetEvent",
+                "DuplicateHandle",
+                "GetProcAddress",
+                "GetTimeZoneInformation",
+                "CreateFileW",
+                "CreateEventA",
+                "IsDebuggerPresent",
+                "GetFileType",
+                "TlsSetValue",
+                "CreateFileA",
+                "ExitProcess",
+                "InterlockedIncrement",
+                "GetLastError",
+                "LocalReAlloc",
+                "LCMapStringW",
+                "GetSystemInfo",
+                "lstrlenA",
+                "GlobalFree",
+                "GetConsoleCP",
+                "LCMapStringA",
+                "GlobalGetAtomNameA",
+                "GetThreadLocale",
+                "GetEnvironmentStringsW",
+                "GlobalUnlock",
+                "LockFile",
+                "WinExec",
+                "FileTimeToLocalFileTime",
+                "GetEnvironmentStrings",
+                "WritePrivateProfileStringA",
+                "GetCurrentProcessId",
+                "LockResource",
+                "GetCommandLineW",
+                "GetCurrentDirectoryA",
+                "HeapSize",
+                "GetCommandLineA",
+                "InterlockedCompareExchange",
+                "GetCurrentThread",
+                "SuspendThread",
+                "RaiseException",
+                "TlsFree",
+                "SetFilePointer",
+                "ReadFile",
+                "GlobalFlags",
+                "CloseHandle",
+                "GetACP",
+                "GetVersion",
+                "FreeResource",
+                "SizeofResource",
+                "CreateProcessA",
+                "WideCharToMultiByte",
+                "HeapCreate",
+                "WriteFile",
+                "VirtualQuery",
+                "VirtualFree",
+                "Sleep",
+                "FindResourceA",
+                "VirtualAlloc",
+                "CompareStringA"
+            ],
+            "gdiplus.dll": [
+                "GdipGetImageEncodersSize",
+                "GdipBitmapLockBits",
+                "GdipCreateBitmapFromFile",
+                "GdipSaveImageToFile",
+                "GdipGetImagePixelFormat",
+                "GdipCreateBitmapFromScan0",
+                "GdiplusShutdown",
+                "GdipGetImagePalette",
+                "GdipDisposeImage",
+                "GdipBitmapUnlockBits",
+                "GdiplusStartup",
+                "GdipDeleteGraphics",
+                "GdipGetImageEncoders",
+                "GdipGetImageWidth",
+                "GdipCreateBitmapFromHBITMAP",
+                "GdipAlloc",
+                "GdipCreateBitmapFromFileICM",
+                "GdipGetImagePaletteSize",
+                "GdipDrawImageI",
+                "GdipFree",
+                "GdipGetImageHeight",
+                "GdipCloneImage",
+                "GdipGetImageGraphicsContext"
+            ],
+            "WINSPOOL.DRV": [
+                "OpenPrinterA",
+                "DocumentPropertiesA",
+                "ClosePrinter"
+            ],
+            "ADVAPI32.dll": [
+                "RegDeleteKeyA",
+                "RegOpenKeyA",
+                "RegCloseKey",
+                "RegQueryValueA",
+                "RegQueryValueExA",
+                "RegSetValueExA",
+                "RegCreateKeyExA",
+                "RegOpenKeyExA",
+                "RegEnumKeyA"
+            ],
+            "RPCRT4.dll": [
+                "RpcStringFreeA",
+                "UuidToStringA"
+            ],
+            "ole32.dll": [
+                "OleUninitialize",
+                "CoTaskMemFree",
+                "CoTaskMemAlloc",
+                "StgCreateDocfileOnILockBytes",
+                "OleFlushClipboard",
+                "StgOpenStorageOnILockBytes",
+                "CoCreateGuid",
+                "CLSIDFromProgID",
+                "CoRevokeClassObject",
+                "CoFreeUnusedLibraries",
+                "CoRegisterMessageFilter",
+                "OleIsCurrentClipboard",
+                "OleInitialize",
+                "CLSIDFromString",
+                "CreateILockBytesOnHGlobal",
+                "CoGetClassObject"
+            ],
+            "MSIMG32.dll": [
+                "TransparentBlt",
+                "AlphaBlend"
+            ],
+            "USER32.dll": [
+                "SetFocus",
+                "GetMessagePos",
+                "SetMenuItemBitmaps",
+                "DestroyMenu",
+                "PostQuitMessage",
+                "GetForegroundWindow",
+                "LoadBitmapA",
+                "SetWindowPos",
+                "IsWindow",
+                "DispatchMessageA",
+                "EndPaint",
+                "GrayStringA",
+                "WindowFromPoint",
+                "GetMessageTime",
+                "SetActiveWindow",
+                "GetMenuItemID",
+                "GetCursorPos",
+                "MapDialogRect",
+                "GetDlgCtrlID",
+                "GetClassInfoA",
+                "GetMenu",
+                "UnregisterClassA",
+                "SendMessageA",
+                "GetClientRect",
+                "GetNextDlgTabItem",
+                "CallNextHookEx",
+                "GetWindowTextLengthA",
+                "CopyAcceleratorTableA",
+                "ClientToScreen",
+                "GetTopWindow",
+                "LoadImageA",
+                "GetActiveWindow",
+                "GetWindowTextA",
+                "InvalidateRgn",
+                "PtInRect",
+                "GetMessageA",
+                "GetParent",
+                "UpdateWindow",
+                "SetPropA",
+                "EqualRect",
+                "GetClassInfoExA",
+                "ShowWindow",
+                "GetPropA",
+                "GetNextDlgGroupItem",
+                "GetMenuState",
+                "EnableWindow",
+                "PeekMessageA",
+                "TranslateMessage",
+                "IsWindowEnabled",
+                "GetWindow",
+                "CharUpperA",
+                "GetWindowPlacement",
+                "IsIconic",
+                "RegisterClassA",
+                "TabbedTextOutA",
+                "GetWindowLongA",
+                "SetTimer",
+                "CopyRect",
+                "GetSysColorBrush",
+                "ReleaseDC",
+                "DestroyWindow",
+                "IsChild",
+                "IsDialogMessageA",
+                "MapWindowPoints",
+                "SetCapture",
+                "BeginPaint",
+                "OffsetRect",
+                "CopyIcon",
+                "KillTimer",
+                "CharNextA",
+                "TrackMouseEvent",
+                "RegisterWindowMessageA",
+                "DefWindowProcA",
+                "SendDlgItemMessageA",
+                "GetSystemMetrics",
+                "EnableMenuItem",
+                "GetWindowRect",
+                "InflateRect",
+                "PostMessageA",
+                "ReleaseCapture",
+                "SetWindowLongA",
+                "IsRectEmpty",
+                "RemovePropA",
+                "SetWindowTextA",
+                "CheckMenuItem",
+                "GetSubMenu",
+                "GetLastActivePopup",
+                "CreateWindowExA",
+                "GetDlgItem",
+                "GetMenuCheckMarkDimensions",
+                "BringWindowToTop",
+                "ScreenToClient",
+                "GetClassLongA",
+                "GetCapture",
+                "LoadCursorA",
+                "LoadIconA",
+                "TrackPopupMenu",
+                "SetWindowsHookExA",
+                "GetMenuItemCount",
+                "GetDesktopWindow",
+                "GetDC",
+                "SetForegroundWindow",
+                "PostThreadMessageA",
+                "DrawTextA",
+                "IntersectRect",
+                "EndDialog",
+                "LoadMenuA",
+                "SetWindowContextHelpId",
+                "CreateDialogIndirectParamA",
+                "MessageBeep",
+                "DrawTextExA",
+                "GetWindowThreadProcessId",
+                "UnhookWindowsHookEx",
+                "RegisterClipboardFormatA",
+                "MoveWindow",
+                "MessageBoxA",
+                "GetWindowDC",
+                "AdjustWindowRectEx",
+                "GetSysColor",
+                "GetKeyState",
+                "SystemParametersInfoA",
+                "IsWindowVisible",
+                "WinHelpA",
+                "SetRect",
+                "InvalidateRect",
+                "wsprintfA",
+                "ValidateRect",
+                "CallWindowProcA",
+                "GetClassNameA",
+                "GetFocus",
+                "ModifyMenuA",
+                "SetCursor"
+            ],
+            "COMCTL32.dll": [
+                "InitCommonControlsEx"
+            ]
+        },
+        "pe-entry-point": 547148,
+        "sections": [
+            [
+                ".text",
+                4096,
+                716477,
+                716800,
+                "6.64",
+                "2749996fd0988d9cfb1ff722de10118d"
+            ],
+            [
+                ".rdata",
+                720896,
+                120810,
+                122880,
+                "5.38",
+                "0d4ffb4fef4dfa1149c0662e6278d92e"
+            ],
+            [
+                ".data",
+                843776,
+                53372,
+                36864,
+                "3.61",
+                "87deb4e726e233b056e79b11572e0951"
+            ],
+            [
+                ".rsrc",
+                901120,
+                148536,
+                151552,
+                "7.20",
+                "91310d8b05f0f9eddc2e700255bc17ac"
+            ]
+        ],
+        "pe-resource-detail": [
+            {
+                "lang": "ENGLISH EIRE",
+                "chi2": 565818.125,
+                "filetype": "audio/x-wav",
+                "entropy": 3.70814847946167,
+                "sha256": "a7f446d31ccff19a043e06c6e592eff704efd2e54ddaae251be194b505f1e4d8",
+                "type": "AVI"
+            },
+            {
+                "lang": "CHINESE SIMPLIFIED",
+                "chi2": 263.7447204589844,
+                "filetype": "data",
+                "entropy": 7.990628242492676,
+                "sha256": "4693f18ee190a21095f877327ad527c3d90bd00e61c70b83241940494a825140",
+                "type": "SKIN"
+            },
+            {
+                "lang": "CHINESE SIMPLIFIED",
+                "chi2": 19095.8359375,
+                "filetype": "application/x-ms-dos-executable",
+                "entropy": 7.933253288269043,
+                "sha256": "04a21516ea0b198bca5b7b0e96583a653170815cc0d8526966492a62b833b928",
+                "type": "SKIN"
+            },
+            {
+                "lang": "CHINESE SIMPLIFIED",
+                "chi2": 20527.75,
+                "filetype": "data",
+                "entropy": 3.026951551437378,
+                "sha256": "fbeb3be87e80cb8e1d2af3d8140796c1bb80c6c7056f60897088ff9e355c3867",
+                "type": "RT_CURSOR"
+            },
+            {
+                "lang": "CHINESE SIMPLIFIED",
+                "chi2": 18573.416015625,
+                "filetype": "data",
+                "entropy": 2.7427444458007812,
+                "sha256": "f64ccc0582bc7c66af8b40049e485e8e241335261ec95ace909293ba50b2e4a3",
+                "type": "RT_CURSOR"
+            },
+            {
+                "lang": "CHINESE SIMPLIFIED",
+                "chi2": 25932.00390625,
+                "filetype": "data",
+                "entropy": 2.3403780460357666,
+                "sha256": "652988945185cf5d604d9b48de66288d82d8ed0acdd134398e90d002d2d9fc72",
+                "type": "RT_CURSOR"
+            },
+            {
+                "lang": "CHINESE SIMPLIFIED",
+                "chi2": 25714.23828125,
+                "filetype": "data",
+                "entropy": 2.3400356769561768,
+                "sha256": "0b0e16c38a3d5a85566e67b1d9a7e720e4dee27e163b06099d3d7dfa5dbed9ee",
+                "type": "RT_CURSOR"
+            },
+            {
+                "lang": "CHINESE SIMPLIFIED",
+                "chi2": 23739.37109375,
+                "filetype": "data",
+                "entropy": 2.5164902210235596,
+                "sha256": "368f9cb089d206a8b61251f0c85eeda97ee08a56b33be8579246e964d3af6169",
+                "type": "RT_CURSOR"
+            },
+            {
+                "lang": "CHINESE SIMPLIFIED",
+                "chi2": 24244.720703125,
+                "filetype": "data",
+                "entropy": 2.4540092945098877,
+                "sha256": "6440c3a38dcfb81d45bc6be31b776fdae116dd7a2933b407b67132f6cfa0e6eb",
+                "type": "RT_CURSOR"
+            },
+            {
+                "lang": "CHINESE SIMPLIFIED",
+                "chi2": 26429.05078125,
+                "filetype": "data",
+                "entropy": 2.348637342453003,
+                "sha256": "9882a8462ce9de3cc9a5d0ca48c8c4f7ca97f1f846f0c10e6655e33c9734b152",
+                "type": "RT_CURSOR"
+            },
+            {
+                "lang": "CHINESE SIMPLIFIED",
+                "chi2": 26435.69921875,
+                "filetype": "data",
+                "entropy": 2.345054864883423,
+                "sha256": "322e92d75b3fec9e16b81466f4cf111d298b80812d5b238f4ee032c025a02050",
+                "type": "RT_CURSOR"
+            },
+            {
+                "lang": "CHINESE SIMPLIFIED",
+                "chi2": 26429.05078125,
+                "filetype": "data",
+                "entropy": 2.348637342453003,
+                "sha256": "8db6df648274a0fc3d28430367216e1c17c364ca613066cbb0e133637e92ba62",
+                "type": "RT_CURSOR"
+            },
+            {
+                "lang": "CHINESE SIMPLIFIED",
+                "chi2": 26837.984375,
+                "filetype": "data",
+                "entropy": 2.3111374378204346,
+                "sha256": "f9c81ce9b4176b305c554a15f0ca2b98b11be76c1f13ef22169999aa07e9612f",
+                "type": "RT_CURSOR"
+            },
+            {
+                "lang": "CHINESE SIMPLIFIED",
+                "chi2": 16714.326171875,
+                "filetype": "data",
+                "entropy": 3.3360934257507324,
+                "sha256": "601635482a9b1864ea0c61ce0282c5c9fe1d014aa95dbb4f60770f1c2b6df3da",
+                "type": "RT_CURSOR"
+            },
+            {
+                "lang": "CHINESE SIMPLIFIED",
+                "chi2": 20248.46484375,
+                "filetype": "data",
+                "entropy": 2.8131332397460938,
+                "sha256": "2bf742d2beb4c56dd6eb68347dd8ee28da85bed9e6d165b36c6edb91da01d5d6",
+                "type": "RT_CURSOR"
+            },
+            {
+                "lang": "CHINESE SIMPLIFIED",
+                "chi2": 11233.6103515625,
+                "filetype": "data",
+                "entropy": 3.8149096965789795,
+                "sha256": "cfc4ff9e46fbb61f61b68f36adc6593b137233d1cbaa50fe37e5653f0cb20396",
+                "type": "RT_CURSOR"
+            },
+            {
+                "lang": "CHINESE SIMPLIFIED",
+                "chi2": 30411.99609375,
+                "filetype": "data",
+                "entropy": 2.1001555919647217,
+                "sha256": "c4a6e3a7a346baecb09a0c49268eb44f388382a7866a4e912b53d48fa3b34c26",
+                "type": "RT_CURSOR"
+            },
+            {
+                "lang": "CHINESE SIMPLIFIED",
+                "chi2": 31043.689453125,
+                "filetype": "data",
+                "entropy": 1.9705222845077515,
+                "sha256": "f273e554605a89aa0994c9d42bc2569be3db5b19b2900dacb30f3218ed1174a0",
+                "type": "RT_CURSOR"
+            },
+            {
+                "lang": "CHINESE SIMPLIFIED",
+                "chi2": 28832.78125,
+                "filetype": "data",
+                "entropy": 2.2269911766052246,
+                "sha256": "ebaf4bcc0f0d7ca9a3458ea52520d2dd10811069241940b9b2e79ac1a4c3ca5c",
+                "type": "RT_CURSOR"
+            },
+            {
+                "lang": "CHINESE SIMPLIFIED",
+                "chi2": 15874.4365234375,
+                "filetype": "data",
+                "entropy": 2.236664295196533,
+                "sha256": "e7c0005285d1ab59732d5f99f77a9bdd6342b01cf44437ebd7a07611a227e272",
+                "type": "RT_BITMAP"
+            },
+            {
+                "lang": "CHINESE SIMPLIFIED",
+                "chi2": 15870.369140625,
+                "filetype": "data",
+                "entropy": 2.876206636428833,
+                "sha256": "abdf36bde89a26349f5741c17c235dacea88d441d8662ba16a598dc50c3c4864",
+                "type": "RT_BITMAP"
+            },
+            {
+                "lang": "CHINESE SIMPLIFIED",
+                "chi2": 304869.0625,
+                "filetype": "data",
+                "entropy": 5.5427565574646,
+                "sha256": "05c276379b3c1fafbc95910667a6fc86db5d62bf40c30e20946497932f4544c7",
+                "type": "RT_ICON"
+            },
+            {
+                "lang": "CHINESE SIMPLIFIED",
+                "chi2": 5148.84765625,
+                "filetype": "data",
+                "entropy": 4.5596232414245605,
+                "sha256": "7765ed10182b3a0596a5b7786a4b623623cb0d88c2bb58d9d7d37ef7739a954e",
+                "type": "RT_MENU"
+            },
+            {
+                "lang": "CHINESE SIMPLIFIED",
+                "chi2": 2913.217041015625,
+                "filetype": "data",
+                "entropy": 3.8831210136413574,
+                "sha256": "b10dbc12b07de942d7e2345d62b5c5eab682e0db1909b88c2e69bc022ed67f9e",
+                "type": "RT_MENU"
+            },
+            {
+                "lang": "CHINESE SIMPLIFIED",
+                "chi2": 7087.998046875,
+                "filetype": "data",
+                "entropy": 3.573075532913208,
+                "sha256": "90b9dda4721d2340f33eb4bb10bc7c76836bf57b4ec488829087a33090695847",
+                "type": "RT_DIALOG"
+            },
+            {
+                "lang": "CHINESE SIMPLIFIED",
+                "chi2": 23906.5078125,
+                "filetype": "data",
+                "entropy": 3.568779945373535,
+                "sha256": "6aa71d6a26cde04aadbbfefb689bf35bb564af2f3bb8a6918d596c8ea63d4006",
+                "type": "RT_DIALOG"
+            },
+            {
+                "lang": "CHINESE SIMPLIFIED",
+                "chi2": 30798.26171875,
+                "filetype": "data",
+                "entropy": 3.761162281036377,
+                "sha256": "22191cff37ecdb7e392b71b71a0119f633230dadb323243fb935b9fb34bbe438",
+                "type": "RT_DIALOG"
+            },
+            {
+                "lang": "CHINESE SIMPLIFIED",
+                "chi2": 20278.216796875,
+                "filetype": "data",
+                "entropy": 3.2881124019622803,
+                "sha256": "a281289f1231b54bb3803ff8d16ba05ff7c4cbf1c3c83195e85543905ad0fba8",
+                "type": "RT_DIALOG"
+            },
+            {
+                "lang": "CHINESE SIMPLIFIED",
+                "chi2": 25101.447265625,
+                "filetype": "data",
+                "entropy": 3.420152425765991,
+                "sha256": "1edf6767fadba4637e8b12b63212f187e9bc9d3242487b16d50916ac616437cb",
+                "type": "RT_DIALOG"
+            },
+            {
+                "lang": "CHINESE SIMPLIFIED",
+                "chi2": 55328.9453125,
+                "filetype": "data",
+                "entropy": 4.314382076263428,
+                "sha256": "1c98e7b127220695bbdca8eff1d5ebfdd1c8f69441376380b04b640a06680a92",
+                "type": "RT_DIALOG"
+            },
+            {
+                "lang": "ENGLISH EIRE",
+                "chi2": 54568.4609375,
+                "filetype": "data",
+                "entropy": 3.1221389770507812,
+                "sha256": "dea879b05e84f62a637411b4dae5fcb4408af5a25be4a1f3cc639d9949e9f4e6",
+                "type": "RT_DIALOG"
+            },
+            {
+                "lang": "ENGLISH EIRE",
+                "chi2": 41761.60546875,
+                "filetype": "data",
+                "entropy": 3.278719186782837,
+                "sha256": "28b5698fd9bd7879a945745e3f5590c7af1113ff9bc1c357bdc4926a645042c4",
+                "type": "RT_DIALOG"
+            },
+            {
+                "lang": "CHINESE SIMPLIFIED",
+                "chi2": 20890.2109375,
+                "filetype": "data",
+                "entropy": 3.0667619705200195,
+                "sha256": "6e113fd8e9f3156ae68251c6076beb9b59fe29e589d06398e7019802521f69d3",
+                "type": "RT_DIALOG"
+            },
+            {
+                "lang": "CHINESE SIMPLIFIED",
+                "chi2": 5146.76708984375,
+                "filetype": "data",
+                "entropy": 2.416691780090332,
+                "sha256": "4cf716efaf68e0cb2ec45ec55d291050b5712b05653cae68edbb999f803d2a98",
+                "type": "RT_DIALOG"
+            },
+            {
+                "lang": "ENGLISH EIRE",
+                "chi2": 24977.669921875,
+                "filetype": "ASCII text",
+                "entropy": 3.1200008392333984,
+                "sha256": "f47e65628355e68edcb0fa52a1ecb51ad5c02ebe29e2a14120d4c810556f1ce3",
+                "type": "RT_STRING"
+            },
+            {
+                "lang": "ENGLISH EIRE",
+                "chi2": 48552.21875,
+                "filetype": "ASCII text",
+                "entropy": 3.183891534805298,
+                "sha256": "8fb31bd16061fce5e6a3261562a3c3e48709e8001ce33b839dd1669a55ef22b9",
+                "type": "RT_STRING"
+            },
+            {
+                "lang": "ENGLISH EIRE",
+                "chi2": 30802.76171875,
+                "filetype": "ASCII text",
+                "entropy": 3.3610637187957764,
+                "sha256": "373e6f041785acd63a05014297a83cf04dbf607ea8981569b8209ba5777a0df2",
+                "type": "RT_STRING"
+            },
+            {
+                "lang": "CHINESE SIMPLIFIED",
+                "chi2": 11575.0986328125,
+                "filetype": "ASCII text",
+                "entropy": 2.8170533180236816,
+                "sha256": "d91dc4e26fd86def5ee907c72f32457bea07d21fa618012245f641d08501548d",
+                "type": "RT_STRING"
+            },
+            {
+                "lang": "CHINESE SIMPLIFIED",
+                "chi2": 7893.99951171875,
+                "filetype": "ASCII text",
+                "entropy": 0.9609531760215759,
+                "sha256": "05e0d5787611ed4f643733e3e6e62d00f426422b5d3e443ceebac22e9d294bc4",
+                "type": "RT_STRING"
+            },
+            {
+                "lang": "CHINESE SIMPLIFIED",
+                "chi2": 29366.591796875,
+                "filetype": "ASCII text",
+                "entropy": 3.085610866546631,
+                "sha256": "66f1747ba4c17f6fca44818ed98445f01645651c120e72f558245e2df6949d35",
+                "type": "RT_STRING"
+            },
+            {
+                "lang": "CHINESE SIMPLIFIED",
+                "chi2": 83957.0,
+                "filetype": "ASCII text",
+                "entropy": 3.261389970779419,
+                "sha256": "d036e1af5639fb867f5035330e81788bbc24eff762610e3f6bba5d78903a845a",
+                "type": "RT_STRING"
+            },
+            {
+                "lang": "CHINESE SIMPLIFIED",
+                "chi2": 55449.9140625,
+                "filetype": "ASCII text",
+                "entropy": 3.02530837059021,
+                "sha256": "c054645d86387fd491743027e6c2284d6a7262f6aced9321cbc1465cef2b6b1f",
+                "type": "RT_STRING"
+            },
+            {
+                "lang": "CHINESE SIMPLIFIED",
+                "chi2": 51396.890625,
+                "filetype": "ASCII text",
+                "entropy": 3.1699700355529785,
+                "sha256": "c1bc5318a82ea1a1809618040026851947f6aa5171d904a9e60966f4551ca1a3",
+                "type": "RT_STRING"
+            },
+            {
+                "lang": "CHINESE SIMPLIFIED",
+                "chi2": 12962.5224609375,
+                "filetype": "ASCII text",
+                "entropy": 2.7108659744262695,
+                "sha256": "35b5abb90316b4017d5531e031cbf15bae6e8dd46f6dd221701693a22a7795be",
+                "type": "RT_STRING"
+            },
+            {
+                "lang": "CHINESE SIMPLIFIED",
+                "chi2": 15271.3427734375,
+                "filetype": "ASCII text",
+                "entropy": 2.6390249729156494,
+                "sha256": "1b8660b0c53b94f3e029de58e56d08c8097a080244e9dc65d4155a9b603820d8",
+                "type": "RT_STRING"
+            },
+            {
+                "lang": "CHINESE SIMPLIFIED",
+                "chi2": 18244.58984375,
+                "filetype": "ASCII text",
+                "entropy": 2.878065586090088,
+                "sha256": "31bff9afbf08a8869318cd946a1d73a4425afefc5693c6e06671bde1e86de1dc",
+                "type": "RT_STRING"
+            },
+            {
+                "lang": "CHINESE SIMPLIFIED",
+                "chi2": 81938.0390625,
+                "filetype": "ASCII text",
+                "entropy": 3.2325892448425293,
+                "sha256": "36db380991291cac5c99e42332efda20210f63985544d95e8fa6ef85bf2bdf8e",
+                "type": "RT_STRING"
+            },
+            {
+                "lang": "CHINESE SIMPLIFIED",
+                "chi2": 43175.703125,
+                "filetype": "ASCII text",
+                "entropy": 3.0946567058563232,
+                "sha256": "7f51554313c6765ba649783a942064cdfe6f5a70248a6f56840f71969f87ced0",
+                "type": "RT_STRING"
+            },
+            {
+                "lang": "CHINESE SIMPLIFIED",
+                "chi2": 7961.8193359375,
+                "filetype": "ASCII text",
+                "entropy": 1.0787549018859863,
+                "sha256": "0714c554acd308b38c3d6319f7e470f76a16d712f696545eacac2bdc725dfb95",
+                "type": "RT_STRING"
+            },
+            {
+                "lang": "CHINESE SIMPLIFIED",
+                "chi2": 8288.9111328125,
+                "filetype": "ASCII text",
+                "entropy": 1.959641933441162,
+                "sha256": "1f1b61a7f04edc3691a6c9350132b09929d5bfa1c900f6ff500e55c5ebc63212",
+                "type": "RT_STRING"
+            },
+            {
+                "lang": "CHINESE SIMPLIFIED",
+                "chi2": 3007.8818359375,
+                "filetype": "Lotus 1-2-3",
+                "entropy": 2.173487663269043,
+                "sha256": "e6bef05177430dd0710b2878ea9028fb4cd23b7dd9e6066a7dce3934c8e05124",
+                "type": "RT_GROUP_CURSOR"
+            },
+            {
+                "lang": "CHINESE SIMPLIFIED",
+                "chi2": 1797.600341796875,
+                "filetype": "Lotus 1-2-3",
+                "entropy": 2.0192408561706543,
+                "sha256": "9c17b4621412d6ded24a76aed74d4425ae61f86b6d4092ca1e28ca66b7c71399",
+                "type": "RT_GROUP_CURSOR"
+            },
+            {
+                "lang": "CHINESE SIMPLIFIED",
+                "chi2": 1797.600341796875,
+                "filetype": "Lotus 1-2-3",
+                "entropy": 2.0192408561706543,
+                "sha256": "ff47a48c11c234903a7d625cb8b62101909f735ad84266c98dd4834549452c39",
+                "type": "RT_GROUP_CURSOR"
+            },
+            {
+                "lang": "CHINESE SIMPLIFIED",
+                "chi2": 1797.600341796875,
+                "filetype": "Lotus 1-2-3",
+                "entropy": 2.0192408561706543,
+                "sha256": "ec26c438d10e3e84ec855c47f07a176e6c11bbfae1557d526490711b80f087fe",
+                "type": "RT_GROUP_CURSOR"
+            },
+            {
+                "lang": "CHINESE SIMPLIFIED",
+                "chi2": 1797.600341796875,
+                "filetype": "Lotus 1-2-3",
+                "entropy": 2.0192408561706543,
+                "sha256": "326c048595bbc72e3f989cb3b95fbf09dc83739ced3cb13eb6f03336f95d74f1",
+                "type": "RT_GROUP_CURSOR"
+            },
+            {
+                "lang": "CHINESE SIMPLIFIED",
+                "chi2": 1797.600341796875,
+                "filetype": "Lotus 1-2-3",
+                "entropy": 2.0192408561706543,
+                "sha256": "ef309b720f166673cad840a88e7636e9161ad91415cc7c176010cebba07757e5",
+                "type": "RT_GROUP_CURSOR"
+            },
+            {
+                "lang": "CHINESE SIMPLIFIED",
+                "chi2": 1797.600341796875,
+                "filetype": "Lotus 1-2-3",
+                "entropy": 2.0192408561706543,
+                "sha256": "6e1e7738a1b6373d8829f817915822ef415a1727bb5bb7cfe809e31b3c143ac5",
+                "type": "RT_GROUP_CURSOR"
+            },
+            {
+                "lang": "CHINESE SIMPLIFIED",
+                "chi2": 1797.600341796875,
+                "filetype": "Lotus 1-2-3",
+                "entropy": 2.0192408561706543,
+                "sha256": "28b8110695851e5280ff55cb78507b03e8b74dd370b8e122179c82b56f7e5f37",
+                "type": "RT_GROUP_CURSOR"
+            },
+            {
+                "lang": "CHINESE SIMPLIFIED",
+                "chi2": 1797.600341796875,
+                "filetype": "Lotus 1-2-3",
+                "entropy": 2.0192408561706543,
+                "sha256": "a0adcedb82b57089f64e2857f97cefd6cf25f4d27eefc6648bda83fd5fef66bb",
+                "type": "RT_GROUP_CURSOR"
+            },
+            {
+                "lang": "CHINESE SIMPLIFIED",
+                "chi2": 1797.600341796875,
+                "filetype": "Lotus 1-2-3",
+                "entropy": 2.0192408561706543,
+                "sha256": "a92f60b25322592e7ddd13d88e4006c097666f4d87c8cb0c21ffdccd53b31d78",
+                "type": "RT_GROUP_CURSOR"
+            },
+            {
+                "lang": "CHINESE SIMPLIFIED",
+                "chi2": 1797.600341796875,
+                "filetype": "Lotus 1-2-3",
+                "entropy": 2.0192408561706543,
+                "sha256": "8a495f17bc472bfc5e6923d9efa687848fac027ad60694f9c3f10a4f7b194924",
+                "type": "RT_GROUP_CURSOR"
+            },
+            {
+                "lang": "CHINESE SIMPLIFIED",
+                "chi2": 1797.600341796875,
+                "filetype": "Lotus 1-2-3",
+                "entropy": 2.0192408561706543,
+                "sha256": "a2f0549cca7170ae03ba042464efe62365fba38c20049e439871c9e5ce0f914f",
+                "type": "RT_GROUP_CURSOR"
+            },
+            {
+                "lang": "CHINESE SIMPLIFIED",
+                "chi2": 1797.600341796875,
+                "filetype": "Lotus 1-2-3",
+                "entropy": 2.0192408561706543,
+                "sha256": "4ecc7f2578fd7b137c04f85ffcbd67d6eab0bc8b1df4246cebd2a2aa517f3c60",
+                "type": "RT_GROUP_CURSOR"
+            },
+            {
+                "lang": "CHINESE SIMPLIFIED",
+                "chi2": 1797.600341796875,
+                "filetype": "Lotus 1-2-3",
+                "entropy": 2.0192408561706543,
+                "sha256": "12a5b9052dd16bed260343bc4352d436167c991c54497c5af441304646549386",
+                "type": "RT_GROUP_CURSOR"
+            },
+            {
+                "lang": "CHINESE SIMPLIFIED",
+                "chi2": 1797.600341796875,
+                "filetype": "Lotus 1-2-3",
+                "entropy": 2.0192408561706543,
+                "sha256": "ee63d4681e7622067fd29005c6cc67b456031eb723c7239f05f1cb097af0ef98",
+                "type": "RT_GROUP_CURSOR"
+            },
+            {
+                "lang": "CHINESE SIMPLIFIED",
+                "chi2": 1823.2001953125,
+                "filetype": "data",
+                "entropy": 1.9192407131195068,
+                "sha256": "6eb54801f91b6d8effccbfaefe6b2d7705a274a75940e6226e24e0d4ec58c396",
+                "type": "RT_GROUP_ICON"
+            },
+            {
+                "lang": "ENGLISH US",
+                "chi2": 59815.5234375,
+                "filetype": "data",
+                "entropy": 3.342395305633545,
+                "sha256": "8cc002d222cf596d8ec9dd9cc4fb691cefc70d4bb6431f5caa1a578a1c3b6323",
+                "type": "RT_VERSION"
+            },
+            {
+                "lang": "CHINESE SIMPLIFIED",
+                "chi2": 44611.76171875,
+                "filetype": "data",
+                "entropy": 3.8897032737731934,
+                "sha256": "51b01d862d60ccc40c1bf6ea56d4b8f85d2cf67c443918569db9f1603270dd89",
+                "type": "RT_VERSION"
+            },
+            {
+                "lang": "ENGLISH US",
+                "chi2": 3274.3310546875,
+                "filetype": "ASCII text",
+                "entropy": 5.066987991333008,
+                "sha256": "491df5e526dedeba473e41db0354c4c2d6821f3c9d94a5de679691347e366e10",
+                "type": "RT_MANIFEST"
+            },
+            {
+                "lang": "CHINESE SIMPLIFIED",
+                "chi2": 27354.517578125,
+                "filetype": "data",
+                "entropy": 1.698333501815796,
+                "sha256": "25f585bd4924c6c79bc757dc1d18f8f7995a45d92c68df84f77ded4e8922ad3a",
+                "type": "Struct(240)"
+            },
+            {
+                "lang": "CHINESE SIMPLIFIED",
+                "chi2": 27348.494140625,
+                "filetype": "data",
+                "entropy": 1.7218629121780396,
+                "sha256": "b0be5e7409e91887ed482702dcd18000201ec7eac95311a87f9afc8a084262b3",
+                "type": "Struct(240)"
+            },
+            {
+                "lang": "CHINESE SIMPLIFIED",
+                "chi2": 27351.505859375,
+                "filetype": "data",
+                "entropy": 1.7100982666015625,
+                "sha256": "415ebeef86d6a9251c262c49432f8d82746aff1f5521d49272ed77d58d1508db",
+                "type": "Struct(240)"
+            }
+        ]
+    },
+    "size": 1032192,
+    "scan_id": "157b1c7e70e56ee8e80f37544593ce539f6df7e054ed12da4e43c79478eb9444-1578547004",
+    "total": 72,
+    "harmless_votes": 0,
+    "verbose_msg": "Scan finished, information embedded",
+    "sha256": "157b1c7e70e56ee8e80f37544593ce539f6df7e054ed12da4e43c79478eb9444",
+    "type": "Win32 EXE",
+    "scans": {
+        "Bkav": {
+            "detected": false,
+            "version": "1.3.0.9899",
+            "result": null,
+            "update": "20200108"
+        },
+        "MicroWorld-eScan": {
+            "detected": true,
+            "version": "14.0.297.0",
+            "result": "Gen:Variant.Strictor.105005",
+            "update": "20200109"
+        },
+        "VBA32": {
+            "detected": true,
+            "version": "4.3.0",
+            "result": "BScope.Trojan.Albu",
+            "update": "20200108"
+        },
+        "FireEye": {
+            "detected": true,
+            "version": "29.7.0.0",
+            "result": "Generic.mg.1d1822eb8967db79",
+            "update": "20200109"
+        },
+        "CAT-QuickHeal": {
+            "detected": false,
+            "version": "14.00",
+            "result": null,
+            "update": "20200108"
+        },
+        "McAfee": {
+            "detected": true,
+            "version": "6.0.6.653",
+            "result": "Artemis!1D1822EB8967",
+            "update": "20200109"
+        },
+        "Cylance": {
+            "detected": true,
+            "version": "2.3.1.101",
+            "result": "Unsafe",
+            "update": "20200109"
+        },
+        "Zillya": {
+            "detected": false,
+            "version": "2.0.0.3992",
+            "result": null,
+            "update": "20200108"
+        },
+        "SUPERAntiSpyware": {
+            "detected": false,
+            "version": "5.6.0.1032",
+            "result": null,
+            "update": "20200103"
+        },
+        "Sangfor": {
+            "detected": true,
+            "version": "1.0",
+            "result": "Malware",
+            "update": "20200107"
+        },
+        "K7AntiVirus": {
+            "detected": false,
+            "version": "11.86.32990",
+            "result": null,
+            "update": "20200108"
+        },
+        "Alibaba": {
+            "detected": true,
+            "version": "0.3.0.5",
+            "result": "Trojan:Win32/Generic.e8adca4f",
+            "update": "20190527"
+        },
+        "K7GW": {
+            "detected": false,
+            "version": "11.86.32992",
+            "result": null,
+            "update": "20200109"
+        },
+        "Cybereason": {
+            "detected": true,
+            "version": "1.2.449",
+            "result": "malicious.b8967d",
+            "update": "20190616"
+        },
+        "Arcabit": {
+            "detected": true,
+            "version": "1.0.0.869",
+            "result": "Trojan.Strictor.D19A2D",
+            "update": "20200108"
+        },
+        "TrendMicro": {
+            "detected": false,
+            "version": "11.0.0.1006",
+            "result": null,
+            "update": "20200109"
+        },
+        "Baidu": {
+            "detected": false,
+            "version": "1.0.0.2",
+            "result": null,
+            "update": "20190318"
+        },
+        "F-Prot": {
+            "detected": false,
+            "version": "4.7.1.166",
+            "result": null,
+            "update": "20200109"
+        },
+        "Symantec": {
+            "detected": true,
+            "version": "1.11.0.0",
+            "result": "ML.Attribute.HighConfidence",
+            "update": "20200109"
+        },
+        "TotalDefense": {
+            "detected": false,
+            "version": "37.1.62.1",
+            "result": null,
+            "update": "20200108"
+        },
+        "APEX": {
+            "detected": false,
+            "version": "5.103",
+            "result": null,
+            "update": "20200107"
+        },
+        "Avast": {
+            "detected": true,
+            "version": "18.4.3895.0",
+            "result": "Win32:Malware-gen",
+            "update": "20200109"
+        },
+        "ClamAV": {
+            "detected": false,
+            "version": "0.102.1.0",
+            "result": null,
+            "update": "20200108"
+        },
+        "Kaspersky": {
+            "detected": true,
+            "version": "15.0.1.13",
+            "result": "Trojan.Win32.Albu.ew",
+            "update": "20200109"
+        },
+        "BitDefender": {
+            "detected": true,
+            "version": "7.2",
+            "result": "Gen:Variant.Strictor.105005",
+            "update": "20200109"
+        },
+        "NANO-Antivirus": {
+            "detected": true,
+            "version": "1.0.134.25031",
+            "result": "Trojan.Win32.DownLoad3.ejivoi",
+            "update": "20200109"
+        },
+        "Paloalto": {
+            "detected": true,
+            "version": "1.0",
+            "result": "generic.ml",
+            "update": "20200109"
+        },
+        "ViRobot": {
+            "detected": true,
+            "version": "2014.3.20.0",
+            "result": "Trojan.Win32.A.Downloader.517632.F",
+            "update": "20200109"
+        },
+        "Tencent": {
+            "detected": false,
+            "version": "1.0.0.1",
+            "result": null,
+            "update": "20200109"
+        },
+        "Endgame": {
+            "detected": true,
+            "version": "3.0.15",
+            "result": "malicious (high confidence)",
+            "update": "20190918"
+        },
+        "Sophos": {
+            "detected": false,
+            "version": "4.98.0",
+            "result": null,
+            "update": "20200109"
+        },
+        "Comodo": {
+            "detected": false,
+            "version": "31940",
+            "result": null,
+            "update": "20200109"
+        },
+        "F-Secure": {
+            "detected": true,
+            "version": "12.0.86.52",
+            "result": "Heuristic.HEUR/AGEN.1016547",
+            "update": "20200109"
+        },
+        "DrWeb": {
+            "detected": true,
+            "version": "7.0.42.9300",
+            "result": "Trojan.DownLoad3.42318",
+            "update": "20200109"
+        },
+        "VIPRE": {
+            "detected": true,
+            "version": "80646",
+            "result": "Trojan.Win32.Generic!BT",
+            "update": "20200109"
+        },
+        "Invincea": {
+            "detected": true,
+            "version": "6.3.6.26157",
+            "result": "heuristic",
+            "update": "20191211"
+        },
+        "McAfee-GW-Edition": {
+            "detected": true,
+            "version": "v2017.3010",
+            "result": "BehavesLike.Win32.Generic.fh",
+            "update": "20200108"
+        },
+        "Trapmine": {
+            "detected": true,
+            "version": "3.2.16.890",
+            "result": "malicious.moderate.ml.score",
+            "update": "20191216"
+        },
+        "CMC": {
+            "detected": false,
+            "version": "1.1.0.977",
+            "result": null,
+            "update": "20190321"
+        },
+        "Emsisoft": {
+            "detected": true,
+            "version": "2018.12.0.1641",
+            "result": "Gen:Variant.Strictor.105005 (B)",
+            "update": "20200109"
+        },
+        "SentinelOne": {
+            "detected": true,
+            "version": "1.12.1.57",
+            "result": "DFI - Suspicious PE",
+            "update": "20191218"
+        },
+        "Cyren": {
+            "detected": false,
+            "version": "6.2.2.2",
+            "result": null,
+            "update": "20200109"
+        },
+        "Jiangmin": {
+            "detected": true,
+            "version": "16.0.100",
+            "result": "TrojanDownloader.Agent.csfi",
+            "update": "20200108"
+        },
+        "Webroot": {
+            "detected": false,
+            "version": "1.0.0.403",
+            "result": null,
+            "update": "20200109"
+        },
+        "Avira": {
+            "detected": true,
+            "version": "8.3.3.8",
+            "result": "HEUR/AGEN.1016547",
+            "update": "20200108"
+        },
+        "Fortinet": {
+            "detected": true,
+            "version": "6.2.137.0",
+            "result": "W32/Albu.EW!tr",
+            "update": "20200109"
+        },
+        "Kingsoft": {
+            "detected": false,
+            "version": "2013.8.14.323",
+            "result": null,
+            "update": "20200109"
+        },
+        "Microsoft": {
+            "detected": true,
+            "version": "1.1.16600.7",
+            "result": "Trojan:Win32/Wacatac.B!ml",
+            "update": "20200109"
+        },
+        "AegisLab": {
+            "detected": true,
+            "version": "4.2",
+            "result": "Trojan.Win32.Generic.4!c",
+            "update": "20191220"
+        },
+        "ZoneAlarm": {
+            "detected": true,
+            "version": "1.0",
+            "result": "Trojan.Win32.Albu.ew",
+            "update": "20200109"
+        },
+        "Avast-Mobile": {
+            "detected": false,
+            "version": "200106-02",
+            "result": null,
+            "update": "20200106"
+        },
+        "TACHYON": {
+            "detected": false,
+            "version": "2020-01-09.01",
+            "result": null,
+            "update": "20200109"
+        },
+        "AhnLab-V3": {
+            "detected": false,
+            "version": "3.17.0.26111",
+            "result": null,
+            "update": "20200108"
+        },
+        "Acronis": {
+            "detected": false,
+            "version": "1.1.1.58",
+            "result": null,
+            "update": "20200107"
+        },
+        "BitDefenderTheta": {
+            "detected": false,
+            "version": "7.2.37796.0",
+            "result": null,
+            "update": "20191223"
+        },
+        "ALYac": {
+            "detected": true,
+            "version": "1.1.1.5",
+            "result": "Gen:Variant.Strictor.105005",
+            "update": "20200109"
+        },
+        "MAX": {
+            "detected": true,
+            "version": "2019.9.16.1",
+            "result": "malware (ai score=99)",
+            "update": "20200109"
+        },
+        "Ad-Aware": {
+            "detected": true,
+            "version": "3.0.5.370",
+            "result": "Gen:Variant.Strictor.105005",
+            "update": "20200109"
+        },
+        "Malwarebytes": {
+            "detected": false,
+            "version": "3.6.4.330",
+            "result": null,
+            "update": "20200109"
+        },
+        "Zoner": {
+            "detected": false,
+            "version": "1.0.0.1",
+            "result": null,
+            "update": "20200109"
+        },
+        "ESET-NOD32": {
+            "detected": false,
+            "version": "20641",
+            "result": null,
+            "update": "20200109"
+        },
+        "TrendMicro-HouseCall": {
+            "detected": false,
+            "version": "10.0.0.1040",
+            "result": null,
+            "update": "20200109"
+        },
+        "Rising": {
+            "detected": true,
+            "version": "25.0.0.24",
+            "result": "Trojan.Albu!8.31C1 (CLOUD)",
+            "update": "20200109"
+        },
+        "Yandex": {
+            "detected": true,
+            "version": "5.5.2.24",
+            "result": "Trojan.Albu!fNeMBsqbTMc",
+            "update": "20200108"
+        },
+        "Ikarus": {
+            "detected": true,
+            "version": "0.1.5.2",
+            "result": "Trojan.Graftor",
+            "update": "20200108"
+        },
+        "eGambit": {
+            "detected": true,
+            "version": null,
+            "result": "Generic.Downloader",
+            "update": "20200109"
+        },
+        "GData": {
+            "detected": true,
+            "version": "A:25.24514B:26.17292",
+            "result": "Gen:Variant.Strictor.105005",
+            "update": "20200109"
+        },
+        "MaxSecure": {
+            "detected": true,
+            "version": "1.0.0.1",
+            "result": "Trojan.Malware.9415279.susgen",
+            "update": "20200108"
+        },
+        "AVG": {
+            "detected": true,
+            "version": "18.4.3895.0",
+            "result": "Win32:Malware-gen",
+            "update": "20200109"
+        },
+        "Panda": {
+            "detected": true,
+            "version": "4.6.4.2",
+            "result": "Trj/CI.A",
+            "update": "20200108"
+        },
+        "CrowdStrike": {
+            "detected": false,
+            "version": "1.0",
+            "result": null,
+            "update": "20190702"
+        },
+        "Qihoo-360": {
+            "detected": true,
+            "version": "1.0.0.1120",
+            "result": "HEUR/QVM41.2.Malware.Gen",
+            "update": "20200109"
+        }
+    },
+    "tags": [
+        "peexe"
+    ],
+    "authentihash": "828bef959b1d0d65fae78b5dd2b8119e02a763e741e3837b88896d89de985553",
+    "unique_sources": 2,
+    "positives": 43,
+    "ssdeep": "24576:IbSz8KsPITqqSmbpEO0HXgQBwJ2x0pVjgAl/b:Ic8KeExxgXgUcbR",
+    "md5": "1d1822eb8967db7927e632b394017e3c",
+    "permalink": "https://www.virustotal.com/gui/file/157b1c7e70e56ee8e80f37544593ce539f6df7e054ed12da4e43c79478eb9444/detection/f-157b1c7e70e56ee8e80f37544593ce539f6df7e054ed12da4e43c79478eb9444-1578547004",
+    "sha1": "1f1f37108ccce5f894b0e9bfc27df8cce891f0fe",
+    "resource": "1d1822eb8967db7927e632b394017e3c",
+    "response_code": 1,
+    "community_reputation": 0,
+    "malicious_votes": 0,
+    "ITW_urls": [],
+    "last_seen": "2020-01-09 05:16:44"
+}

@@ -1,0 +1,770 @@
+{
+    "type": "package",
+    "id": "package--656e9aea-b470-422d-9c74-cc9f71bd250f",
+    "schema_version": "5.0",
+    "maec_objects": [
+        {
+            "type": "malware-instance",
+            "id": "malware-instance--fabb6796-231b-4a99-95c1-76e6e72aa243",
+            "instance_object_refs": [
+                "0"
+            ],
+            "analysis_metadata": []
+        }
+    ],
+    "observable_objects": {
+        "0": {
+            "type": "file",
+            "hashes": {
+                "MD5": "d8c3729765fbfa7bd5d86ea2384d227f",
+                "SHA-1": "b85a25de7d5f49817e7edfe0bead6a180e7c1cff",
+                "SHA-256": "2dd27dbb9c77d4bd42712dc37f4aa26c7ecdff6835fc2123cc8d612345ea4029"
+            },
+            "extensions": {
+                "x-maec-avclass": [
+                    {
+                        "process": {
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=gb18030",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html"
+                            },
+                            "trid": "file seems to be plain text/ASCII (0.0%)",
+                            "magic": "HTML document text",
+                            "positives_delta": 6
+                        }
+                    },
+                    {
+                        "process": {
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=gb18030",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html"
+                            },
+                            "trid": "file seems to be plain text/ASCII (0.0%)",
+                            "magic": "HTML document text",
+                            "positives_delta": 6
+                        }
+                    },
+                    {
+                        "process": {
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=gb18030",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html"
+                            },
+                            "trid": "file seems to be plain text/ASCII (0.0%)",
+                            "magic": "HTML document text",
+                            "positives_delta": 6
+                        }
+                    },
+                    {
+                        "process": {
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=gb18030",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html"
+                            },
+                            "trid": "file seems to be plain text/ASCII (0.0%)",
+                            "magic": "HTML document text",
+                            "positives_delta": 6
+                        }
+                    },
+                    {
+                        "process": {
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=gb18030",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html"
+                            },
+                            "trid": "file seems to be plain text/ASCII (0.0%)",
+                            "magic": "HTML document text",
+                            "positives_delta": 6
+                        }
+                    },
+                    {
+                        "process": {
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=gb18030",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html"
+                            },
+                            "trid": "file seems to be plain text/ASCII (0.0%)",
+                            "magic": "HTML document text",
+                            "positives_delta": 6
+                        }
+                    },
+                    {
+                        "process": {
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=gb18030",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html"
+                            },
+                            "trid": "file seems to be plain text/ASCII (0.0%)",
+                            "magic": "HTML document text",
+                            "positives_delta": 6
+                        }
+                    },
+                    {
+                        "process": {
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=gb18030",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html"
+                            },
+                            "trid": "file seems to be plain text/ASCII (0.0%)",
+                            "magic": "HTML document text",
+                            "positives_delta": 6
+                        }
+                    },
+                    {
+                        "process": {
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=gb18030",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html"
+                            },
+                            "trid": "file seems to be plain text/ASCII (0.0%)",
+                            "magic": "HTML document text",
+                            "positives_delta": 6
+                        }
+                    },
+                    {
+                        "process": {
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=gb18030",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html"
+                            },
+                            "trid": "file seems to be plain text/ASCII (0.0%)",
+                            "magic": "HTML document text",
+                            "positives_delta": 6
+                        }
+                    },
+                    {
+                        "process": {
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=gb18030",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html"
+                            },
+                            "trid": "file seems to be plain text/ASCII (0.0%)",
+                            "magic": "HTML document text",
+                            "positives_delta": 6
+                        }
+                    },
+                    {
+                        "process": {
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=gb18030",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html"
+                            },
+                            "trid": "file seems to be plain text/ASCII (0.0%)",
+                            "magic": "HTML document text",
+                            "positives_delta": 6
+                        }
+                    },
+                    {
+                        "process": {
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=gb18030",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html"
+                            },
+                            "trid": "file seems to be plain text/ASCII (0.0%)",
+                            "magic": "HTML document text",
+                            "positives_delta": 6
+                        }
+                    },
+                    {
+                        "process": {
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=gb18030",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html"
+                            },
+                            "trid": "file seems to be plain text/ASCII (0.0%)",
+                            "magic": "HTML document text",
+                            "positives_delta": 6
+                        }
+                    },
+                    {
+                        "process": {
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=gb18030",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html"
+                            },
+                            "trid": "file seems to be plain text/ASCII (0.0%)",
+                            "magic": "HTML document text",
+                            "positives_delta": 6
+                        }
+                    },
+                    {
+                        "process": {
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=gb18030",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html"
+                            },
+                            "trid": "file seems to be plain text/ASCII (0.0%)",
+                            "magic": "HTML document text",
+                            "positives_delta": 6
+                        }
+                    },
+                    {
+                        "process": {
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=gb18030",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html"
+                            },
+                            "trid": "file seems to be plain text/ASCII (0.0%)",
+                            "magic": "HTML document text",
+                            "positives_delta": 6
+                        }
+                    },
+                    {
+                        "process": {
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=gb18030",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html"
+                            },
+                            "trid": "file seems to be plain text/ASCII (0.0%)",
+                            "magic": "HTML document text",
+                            "positives_delta": 6
+                        }
+                    },
+                    {
+                        "process": {
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=gb18030",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html"
+                            },
+                            "trid": "file seems to be plain text/ASCII (0.0%)",
+                            "magic": "HTML document text",
+                            "positives_delta": 6
+                        }
+                    },
+                    {
+                        "process": {
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=gb18030",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html"
+                            },
+                            "trid": "file seems to be plain text/ASCII (0.0%)",
+                            "magic": "HTML document text",
+                            "positives_delta": 6
+                        }
+                    },
+                    {
+                        "process": {
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=gb18030",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html"
+                            },
+                            "trid": "file seems to be plain text/ASCII (0.0%)",
+                            "magic": "HTML document text",
+                            "positives_delta": 6
+                        }
+                    },
+                    {
+                        "process": {
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=gb18030",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html"
+                            },
+                            "trid": "file seems to be plain text/ASCII (0.0%)",
+                            "magic": "HTML document text",
+                            "positives_delta": 6
+                        }
+                    },
+                    {
+                        "process": {
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=gb18030",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html"
+                            },
+                            "trid": "file seems to be plain text/ASCII (0.0%)",
+                            "magic": "HTML document text",
+                            "positives_delta": 6
+                        }
+                    },
+                    {
+                        "process": {
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=gb18030",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html"
+                            },
+                            "trid": "file seems to be plain text/ASCII (0.0%)",
+                            "magic": "HTML document text",
+                            "positives_delta": 6
+                        }
+                    },
+                    {
+                        "process": {
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=gb18030",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html"
+                            },
+                            "trid": "file seems to be plain text/ASCII (0.0%)",
+                            "magic": "HTML document text",
+                            "positives_delta": 6
+                        }
+                    },
+                    {
+                        "process": {
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=gb18030",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html"
+                            },
+                            "trid": "file seems to be plain text/ASCII (0.0%)",
+                            "magic": "HTML document text",
+                            "positives_delta": 6
+                        }
+                    },
+                    {
+                        "process": {
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=gb18030",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html"
+                            },
+                            "trid": "file seems to be plain text/ASCII (0.0%)",
+                            "magic": "HTML document text",
+                            "positives_delta": 6
+                        }
+                    },
+                    {
+                        "process": {
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=gb18030",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html"
+                            },
+                            "trid": "file seems to be plain text/ASCII (0.0%)",
+                            "magic": "HTML document text",
+                            "positives_delta": 6
+                        }
+                    },
+                    {
+                        "process": {
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=gb18030",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html"
+                            },
+                            "trid": "file seems to be plain text/ASCII (0.0%)",
+                            "magic": "HTML document text",
+                            "positives_delta": 6
+                        }
+                    },
+                    {
+                        "process": {
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=gb18030",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html"
+                            },
+                            "trid": "file seems to be plain text/ASCII (0.0%)",
+                            "magic": "HTML document text",
+                            "positives_delta": 6
+                        }
+                    },
+                    {
+                        "process": {
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=gb18030",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html"
+                            },
+                            "trid": "file seems to be plain text/ASCII (0.0%)",
+                            "magic": "HTML document text",
+                            "positives_delta": 6
+                        }
+                    },
+                    {
+                        "process": {
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=gb18030",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html"
+                            },
+                            "trid": "file seems to be plain text/ASCII (0.0%)",
+                            "magic": "HTML document text",
+                            "positives_delta": 6
+                        }
+                    },
+                    {
+                        "process": {
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=gb18030",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html"
+                            },
+                            "trid": "file seems to be plain text/ASCII (0.0%)",
+                            "magic": "HTML document text",
+                            "positives_delta": 6
+                        }
+                    },
+                    {
+                        "process": {
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=gb18030",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html"
+                            },
+                            "trid": "file seems to be plain text/ASCII (0.0%)",
+                            "magic": "HTML document text",
+                            "positives_delta": 6
+                        }
+                    },
+                    {
+                        "process": {
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=gb18030",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html"
+                            },
+                            "trid": "file seems to be plain text/ASCII (0.0%)",
+                            "magic": "HTML document text",
+                            "positives_delta": 6
+                        }
+                    },
+                    {
+                        "process": {
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=gb18030",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html"
+                            },
+                            "trid": "file seems to be plain text/ASCII (0.0%)",
+                            "magic": "HTML document text",
+                            "positives_delta": 6
+                        }
+                    },
+                    {
+                        "process": {
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=gb18030",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html"
+                            },
+                            "trid": "file seems to be plain text/ASCII (0.0%)",
+                            "magic": "HTML document text",
+                            "positives_delta": 6
+                        }
+                    },
+                    {
+                        "process": {
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=gb18030",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html"
+                            },
+                            "trid": "file seems to be plain text/ASCII (0.0%)",
+                            "magic": "HTML document text",
+                            "positives_delta": 6
+                        }
+                    },
+                    {
+                        "process": {
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=gb18030",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html"
+                            },
+                            "trid": "file seems to be plain text/ASCII (0.0%)",
+                            "magic": "HTML document text",
+                            "positives_delta": 6
+                        }
+                    },
+                    {
+                        "process": {
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=gb18030",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html"
+                            },
+                            "trid": "file seems to be plain text/ASCII (0.0%)",
+                            "magic": "HTML document text",
+                            "positives_delta": 6
+                        }
+                    },
+                    {
+                        "process": {
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=gb18030",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html"
+                            },
+                            "trid": "file seems to be plain text/ASCII (0.0%)",
+                            "magic": "HTML document text",
+                            "positives_delta": 6
+                        }
+                    },
+                    {
+                        "process": {
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=gb18030",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html"
+                            },
+                            "trid": "file seems to be plain text/ASCII (0.0%)",
+                            "magic": "HTML document text",
+                            "positives_delta": 6
+                        }
+                    },
+                    {
+                        "process": {
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=gb18030",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html"
+                            },
+                            "trid": "file seems to be plain text/ASCII (0.0%)",
+                            "magic": "HTML document text",
+                            "positives_delta": 6
+                        }
+                    },
+                    {
+                        "process": {
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=gb18030",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html"
+                            },
+                            "trid": "file seems to be plain text/ASCII (0.0%)",
+                            "magic": "HTML document text",
+                            "positives_delta": 6
+                        }
+                    },
+                    {
+                        "process": {
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=gb18030",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html"
+                            },
+                            "trid": "file seems to be plain text/ASCII (0.0%)",
+                            "magic": "HTML document text",
+                            "positives_delta": 6
+                        }
+                    },
+                    {
+                        "process": {
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=gb18030",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html"
+                            },
+                            "trid": "file seems to be plain text/ASCII (0.0%)",
+                            "magic": "HTML document text",
+                            "positives_delta": 6
+                        }
+                    },
+                    {
+                        "process": {
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=gb18030",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html"
+                            },
+                            "trid": "file seems to be plain text/ASCII (0.0%)",
+                            "magic": "HTML document text",
+                            "positives_delta": 6
+                        }
+                    },
+                    {
+                        "process": {
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=gb18030",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html"
+                            },
+                            "trid": "file seems to be plain text/ASCII (0.0%)",
+                            "magic": "HTML document text",
+                            "positives_delta": 6
+                        }
+                    },
+                    {
+                        "process": {
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=gb18030",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html"
+                            },
+                            "trid": "file seems to be plain text/ASCII (0.0%)",
+                            "magic": "HTML document text",
+                            "positives_delta": 6
+                        }
+                    },
+                    {
+                        "process": {
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=gb18030",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html"
+                            },
+                            "trid": "file seems to be plain text/ASCII (0.0%)",
+                            "magic": "HTML document text",
+                            "positives_delta": 6
+                        }
+                    },
+                    {
+                        "process": {
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=gb18030",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html"
+                            },
+                            "trid": "file seems to be plain text/ASCII (0.0%)",
+                            "magic": "HTML document text",
+                            "positives_delta": 6
+                        }
+                    },
+                    {
+                        "process": {
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=gb18030",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html"
+                            },
+                            "trid": "file seems to be plain text/ASCII (0.0%)",
+                            "magic": "HTML document text",
+                            "positives_delta": 6
+                        }
+                    },
+                    {
+                        "process": {
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=gb18030",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html"
+                            },
+                            "trid": "file seems to be plain text/ASCII (0.0%)",
+                            "magic": "HTML document text",
+                            "positives_delta": 6
+                        }
+                    },
+                    {
+                        "process": {
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=gb18030",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html"
+                            },
+                            "trid": "file seems to be plain text/ASCII (0.0%)",
+                            "magic": "HTML document text",
+                            "positives_delta": 6
+                        }
+                    },
+                    {
+                        "process": {
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=gb18030",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html"
+                            },
+                            "trid": "file seems to be plain text/ASCII (0.0%)",
+                            "magic": "HTML document text",
+                            "positives_delta": 6
+                        }
+                    },
+                    {
+                        "process": {
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=gb18030",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html"
+                            },
+                            "trid": "file seems to be plain text/ASCII (0.0%)",
+                            "magic": "HTML document text",
+                            "positives_delta": 6
+                        }
+                    },
+                    {
+                        "process": {
+                            "exiftool": {
+                                "MIMEType": "text/html",
+                                "ContentType": "text/html; charset=gb18030",
+                                "FileType": "HTML",
+                                "FileTypeExtension": "html"
+                            },
+                            "trid": "file seems to be plain text/ASCII (0.0%)",
+                            "magic": "HTML document text",
+                            "positives_delta": 6
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

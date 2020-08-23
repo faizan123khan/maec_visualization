@@ -1,0 +1,431 @@
+{
+    "type": "package",
+    "id": "package--f73ec865-b657-445c-a17f-d4a5a07c6e4b",
+    "schema_version": "5.0",
+    "maec_objects": [
+        {
+            "type": "malware-instance",
+            "id": "malware-instance--99581e08-1f90-4ae4-82cb-ab4984f5214a",
+            "instance_object_refs": [
+                "0"
+            ],
+            "analysis_metadata": [
+                {
+                    "is_automated": true,
+                    "analysis_type": "static",
+                    "description": "Created by VirusTotal to MAEC (http://github.com/MAECProject/vt-to-maec)"
+                }
+            ]
+        }
+    ],
+    "observable_objects": {
+        "0": {
+            "type": "file",
+            "hashes": {
+                "MD5": "2c33c21972b9c39a5f6002381e4bed3f",
+                "SHA-1": "4ad7a0cfb17eb0233050b13811f56aeed93b3a42",
+                "SHA-256": "f1426c2df4d1927e9d3df88031a52fcc85186da06a24b50e0a46363619ed3605"
+            },
+            "extensions": {
+                "x-maec-avclass": [
+                    {
+                        "classification_name": null,
+                        "scan_date": "2014-01-29 13:28:10",
+                        "is_detected": false,
+                        "av_name": "Bkav",
+                        "av_vendor": "Bkav",
+                        "av_engine_version": "1.3.0.4923",
+                        "av_definition_version": "20140125"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2014-01-29 13:28:10",
+                        "is_detected": false,
+                        "av_name": "MicroWorld-eScan",
+                        "av_vendor": "MicroWorld-eScan",
+                        "av_engine_version": "12.0.250.0",
+                        "av_definition_version": "20140129"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2014-01-29 13:28:10",
+                        "is_detected": false,
+                        "av_name": "nProtect",
+                        "av_vendor": "nProtect",
+                        "av_engine_version": "2014-01-29.01",
+                        "av_definition_version": "20140129"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2014-01-29 13:28:10",
+                        "is_detected": false,
+                        "av_name": "CMC",
+                        "av_vendor": "CMC",
+                        "av_engine_version": "1.1.0.977",
+                        "av_definition_version": "20140122"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2014-01-29 13:28:10",
+                        "is_detected": false,
+                        "av_name": "CAT-QuickHeal",
+                        "av_vendor": "CAT-QuickHeal",
+                        "av_engine_version": "12.00",
+                        "av_definition_version": "20140129"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2014-01-29 13:28:10",
+                        "is_detected": false,
+                        "av_name": "McAfee",
+                        "av_vendor": "McAfee",
+                        "av_engine_version": "5.600.0.1067",
+                        "av_definition_version": "20140129"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2014-01-29 13:28:10",
+                        "is_detected": false,
+                        "av_name": "Malwarebytes",
+                        "av_vendor": "Malwarebytes",
+                        "av_engine_version": "1.75.0.1",
+                        "av_definition_version": "20140129"
+                    },
+                    {
+                        "classification_name": "Adware ( 0040f5df1 )",
+                        "scan_date": "2014-01-29 13:28:10",
+                        "is_detected": true,
+                        "av_name": "K7AntiVirus",
+                        "av_vendor": "K7AntiVirus",
+                        "av_engine_version": "9.175.10988",
+                        "av_definition_version": "20140128"
+                    },
+                    {
+                        "classification_name": "Adware ( 0040f5df1 )",
+                        "scan_date": "2014-01-29 13:28:10",
+                        "is_detected": true,
+                        "av_name": "K7GW",
+                        "av_vendor": "K7GW",
+                        "av_engine_version": "9.175.10988",
+                        "av_definition_version": "20140128"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2014-01-29 13:28:10",
+                        "is_detected": false,
+                        "av_name": "TheHacker",
+                        "av_vendor": "TheHacker",
+                        "av_engine_version": "6.8.0.5.400",
+                        "av_definition_version": "20140128"
+                    },
+                    {
+                        "classification_name": "Trojan.Win32.Downware.bczgvm",
+                        "scan_date": "2014-01-29 13:28:10",
+                        "is_detected": true,
+                        "av_name": "NANO-Antivirus",
+                        "av_vendor": "NANO-Antivirus",
+                        "av_engine_version": "0.28.0.57473",
+                        "av_definition_version": "20140129"
+                    },
+                    {
+                        "classification_name": "W32/IBrain.D.gen!Eldorado",
+                        "scan_date": "2014-01-29 13:28:10",
+                        "is_detected": true,
+                        "av_name": "F-Prot",
+                        "av_vendor": "F-Prot",
+                        "av_engine_version": "4.7.1.166",
+                        "av_definition_version": "20140129"
+                    },
+                    {
+                        "classification_name": "WS.Reputation.1",
+                        "scan_date": "2014-01-29 13:28:10",
+                        "is_detected": true,
+                        "av_name": "Symantec",
+                        "av_vendor": "Symantec",
+                        "av_engine_version": "20131.1.5.61",
+                        "av_definition_version": "20140129"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2014-01-29 13:28:10",
+                        "is_detected": false,
+                        "av_name": "Norman",
+                        "av_vendor": "Norman",
+                        "av_engine_version": "7.03.02",
+                        "av_definition_version": "20140129"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2014-01-29 13:28:10",
+                        "is_detected": false,
+                        "av_name": "TotalDefense",
+                        "av_vendor": "TotalDefense",
+                        "av_engine_version": "37.0.10498",
+                        "av_definition_version": "20140129"
+                    },
+                    {
+                        "classification_name": "Win32:InstallBrain-K [PUP]",
+                        "scan_date": "2014-01-29 13:28:10",
+                        "is_detected": true,
+                        "av_name": "Avast",
+                        "av_vendor": "Avast",
+                        "av_engine_version": "8.0.1489.320",
+                        "av_definition_version": "20140129"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2014-01-29 13:28:10",
+                        "is_detected": false,
+                        "av_name": "ClamAV",
+                        "av_vendor": "ClamAV",
+                        "av_engine_version": "0.97.3.0",
+                        "av_definition_version": "20140129"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2014-01-29 13:28:10",
+                        "is_detected": false,
+                        "av_name": "Kaspersky",
+                        "av_vendor": "Kaspersky",
+                        "av_engine_version": "12.0.0.1221",
+                        "av_definition_version": "20140129"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2014-01-29 13:28:10",
+                        "is_detected": false,
+                        "av_name": "BitDefender",
+                        "av_vendor": "BitDefender",
+                        "av_engine_version": "7.2.5028.0",
+                        "av_definition_version": "20140129"
+                    },
+                    {
+                        "classification_name": "Adware.BrainInst!",
+                        "scan_date": "2014-01-29 13:28:10",
+                        "is_detected": true,
+                        "av_name": "Agnitum",
+                        "av_vendor": "Agnitum",
+                        "av_engine_version": "5.5.1.3",
+                        "av_definition_version": "20140128"
+                    },
+                    {
+                        "classification_name": "Trojan.Agent/Gen-InstallBrain",
+                        "scan_date": "2014-01-29 13:28:10",
+                        "is_detected": true,
+                        "av_name": "SUPERAntiSpyware",
+                        "av_vendor": "SUPERAntiSpyware",
+                        "av_engine_version": "5.6.0.1032",
+                        "av_definition_version": "20140129"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2014-01-29 13:28:10",
+                        "is_detected": false,
+                        "av_name": "ByteHero",
+                        "av_vendor": "ByteHero",
+                        "av_engine_version": "1.0.0.1",
+                        "av_definition_version": "20140127"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2014-01-29 13:28:10",
+                        "is_detected": false,
+                        "av_name": "Ad-Aware",
+                        "av_vendor": "Ad-Aware",
+                        "av_engine_version": "12.0.163.0",
+                        "av_definition_version": "20140129"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2014-01-29 13:28:10",
+                        "is_detected": false,
+                        "av_name": "Emsisoft",
+                        "av_vendor": "Emsisoft",
+                        "av_engine_version": "3.0.0.596",
+                        "av_definition_version": "20140129"
+                    },
+                    {
+                        "classification_name": "Application.Win32.InstallBrain.BA",
+                        "scan_date": "2014-01-29 13:28:10",
+                        "is_detected": true,
+                        "av_name": "Comodo",
+                        "av_vendor": "Comodo",
+                        "av_engine_version": "17693",
+                        "av_definition_version": "20140129"
+                    },
+                    {
+                        "classification_name": "APPL/InstBr.640288",
+                        "scan_date": "2014-01-29 13:28:10",
+                        "is_detected": true,
+                        "av_name": "AntiVir",
+                        "av_vendor": "AntiVir",
+                        "av_engine_version": "7.11.127.214",
+                        "av_definition_version": "20140129"
+                    },
+                    {
+                        "classification_name": "Heuristic.LooksLike.Win32.Suspicious.E",
+                        "scan_date": "2014-01-29 13:28:10",
+                        "is_detected": true,
+                        "av_name": "McAfee-GW-Edition",
+                        "av_vendor": "McAfee-GW-Edition",
+                        "av_engine_version": "2013",
+                        "av_definition_version": "20140129"
+                    },
+                    {
+                        "classification_name": "InstallBrain",
+                        "scan_date": "2014-01-29 13:28:10",
+                        "is_detected": true,
+                        "av_name": "Sophos",
+                        "av_vendor": "Sophos",
+                        "av_engine_version": "4.97.0",
+                        "av_definition_version": "20140129"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2014-01-29 13:28:10",
+                        "is_detected": false,
+                        "av_name": "Jiangmin",
+                        "av_vendor": "Jiangmin",
+                        "av_engine_version": "16.0.100",
+                        "av_definition_version": "20140129"
+                    },
+                    {
+                        "classification_name": "AdWare/Win32.BrainInst",
+                        "scan_date": "2014-01-29 13:28:10",
+                        "is_detected": true,
+                        "av_name": "Antiy-AVL",
+                        "av_vendor": "Antiy-AVL",
+                        "av_engine_version": "2.0.3.7",
+                        "av_definition_version": "20140129"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2014-01-29 13:28:10",
+                        "is_detected": false,
+                        "av_name": "Kingsoft",
+                        "av_vendor": "Kingsoft",
+                        "av_engine_version": "2013.4.9.267",
+                        "av_definition_version": "20130829"
+                    },
+                    {
+                        "classification_name": "TrojanDownloader:Win32/Brantall.D",
+                        "scan_date": "2014-01-29 13:28:10",
+                        "is_detected": true,
+                        "av_name": "Microsoft",
+                        "av_vendor": "Microsoft",
+                        "av_engine_version": "1.10201",
+                        "av_definition_version": "20140129"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2014-01-29 13:28:10",
+                        "is_detected": false,
+                        "av_name": "ViRobot",
+                        "av_vendor": "ViRobot",
+                        "av_engine_version": "2011.4.7.4223",
+                        "av_definition_version": "20140129"
+                    },
+                    {
+                        "classification_name": "Win32.Application.InstallBrain.B",
+                        "scan_date": "2014-01-29 13:28:10",
+                        "is_detected": true,
+                        "av_name": "GData",
+                        "av_vendor": "GData",
+                        "av_engine_version": "24",
+                        "av_definition_version": "20140129"
+                    },
+                    {
+                        "classification_name": "W32/IBrain.D.gen!Eldorado",
+                        "scan_date": "2014-01-29 13:28:10",
+                        "is_detected": true,
+                        "av_name": "Commtouch",
+                        "av_vendor": "Commtouch",
+                        "av_engine_version": "5.4.1.7",
+                        "av_definition_version": "20140129"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2014-01-29 13:28:10",
+                        "is_detected": false,
+                        "av_name": "AhnLab-V3",
+                        "av_vendor": "AhnLab-V3",
+                        "av_engine_version": "2014.01.30.00",
+                        "av_definition_version": "20140129"
+                    },
+                    {
+                        "classification_name": "AdWare.BrainInst",
+                        "scan_date": "2014-01-29 13:28:10",
+                        "is_detected": true,
+                        "av_name": "VBA32",
+                        "av_vendor": "VBA32",
+                        "av_engine_version": "3.12.24.3",
+                        "av_definition_version": "20140129"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2014-01-29 13:28:10",
+                        "is_detected": false,
+                        "av_name": "Baidu-International",
+                        "av_vendor": "Baidu-International",
+                        "av_engine_version": "3.5.1.41473",
+                        "av_definition_version": "20140129"
+                    },
+                    {
+                        "classification_name": "a variant of Win32/InstallBrain.L",
+                        "scan_date": "2014-01-29 13:28:10",
+                        "is_detected": true,
+                        "av_name": "ESET-NOD32",
+                        "av_vendor": "ESET-NOD32",
+                        "av_engine_version": "9352",
+                        "av_definition_version": "20140129"
+                    },
+                    {
+                        "classification_name": "PE:Malware.InstallBrain!6.116",
+                        "scan_date": "2014-01-29 13:28:10",
+                        "is_detected": true,
+                        "av_name": "Rising",
+                        "av_vendor": "Rising",
+                        "av_engine_version": "25.0.0.11",
+                        "av_definition_version": "20140129"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2014-01-29 13:28:10",
+                        "is_detected": false,
+                        "av_name": "Ikarus",
+                        "av_vendor": "Ikarus",
+                        "av_engine_version": "T3.1.5.6.0",
+                        "av_definition_version": "20140129"
+                    },
+                    {
+                        "classification_name": "Adware/InstallBrain.OP",
+                        "scan_date": "2014-01-29 13:28:10",
+                        "is_detected": true,
+                        "av_name": "Fortinet",
+                        "av_vendor": "Fortinet",
+                        "av_engine_version": "5.1.147.0",
+                        "av_definition_version": "20140129"
+                    },
+                    {
+                        "classification_name": "PUP/Ibups",
+                        "scan_date": "2014-01-29 13:28:10",
+                        "is_detected": true,
+                        "av_name": "Panda",
+                        "av_vendor": "Panda",
+                        "av_engine_version": "10.0.3.5",
+                        "av_definition_version": "20140129"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2014-01-29 13:28:10",
+                        "is_detected": false,
+                        "av_name": "Qihoo-360",
+                        "av_vendor": "Qihoo-360",
+                        "av_engine_version": "1.0.0.1015",
+                        "av_definition_version": "20140127"
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,501 @@
+{
+    "type": "package",
+    "id": "package--ee449891-d3fa-480d-ba57-3b725de22142",
+    "schema_version": "5.0",
+    "maec_objects": [
+        {
+            "type": "malware-instance",
+            "id": "malware-instance--5aac2023-9d93-4a3f-91ac-fb37fa201ab1",
+            "instance_object_refs": [
+                "0"
+            ],
+            "analysis_metadata": []
+        }
+    ],
+    "observable_objects": {
+        "0": {
+            "type": "file",
+            "hashes": {
+                "MD5": "a2b41f9a22bbab8cdb883eaaf6498ad9",
+                "SHA-1": "6709d98928cda5287244ce9334ab29f4237fcc6a",
+                "SHA-256": "161f491c593c690e2b452ad26741b31c9c045e436bd5c4faac35a2752aae27e0"
+            },
+            "extensions": {
+                "x-maec-avclass": [
+                    {
+                        "process": {
+                            "trid": "Google Chrome Extension (100.0%)",
+                            "magic": "data",
+                            "trendmicro-housecall-heuristic": "Suspicious_GEN.F47V1024",
+                            "positives_delta": 8
+                        }
+                    },
+                    {
+                        "process": {
+                            "trid": "Google Chrome Extension (100.0%)",
+                            "magic": "data",
+                            "trendmicro-housecall-heuristic": "Suspicious_GEN.F47V1024",
+                            "positives_delta": 8
+                        }
+                    },
+                    {
+                        "process": {
+                            "trid": "Google Chrome Extension (100.0%)",
+                            "magic": "data",
+                            "trendmicro-housecall-heuristic": "Suspicious_GEN.F47V1024",
+                            "positives_delta": 8
+                        }
+                    },
+                    {
+                        "process": {
+                            "trid": "Google Chrome Extension (100.0%)",
+                            "magic": "data",
+                            "trendmicro-housecall-heuristic": "Suspicious_GEN.F47V1024",
+                            "positives_delta": 8
+                        }
+                    },
+                    {
+                        "process": {
+                            "trid": "Google Chrome Extension (100.0%)",
+                            "magic": "data",
+                            "trendmicro-housecall-heuristic": "Suspicious_GEN.F47V1024",
+                            "positives_delta": 8
+                        }
+                    },
+                    {
+                        "process": {
+                            "trid": "Google Chrome Extension (100.0%)",
+                            "magic": "data",
+                            "trendmicro-housecall-heuristic": "Suspicious_GEN.F47V1024",
+                            "positives_delta": 8
+                        }
+                    },
+                    {
+                        "process": {
+                            "trid": "Google Chrome Extension (100.0%)",
+                            "magic": "data",
+                            "trendmicro-housecall-heuristic": "Suspicious_GEN.F47V1024",
+                            "positives_delta": 8
+                        }
+                    },
+                    {
+                        "process": {
+                            "trid": "Google Chrome Extension (100.0%)",
+                            "magic": "data",
+                            "trendmicro-housecall-heuristic": "Suspicious_GEN.F47V1024",
+                            "positives_delta": 8
+                        }
+                    },
+                    {
+                        "process": {
+                            "trid": "Google Chrome Extension (100.0%)",
+                            "magic": "data",
+                            "trendmicro-housecall-heuristic": "Suspicious_GEN.F47V1024",
+                            "positives_delta": 8
+                        }
+                    },
+                    {
+                        "process": {
+                            "trid": "Google Chrome Extension (100.0%)",
+                            "magic": "data",
+                            "trendmicro-housecall-heuristic": "Suspicious_GEN.F47V1024",
+                            "positives_delta": 8
+                        }
+                    },
+                    {
+                        "process": {
+                            "trid": "Google Chrome Extension (100.0%)",
+                            "magic": "data",
+                            "trendmicro-housecall-heuristic": "Suspicious_GEN.F47V1024",
+                            "positives_delta": 8
+                        }
+                    },
+                    {
+                        "process": {
+                            "trid": "Google Chrome Extension (100.0%)",
+                            "magic": "data",
+                            "trendmicro-housecall-heuristic": "Suspicious_GEN.F47V1024",
+                            "positives_delta": 8
+                        }
+                    },
+                    {
+                        "process": {
+                            "trid": "Google Chrome Extension (100.0%)",
+                            "magic": "data",
+                            "trendmicro-housecall-heuristic": "Suspicious_GEN.F47V1024",
+                            "positives_delta": 8
+                        }
+                    },
+                    {
+                        "process": {
+                            "trid": "Google Chrome Extension (100.0%)",
+                            "magic": "data",
+                            "trendmicro-housecall-heuristic": "Suspicious_GEN.F47V1024",
+                            "positives_delta": 8
+                        }
+                    },
+                    {
+                        "process": {
+                            "trid": "Google Chrome Extension (100.0%)",
+                            "magic": "data",
+                            "trendmicro-housecall-heuristic": "Suspicious_GEN.F47V1024",
+                            "positives_delta": 8
+                        }
+                    },
+                    {
+                        "process": {
+                            "trid": "Google Chrome Extension (100.0%)",
+                            "magic": "data",
+                            "trendmicro-housecall-heuristic": "Suspicious_GEN.F47V1024",
+                            "positives_delta": 8
+                        }
+                    },
+                    {
+                        "process": {
+                            "trid": "Google Chrome Extension (100.0%)",
+                            "magic": "data",
+                            "trendmicro-housecall-heuristic": "Suspicious_GEN.F47V1024",
+                            "positives_delta": 8
+                        }
+                    },
+                    {
+                        "process": {
+                            "trid": "Google Chrome Extension (100.0%)",
+                            "magic": "data",
+                            "trendmicro-housecall-heuristic": "Suspicious_GEN.F47V1024",
+                            "positives_delta": 8
+                        }
+                    },
+                    {
+                        "process": {
+                            "trid": "Google Chrome Extension (100.0%)",
+                            "magic": "data",
+                            "trendmicro-housecall-heuristic": "Suspicious_GEN.F47V1024",
+                            "positives_delta": 8
+                        }
+                    },
+                    {
+                        "process": {
+                            "trid": "Google Chrome Extension (100.0%)",
+                            "magic": "data",
+                            "trendmicro-housecall-heuristic": "Suspicious_GEN.F47V1024",
+                            "positives_delta": 8
+                        }
+                    },
+                    {
+                        "process": {
+                            "trid": "Google Chrome Extension (100.0%)",
+                            "magic": "data",
+                            "trendmicro-housecall-heuristic": "Suspicious_GEN.F47V1024",
+                            "positives_delta": 8
+                        }
+                    },
+                    {
+                        "process": {
+                            "trid": "Google Chrome Extension (100.0%)",
+                            "magic": "data",
+                            "trendmicro-housecall-heuristic": "Suspicious_GEN.F47V1024",
+                            "positives_delta": 8
+                        }
+                    },
+                    {
+                        "process": {
+                            "trid": "Google Chrome Extension (100.0%)",
+                            "magic": "data",
+                            "trendmicro-housecall-heuristic": "Suspicious_GEN.F47V1024",
+                            "positives_delta": 8
+                        }
+                    },
+                    {
+                        "process": {
+                            "trid": "Google Chrome Extension (100.0%)",
+                            "magic": "data",
+                            "trendmicro-housecall-heuristic": "Suspicious_GEN.F47V1024",
+                            "positives_delta": 8
+                        }
+                    },
+                    {
+                        "process": {
+                            "trid": "Google Chrome Extension (100.0%)",
+                            "magic": "data",
+                            "trendmicro-housecall-heuristic": "Suspicious_GEN.F47V1024",
+                            "positives_delta": 8
+                        }
+                    },
+                    {
+                        "process": {
+                            "trid": "Google Chrome Extension (100.0%)",
+                            "magic": "data",
+                            "trendmicro-housecall-heuristic": "Suspicious_GEN.F47V1024",
+                            "positives_delta": 8
+                        }
+                    },
+                    {
+                        "process": {
+                            "trid": "Google Chrome Extension (100.0%)",
+                            "magic": "data",
+                            "trendmicro-housecall-heuristic": "Suspicious_GEN.F47V1024",
+                            "positives_delta": 8
+                        }
+                    },
+                    {
+                        "process": {
+                            "trid": "Google Chrome Extension (100.0%)",
+                            "magic": "data",
+                            "trendmicro-housecall-heuristic": "Suspicious_GEN.F47V1024",
+                            "positives_delta": 8
+                        }
+                    },
+                    {
+                        "process": {
+                            "trid": "Google Chrome Extension (100.0%)",
+                            "magic": "data",
+                            "trendmicro-housecall-heuristic": "Suspicious_GEN.F47V1024",
+                            "positives_delta": 8
+                        }
+                    },
+                    {
+                        "process": {
+                            "trid": "Google Chrome Extension (100.0%)",
+                            "magic": "data",
+                            "trendmicro-housecall-heuristic": "Suspicious_GEN.F47V1024",
+                            "positives_delta": 8
+                        }
+                    },
+                    {
+                        "process": {
+                            "trid": "Google Chrome Extension (100.0%)",
+                            "magic": "data",
+                            "trendmicro-housecall-heuristic": "Suspicious_GEN.F47V1024",
+                            "positives_delta": 8
+                        }
+                    },
+                    {
+                        "process": {
+                            "trid": "Google Chrome Extension (100.0%)",
+                            "magic": "data",
+                            "trendmicro-housecall-heuristic": "Suspicious_GEN.F47V1024",
+                            "positives_delta": 8
+                        }
+                    },
+                    {
+                        "process": {
+                            "trid": "Google Chrome Extension (100.0%)",
+                            "magic": "data",
+                            "trendmicro-housecall-heuristic": "Suspicious_GEN.F47V1024",
+                            "positives_delta": 8
+                        }
+                    },
+                    {
+                        "process": {
+                            "trid": "Google Chrome Extension (100.0%)",
+                            "magic": "data",
+                            "trendmicro-housecall-heuristic": "Suspicious_GEN.F47V1024",
+                            "positives_delta": 8
+                        }
+                    },
+                    {
+                        "process": {
+                            "trid": "Google Chrome Extension (100.0%)",
+                            "magic": "data",
+                            "trendmicro-housecall-heuristic": "Suspicious_GEN.F47V1024",
+                            "positives_delta": 8
+                        }
+                    },
+                    {
+                        "process": {
+                            "trid": "Google Chrome Extension (100.0%)",
+                            "magic": "data",
+                            "trendmicro-housecall-heuristic": "Suspicious_GEN.F47V1024",
+                            "positives_delta": 8
+                        }
+                    },
+                    {
+                        "process": {
+                            "trid": "Google Chrome Extension (100.0%)",
+                            "magic": "data",
+                            "trendmicro-housecall-heuristic": "Suspicious_GEN.F47V1024",
+                            "positives_delta": 8
+                        }
+                    },
+                    {
+                        "process": {
+                            "trid": "Google Chrome Extension (100.0%)",
+                            "magic": "data",
+                            "trendmicro-housecall-heuristic": "Suspicious_GEN.F47V1024",
+                            "positives_delta": 8
+                        }
+                    },
+                    {
+                        "process": {
+                            "trid": "Google Chrome Extension (100.0%)",
+                            "magic": "data",
+                            "trendmicro-housecall-heuristic": "Suspicious_GEN.F47V1024",
+                            "positives_delta": 8
+                        }
+                    },
+                    {
+                        "process": {
+                            "trid": "Google Chrome Extension (100.0%)",
+                            "magic": "data",
+                            "trendmicro-housecall-heuristic": "Suspicious_GEN.F47V1024",
+                            "positives_delta": 8
+                        }
+                    },
+                    {
+                        "process": {
+                            "trid": "Google Chrome Extension (100.0%)",
+                            "magic": "data",
+                            "trendmicro-housecall-heuristic": "Suspicious_GEN.F47V1024",
+                            "positives_delta": 8
+                        }
+                    },
+                    {
+                        "process": {
+                            "trid": "Google Chrome Extension (100.0%)",
+                            "magic": "data",
+                            "trendmicro-housecall-heuristic": "Suspicious_GEN.F47V1024",
+                            "positives_delta": 8
+                        }
+                    },
+                    {
+                        "process": {
+                            "trid": "Google Chrome Extension (100.0%)",
+                            "magic": "data",
+                            "trendmicro-housecall-heuristic": "Suspicious_GEN.F47V1024",
+                            "positives_delta": 8
+                        }
+                    },
+                    {
+                        "process": {
+                            "trid": "Google Chrome Extension (100.0%)",
+                            "magic": "data",
+                            "trendmicro-housecall-heuristic": "Suspicious_GEN.F47V1024",
+                            "positives_delta": 8
+                        }
+                    },
+                    {
+                        "process": {
+                            "trid": "Google Chrome Extension (100.0%)",
+                            "magic": "data",
+                            "trendmicro-housecall-heuristic": "Suspicious_GEN.F47V1024",
+                            "positives_delta": 8
+                        }
+                    },
+                    {
+                        "process": {
+                            "trid": "Google Chrome Extension (100.0%)",
+                            "magic": "data",
+                            "trendmicro-housecall-heuristic": "Suspicious_GEN.F47V1024",
+                            "positives_delta": 8
+                        }
+                    },
+                    {
+                        "process": {
+                            "trid": "Google Chrome Extension (100.0%)",
+                            "magic": "data",
+                            "trendmicro-housecall-heuristic": "Suspicious_GEN.F47V1024",
+                            "positives_delta": 8
+                        }
+                    },
+                    {
+                        "process": {
+                            "trid": "Google Chrome Extension (100.0%)",
+                            "magic": "data",
+                            "trendmicro-housecall-heuristic": "Suspicious_GEN.F47V1024",
+                            "positives_delta": 8
+                        }
+                    },
+                    {
+                        "process": {
+                            "trid": "Google Chrome Extension (100.0%)",
+                            "magic": "data",
+                            "trendmicro-housecall-heuristic": "Suspicious_GEN.F47V1024",
+                            "positives_delta": 8
+                        }
+                    },
+                    {
+                        "process": {
+                            "trid": "Google Chrome Extension (100.0%)",
+                            "magic": "data",
+                            "trendmicro-housecall-heuristic": "Suspicious_GEN.F47V1024",
+                            "positives_delta": 8
+                        }
+                    },
+                    {
+                        "process": {
+                            "trid": "Google Chrome Extension (100.0%)",
+                            "magic": "data",
+                            "trendmicro-housecall-heuristic": "Suspicious_GEN.F47V1024",
+                            "positives_delta": 8
+                        }
+                    },
+                    {
+                        "process": {
+                            "trid": "Google Chrome Extension (100.0%)",
+                            "magic": "data",
+                            "trendmicro-housecall-heuristic": "Suspicious_GEN.F47V1024",
+                            "positives_delta": 8
+                        }
+                    },
+                    {
+                        "process": {
+                            "trid": "Google Chrome Extension (100.0%)",
+                            "magic": "data",
+                            "trendmicro-housecall-heuristic": "Suspicious_GEN.F47V1024",
+                            "positives_delta": 8
+                        }
+                    },
+                    {
+                        "process": {
+                            "trid": "Google Chrome Extension (100.0%)",
+                            "magic": "data",
+                            "trendmicro-housecall-heuristic": "Suspicious_GEN.F47V1024",
+                            "positives_delta": 8
+                        }
+                    },
+                    {
+                        "process": {
+                            "trid": "Google Chrome Extension (100.0%)",
+                            "magic": "data",
+                            "trendmicro-housecall-heuristic": "Suspicious_GEN.F47V1024",
+                            "positives_delta": 8
+                        }
+                    },
+                    {
+                        "process": {
+                            "trid": "Google Chrome Extension (100.0%)",
+                            "magic": "data",
+                            "trendmicro-housecall-heuristic": "Suspicious_GEN.F47V1024",
+                            "positives_delta": 8
+                        }
+                    },
+                    {
+                        "process": {
+                            "trid": "Google Chrome Extension (100.0%)",
+                            "magic": "data",
+                            "trendmicro-housecall-heuristic": "Suspicious_GEN.F47V1024",
+                            "positives_delta": 8
+                        }
+                    },
+                    {
+                        "process": {
+                            "trid": "Google Chrome Extension (100.0%)",
+                            "magic": "data",
+                            "trendmicro-housecall-heuristic": "Suspicious_GEN.F47V1024",
+                            "positives_delta": 8
+                        }
+                    },
+                    {
+                        "process": {
+                            "trid": "Google Chrome Extension (100.0%)",
+                            "magic": "data",
+                            "trendmicro-housecall-heuristic": "Suspicious_GEN.F47V1024",
+                            "positives_delta": 8
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

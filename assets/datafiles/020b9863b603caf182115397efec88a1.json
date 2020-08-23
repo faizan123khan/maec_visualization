@@ -1,0 +1,683 @@
+{
+    "type": "package",
+    "id": "package--80da9b14-c4bd-4fa6-a7b4-bec46d146eeb",
+    "schema_version": "5.0",
+    "maec_objects": [
+        {
+            "type": "malware-instance",
+            "id": "malware-instance--0c2dd4fb-c805-4fa2-a81e-2de296c7a874",
+            "instance_object_refs": [
+                "0"
+            ],
+            "analysis_metadata": [
+                {
+                    "is_automated": true,
+                    "analysis_type": "static",
+                    "description": "Created by VirusTotal to MAEC (http://github.com/MAECProject/vt-to-maec)"
+                }
+            ]
+        }
+    ],
+    "observable_objects": {
+        "0": {
+            "type": "file",
+            "hashes": {
+                "MD5": "020b9863b603caf182115397efec88a1",
+                "SHA-1": "442326e36a02e9e58aa15baccb75097976f99e73",
+                "SHA-256": "f8df08b82a910e134e82ad467d35a8d7ee7455011021c972615368def33f512e"
+            },
+            "extensions": {
+                "x-maec-avclass": [
+                    {
+                        "classification_name": "W32.HfsAdware.9466",
+                        "scan_date": "2020-03-07 21:56:29",
+                        "is_detected": true,
+                        "av_name": "Bkav",
+                        "av_vendor": "Bkav",
+                        "av_engine_version": "1.3.0.9899",
+                        "av_definition_version": "20200307"
+                    },
+                    {
+                        "classification_name": "Gen:Variant.Application.Bundler.DownloadAdmin.19",
+                        "scan_date": "2020-03-07 21:56:29",
+                        "is_detected": true,
+                        "av_name": "MicroWorld-eScan",
+                        "av_vendor": "MicroWorld-eScan",
+                        "av_engine_version": "14.0.409.0",
+                        "av_definition_version": "20200307"
+                    },
+                    {
+                        "classification_name": "Generic.mg.020b9863b603caf1",
+                        "scan_date": "2020-03-07 21:56:29",
+                        "is_detected": true,
+                        "av_name": "FireEye",
+                        "av_vendor": "FireEye",
+                        "av_engine_version": "29.7.0.0",
+                        "av_definition_version": "20200305"
+                    },
+                    {
+                        "classification_name": "Downloader.Download.30696",
+                        "scan_date": "2020-03-07 21:56:29",
+                        "is_detected": true,
+                        "av_name": "CAT-QuickHeal",
+                        "av_vendor": "CAT-QuickHeal",
+                        "av_engine_version": "14.00",
+                        "av_definition_version": "20200307"
+                    },
+                    {
+                        "classification_name": "GenericRXFI-EW!020B9863B603",
+                        "scan_date": "2020-03-07 21:56:29",
+                        "is_detected": true,
+                        "av_name": "McAfee",
+                        "av_vendor": "McAfee",
+                        "av_engine_version": "6.0.6.653",
+                        "av_definition_version": "20200304"
+                    },
+                    {
+                        "classification_name": "Unsafe",
+                        "scan_date": "2020-03-07 21:56:29",
+                        "is_detected": true,
+                        "av_name": "Cylance",
+                        "av_vendor": "Cylance",
+                        "av_engine_version": "2.3.1.101",
+                        "av_definition_version": "20200307"
+                    },
+                    {
+                        "classification_name": "Downloader.DownloAdminCRTD.Win32.127",
+                        "scan_date": "2020-03-07 21:56:29",
+                        "is_detected": true,
+                        "av_name": "Zillya",
+                        "av_vendor": "Zillya",
+                        "av_engine_version": "2.0.0.4043",
+                        "av_definition_version": "20200306"
+                    },
+                    {
+                        "classification_name": "PUP.DownloadAdmin/Variant",
+                        "scan_date": "2020-03-07 21:56:29",
+                        "is_detected": true,
+                        "av_name": "SUPERAntiSpyware",
+                        "av_vendor": "SUPERAntiSpyware",
+                        "av_engine_version": "5.6.0.1032",
+                        "av_definition_version": "20200306"
+                    },
+                    {
+                        "classification_name": "Malware",
+                        "scan_date": "2020-03-07 21:56:29",
+                        "is_detected": true,
+                        "av_name": "Sangfor",
+                        "av_vendor": "Sangfor",
+                        "av_engine_version": "1.0",
+                        "av_definition_version": "20200306"
+                    },
+                    {
+                        "classification_name": "Adware ( 004dab711 )",
+                        "scan_date": "2020-03-07 21:56:29",
+                        "is_detected": true,
+                        "av_name": "K7AntiVirus",
+                        "av_vendor": "K7AntiVirus",
+                        "av_engine_version": "11.96.33467",
+                        "av_definition_version": "20200307"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2020-03-07 21:56:29",
+                        "is_detected": false,
+                        "av_name": "Alibaba",
+                        "av_vendor": "Alibaba",
+                        "av_engine_version": "0.3.0.5",
+                        "av_definition_version": "20190527"
+                    },
+                    {
+                        "classification_name": "Adware ( 004dab711 )",
+                        "scan_date": "2020-03-07 21:56:29",
+                        "is_detected": true,
+                        "av_name": "K7GW",
+                        "av_vendor": "K7GW",
+                        "av_engine_version": "11.96.33441",
+                        "av_definition_version": "20200305"
+                    },
+                    {
+                        "classification_name": "malicious.3b603c",
+                        "scan_date": "2020-03-07 21:56:29",
+                        "is_detected": true,
+                        "av_name": "Cybereason",
+                        "av_vendor": "Cybereason",
+                        "av_engine_version": "1.2.449",
+                        "av_definition_version": "20190616"
+                    },
+                    {
+                        "classification_name": "Trojan.Application.Bundler.DownloadAdmin.19",
+                        "scan_date": "2020-03-07 21:56:29",
+                        "is_detected": true,
+                        "av_name": "Arcabit",
+                        "av_vendor": "Arcabit",
+                        "av_engine_version": "1.0.0.870",
+                        "av_definition_version": "20200307"
+                    },
+                    {
+                        "classification_name": "heuristic",
+                        "scan_date": "2020-03-07 21:56:29",
+                        "is_detected": true,
+                        "av_name": "Invincea",
+                        "av_vendor": "Invincea",
+                        "av_engine_version": "6.3.6.26157",
+                        "av_definition_version": "20200219"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2020-03-07 21:56:29",
+                        "is_detected": false,
+                        "av_name": "Baidu",
+                        "av_vendor": "Baidu",
+                        "av_engine_version": "1.0.0.2",
+                        "av_definition_version": "20190318"
+                    },
+                    {
+                        "classification_name": "W32/S-1da05ee8!Eldorado",
+                        "scan_date": "2020-03-07 21:56:29",
+                        "is_detected": true,
+                        "av_name": "F-Prot",
+                        "av_vendor": "F-Prot",
+                        "av_engine_version": "4.7.1.166",
+                        "av_definition_version": "20200307"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2020-03-07 21:56:29",
+                        "is_detected": false,
+                        "av_name": "TotalDefense",
+                        "av_vendor": "TotalDefense",
+                        "av_engine_version": "37.1.62.1",
+                        "av_definition_version": "20200307"
+                    },
+                    {
+                        "classification_name": "Malicious",
+                        "scan_date": "2020-03-07 21:56:29",
+                        "is_detected": true,
+                        "av_name": "APEX",
+                        "av_vendor": "APEX",
+                        "av_engine_version": "5.126",
+                        "av_definition_version": "20200307"
+                    },
+                    {
+                        "classification_name": "Win32:Evo-gen [Susp]",
+                        "scan_date": "2020-03-07 21:56:29",
+                        "is_detected": true,
+                        "av_name": "Avast",
+                        "av_vendor": "Avast",
+                        "av_engine_version": "18.4.3895.0",
+                        "av_definition_version": "20200307"
+                    },
+                    {
+                        "classification_name": "Win.Trojan.Agent-1386751",
+                        "scan_date": "2020-03-07 21:56:29",
+                        "is_detected": true,
+                        "av_name": "ClamAV",
+                        "av_vendor": "ClamAV",
+                        "av_engine_version": "0.102.2.0",
+                        "av_definition_version": "20200307"
+                    },
+                    {
+                        "classification_name": "not-a-virus:HEUR:Downloader.Win32.DownloAdmin.gen",
+                        "scan_date": "2020-03-07 21:56:29",
+                        "is_detected": true,
+                        "av_name": "Kaspersky",
+                        "av_vendor": "Kaspersky",
+                        "av_engine_version": "15.0.1.13",
+                        "av_definition_version": "20200307"
+                    },
+                    {
+                        "classification_name": "Gen:Variant.Application.Bundler.DownloadAdmin.19",
+                        "scan_date": "2020-03-07 21:56:29",
+                        "is_detected": true,
+                        "av_name": "BitDefender",
+                        "av_vendor": "BitDefender",
+                        "av_engine_version": "7.2",
+                        "av_definition_version": "20200307"
+                    },
+                    {
+                        "classification_name": "Trojan.Win32.Vittalia.eawxae",
+                        "scan_date": "2020-03-07 21:56:29",
+                        "is_detected": true,
+                        "av_name": "NANO-Antivirus",
+                        "av_vendor": "NANO-Antivirus",
+                        "av_engine_version": "1.0.134.25032",
+                        "av_definition_version": "20200307"
+                    },
+                    {
+                        "classification_name": "generic.ml",
+                        "scan_date": "2020-03-07 21:56:29",
+                        "is_detected": true,
+                        "av_name": "Paloalto",
+                        "av_vendor": "Paloalto",
+                        "av_engine_version": "1.0",
+                        "av_definition_version": "20200307"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2020-03-07 21:56:29",
+                        "is_detected": false,
+                        "av_name": "ViRobot",
+                        "av_vendor": "ViRobot",
+                        "av_engine_version": "2014.3.20.0",
+                        "av_definition_version": "20200307"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2020-03-07 21:56:29",
+                        "is_detected": false,
+                        "av_name": "Tencent",
+                        "av_vendor": "Tencent",
+                        "av_engine_version": "1.0.0.1",
+                        "av_definition_version": "20200307"
+                    },
+                    {
+                        "classification_name": "Gen:Variant.Application.Bundler.DownloadAdmin.19",
+                        "scan_date": "2020-03-07 21:56:29",
+                        "is_detected": true,
+                        "av_name": "Ad-Aware",
+                        "av_vendor": "Ad-Aware",
+                        "av_engine_version": "3.0.5.370",
+                        "av_definition_version": "20200307"
+                    },
+                    {
+                        "classification_name": "Download Admin (PUA)",
+                        "scan_date": "2020-03-07 21:56:29",
+                        "is_detected": true,
+                        "av_name": "Sophos",
+                        "av_vendor": "Sophos",
+                        "av_engine_version": "4.98.0",
+                        "av_definition_version": "20200307"
+                    },
+                    {
+                        "classification_name": "Application.Win32.DownloadAdmin.Q@6azwtv",
+                        "scan_date": "2020-03-07 21:56:29",
+                        "is_detected": true,
+                        "av_name": "Comodo",
+                        "av_vendor": "Comodo",
+                        "av_engine_version": "32173",
+                        "av_definition_version": "20200307"
+                    },
+                    {
+                        "classification_name": "PotentialRisk.PUA/DownloadAdmin.KL",
+                        "scan_date": "2020-03-07 21:56:29",
+                        "is_detected": true,
+                        "av_name": "F-Secure",
+                        "av_vendor": "F-Secure",
+                        "av_engine_version": "12.0.86.52",
+                        "av_definition_version": "20200307"
+                    },
+                    {
+                        "classification_name": "Trojan.Vittalia.8877",
+                        "scan_date": "2020-03-07 21:56:29",
+                        "is_detected": true,
+                        "av_name": "DrWeb",
+                        "av_vendor": "DrWeb",
+                        "av_engine_version": "7.0.44.12030",
+                        "av_definition_version": "20200307"
+                    },
+                    {
+                        "classification_name": "Trojan.Win32.Generic!BT",
+                        "scan_date": "2020-03-07 21:56:29",
+                        "is_detected": true,
+                        "av_name": "VIPRE",
+                        "av_vendor": "VIPRE",
+                        "av_engine_version": "82064",
+                        "av_definition_version": "20200307"
+                    },
+                    {
+                        "classification_name": "PUA_DOWNADMIN.SM",
+                        "scan_date": "2020-03-07 21:56:29",
+                        "is_detected": true,
+                        "av_name": "TrendMicro",
+                        "av_vendor": "TrendMicro",
+                        "av_engine_version": "11.0.0.1006",
+                        "av_definition_version": "20200307"
+                    },
+                    {
+                        "classification_name": "GenericRXFI-EW!020B9863B603",
+                        "scan_date": "2020-03-07 21:56:29",
+                        "is_detected": true,
+                        "av_name": "McAfee-GW-Edition",
+                        "av_vendor": "McAfee-GW-Edition",
+                        "av_engine_version": "v2017.3010",
+                        "av_definition_version": "20200307"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2020-03-07 21:56:29",
+                        "is_detected": false,
+                        "av_name": "Trapmine",
+                        "av_vendor": "Trapmine",
+                        "av_engine_version": "3.2.22.914",
+                        "av_definition_version": "20200123"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2020-03-07 21:56:29",
+                        "is_detected": false,
+                        "av_name": "CMC",
+                        "av_vendor": "CMC",
+                        "av_engine_version": "1.1.0.977",
+                        "av_definition_version": "20190321"
+                    },
+                    {
+                        "classification_name": "Gen:Variant.Application.Bundler.DownloadAdmin.19 (B)",
+                        "scan_date": "2020-03-07 21:56:29",
+                        "is_detected": true,
+                        "av_name": "Emsisoft",
+                        "av_vendor": "Emsisoft",
+                        "av_engine_version": "2018.12.0.1641",
+                        "av_definition_version": "20200307"
+                    },
+                    {
+                        "classification_name": "DFI - Malicious PE",
+                        "scan_date": "2020-03-07 21:56:29",
+                        "is_detected": true,
+                        "av_name": "SentinelOne",
+                        "av_vendor": "SentinelOne",
+                        "av_engine_version": "2.0.0.2603",
+                        "av_definition_version": "20200220"
+                    },
+                    {
+                        "classification_name": "W32/S-1da05ee8!Eldorado",
+                        "scan_date": "2020-03-07 21:56:29",
+                        "is_detected": true,
+                        "av_name": "Cyren",
+                        "av_vendor": "Cyren",
+                        "av_engine_version": "6.2.2.2",
+                        "av_definition_version": "20200307"
+                    },
+                    {
+                        "classification_name": "Downloader.DownloAdmin.s",
+                        "scan_date": "2020-03-07 21:56:29",
+                        "is_detected": true,
+                        "av_name": "Jiangmin",
+                        "av_vendor": "Jiangmin",
+                        "av_engine_version": "16.0.100",
+                        "av_definition_version": "20200307"
+                    },
+                    {
+                        "classification_name": "W32.Adware.Downloadmgr",
+                        "scan_date": "2020-03-07 21:56:29",
+                        "is_detected": true,
+                        "av_name": "Webroot",
+                        "av_vendor": "Webroot",
+                        "av_engine_version": "1.0.0.403",
+                        "av_definition_version": "20200307"
+                    },
+                    {
+                        "classification_name": "PUA/DownloadAdmin.KL",
+                        "scan_date": "2020-03-07 21:56:29",
+                        "is_detected": true,
+                        "av_name": "Avira",
+                        "av_vendor": "Avira",
+                        "av_engine_version": "8.3.3.8",
+                        "av_definition_version": "20200307"
+                    },
+                    {
+                        "classification_name": "Riskware/DownloadAdmin",
+                        "scan_date": "2020-03-07 21:56:29",
+                        "is_detected": true,
+                        "av_name": "Fortinet",
+                        "av_vendor": "Fortinet",
+                        "av_engine_version": "6.2.142.0",
+                        "av_definition_version": "20200307"
+                    },
+                    {
+                        "classification_name": "GrayWare[AdWare]/Win32.DownloadAdmin.q",
+                        "scan_date": "2020-03-07 21:56:29",
+                        "is_detected": true,
+                        "av_name": "Antiy-AVL",
+                        "av_vendor": "Antiy-AVL",
+                        "av_engine_version": "3.0.0.1",
+                        "av_definition_version": "20200307"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2020-03-07 21:56:29",
+                        "is_detected": false,
+                        "av_name": "Kingsoft",
+                        "av_vendor": "Kingsoft",
+                        "av_engine_version": "2013.8.14.323",
+                        "av_definition_version": "20200307"
+                    },
+                    {
+                        "classification_name": "malicious (high confidence)",
+                        "scan_date": "2020-03-07 21:56:29",
+                        "is_detected": true,
+                        "av_name": "Endgame",
+                        "av_vendor": "Endgame",
+                        "av_engine_version": "3.0.17",
+                        "av_definition_version": "20200226"
+                    },
+                    {
+                        "classification_name": "PUA:Win32/DownloadAdmin",
+                        "scan_date": "2020-03-07 21:56:29",
+                        "is_detected": true,
+                        "av_name": "Microsoft",
+                        "av_vendor": "Microsoft",
+                        "av_engine_version": "1.1.16800.2",
+                        "av_definition_version": "20200307"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2020-03-07 21:56:29",
+                        "is_detected": false,
+                        "av_name": "AegisLab",
+                        "av_vendor": "AegisLab",
+                        "av_engine_version": "4.2",
+                        "av_definition_version": "20200307"
+                    },
+                    {
+                        "classification_name": "not-a-virus:HEUR:Downloader.Win32.DownloAdmin.gen",
+                        "scan_date": "2020-03-07 21:56:29",
+                        "is_detected": true,
+                        "av_name": "ZoneAlarm",
+                        "av_vendor": "ZoneAlarm",
+                        "av_engine_version": "1.0",
+                        "av_definition_version": "20200307"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2020-03-07 21:56:29",
+                        "is_detected": false,
+                        "av_name": "Avast-Mobile",
+                        "av_vendor": "Avast-Mobile",
+                        "av_engine_version": "200306-00",
+                        "av_definition_version": "20200306"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2020-03-07 21:56:29",
+                        "is_detected": false,
+                        "av_name": "TACHYON",
+                        "av_vendor": "TACHYON",
+                        "av_engine_version": "2020-03-07.02",
+                        "av_definition_version": "20200307"
+                    },
+                    {
+                        "classification_name": "PUP/Win32.DownloadAdmin.R178037",
+                        "scan_date": "2020-03-07 21:56:29",
+                        "is_detected": true,
+                        "av_name": "AhnLab-V3",
+                        "av_vendor": "AhnLab-V3",
+                        "av_engine_version": "3.17.2.26758",
+                        "av_definition_version": "20200307"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2020-03-07 21:56:29",
+                        "is_detected": false,
+                        "av_name": "Acronis",
+                        "av_vendor": "Acronis",
+                        "av_engine_version": "1.1.1.73",
+                        "av_definition_version": "20200304"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2020-03-07 21:56:29",
+                        "is_detected": false,
+                        "av_name": "BitDefenderTheta",
+                        "av_vendor": "BitDefenderTheta",
+                        "av_engine_version": "7.2.37796.0",
+                        "av_definition_version": "20200305"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2020-03-07 21:56:29",
+                        "is_detected": false,
+                        "av_name": "ALYac",
+                        "av_vendor": "ALYac",
+                        "av_engine_version": "1.1.1.5",
+                        "av_definition_version": "20200307"
+                    },
+                    {
+                        "classification_name": "malware (ai score=99)",
+                        "scan_date": "2020-03-07 21:56:29",
+                        "is_detected": true,
+                        "av_name": "MAX",
+                        "av_vendor": "MAX",
+                        "av_engine_version": "2019.9.16.1",
+                        "av_definition_version": "20200307"
+                    },
+                    {
+                        "classification_name": "BScope.Downloader.DownloAdmin",
+                        "scan_date": "2020-03-07 21:56:29",
+                        "is_detected": true,
+                        "av_name": "VBA32",
+                        "av_vendor": "VBA32",
+                        "av_engine_version": "4.3.0",
+                        "av_definition_version": "20200306"
+                    },
+                    {
+                        "classification_name": "PUP.Optional.DownLoadAdmin",
+                        "scan_date": "2020-03-07 21:56:29",
+                        "is_detected": true,
+                        "av_name": "Malwarebytes",
+                        "av_vendor": "Malwarebytes",
+                        "av_engine_version": "3.6.4.335",
+                        "av_definition_version": "20200307"
+                    },
+                    {
+                        "classification_name": null,
+                        "scan_date": "2020-03-07 21:56:29",
+                        "is_detected": false,
+                        "av_name": "Zoner",
+                        "av_vendor": "Zoner",
+                        "av_engine_version": "1.0.0.1",
+                        "av_definition_version": "20200306"
+                    },
+                    {
+                        "classification_name": "a variant of Win32/DownloadAdmin.Q potentially unwanted",
+                        "scan_date": "2020-03-07 21:56:29",
+                        "is_detected": true,
+                        "av_name": "ESET-NOD32",
+                        "av_vendor": "ESET-NOD32",
+                        "av_engine_version": "20960",
+                        "av_definition_version": "20200307"
+                    },
+                    {
+                        "classification_name": "PUA_DOWNADMIN.SM",
+                        "scan_date": "2020-03-07 21:56:29",
+                        "is_detected": true,
+                        "av_name": "TrendMicro-HouseCall",
+                        "av_vendor": "TrendMicro-HouseCall",
+                        "av_engine_version": "10.0.0.1040",
+                        "av_definition_version": "20200307"
+                    },
+                    {
+                        "classification_name": "Trojan.DownloadAdmin!1.A4A7 (CLOUD)",
+                        "scan_date": "2020-03-07 21:56:29",
+                        "is_detected": true,
+                        "av_name": "Rising",
+                        "av_vendor": "Rising",
+                        "av_engine_version": "25.0.0.24",
+                        "av_definition_version": "20200307"
+                    },
+                    {
+                        "classification_name": "Riskware.Agent!",
+                        "scan_date": "2020-03-07 21:56:29",
+                        "is_detected": true,
+                        "av_name": "Yandex",
+                        "av_vendor": "Yandex",
+                        "av_engine_version": "5.5.2.24",
+                        "av_definition_version": "20200306"
+                    },
+                    {
+                        "classification_name": "PUA.DownloadAdmin",
+                        "scan_date": "2020-03-07 21:56:29",
+                        "is_detected": true,
+                        "av_name": "Ikarus",
+                        "av_vendor": "Ikarus",
+                        "av_engine_version": "0.1.5.2",
+                        "av_definition_version": "20200307"
+                    },
+                    {
+                        "classification_name": "Unsafe.AI_Score_99%",
+                        "scan_date": "2020-03-07 21:56:29",
+                        "is_detected": true,
+                        "av_name": "eGambit",
+                        "av_vendor": "eGambit",
+                        "av_engine_version": null,
+                        "av_definition_version": "20200307"
+                    },
+                    {
+                        "classification_name": "Gen:Variant.Application.Bundler.DownloadAdmin.19",
+                        "scan_date": "2020-03-07 21:56:29",
+                        "is_detected": true,
+                        "av_name": "GData",
+                        "av_vendor": "GData",
+                        "av_engine_version": "A:25.25085B:26.17932",
+                        "av_definition_version": "20200307"
+                    },
+                    {
+                        "classification_name": "Trojan.Malware.7164915.susgen",
+                        "scan_date": "2020-03-07 21:56:29",
+                        "is_detected": true,
+                        "av_name": "MaxSecure",
+                        "av_vendor": "MaxSecure",
+                        "av_engine_version": "1.0.0.1",
+                        "av_definition_version": "20200307"
+                    },
+                    {
+                        "classification_name": "FileRepMalware",
+                        "scan_date": "2020-03-07 21:56:29",
+                        "is_detected": true,
+                        "av_name": "AVG",
+                        "av_vendor": "AVG",
+                        "av_engine_version": "18.4.3895.0",
+                        "av_definition_version": "20200307"
+                    },
+                    {
+                        "classification_name": "Trj/CI.A",
+                        "scan_date": "2020-03-07 21:56:29",
+                        "is_detected": true,
+                        "av_name": "Panda",
+                        "av_vendor": "Panda",
+                        "av_engine_version": "4.6.4.2",
+                        "av_definition_version": "20200307"
+                    },
+                    {
+                        "classification_name": "win/malicious_confidence_100% (D)",
+                        "scan_date": "2020-03-07 21:56:29",
+                        "is_detected": true,
+                        "av_name": "CrowdStrike",
+                        "av_vendor": "CrowdStrike",
+                        "av_engine_version": "1.0",
+                        "av_definition_version": "20190702"
+                    },
+                    {
+                        "classification_name": "Win32/Virus.Downloader.ee2",
+                        "scan_date": "2020-03-07 21:56:29",
+                        "is_detected": true,
+                        "av_name": "Qihoo-360",
+                        "av_vendor": "Qihoo-360",
+                        "av_engine_version": "1.0.0.1120",
+                        "av_definition_version": "20200307"
+                    }
+                ]
+            }
+        }
+    }
+}

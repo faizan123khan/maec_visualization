@@ -1,0 +1,1110 @@
+{
+    "vhash": "025086651d1d7d6d75655az43!z",
+    "submission_names": [
+        "07a0e85064677b0b832a7898c32d56b30de3a827e70754e7b4fc81685a80c140.exe",
+        "C:\\t8FZUooG\\0gqyvpAZO\\DjgpW\\Jh5nOg.vcf",
+        "f:\\output_black_258_255\\pe32\\VirusShare_cc910328e735e933bd9e27d2ca0b1c64"
+    ],
+    "scan_date": "2020-01-09 06:37:16",
+    "first_seen": "2015-07-25 22:32:22",
+    "times_submitted": 2,
+    "additional_info": {
+        "embedded_domains": [
+            "crt.comodoca.com",
+            "builddesktopgadget.com",
+            "crl.comodoca.com"
+        ],
+        "exiftool": {
+            "MIMEType": "application/octet-stream",
+            "Subsystem": "Windows GUI",
+            "MachineType": "Intel 386 or later, and compatibles",
+            "TimeStamp": "2012:05:06 17:12:38+02:00",
+            "ImageFileCharacteristics": "Executable, 32-bit",
+            "FileType": "Win32 EXE",
+            "PEType": "PE32",
+            "CodeSize": 51200,
+            "LinkerVersion": 11.0,
+            "FileTypeExtension": "exe",
+            "InitializedDataSize": 229888,
+            "SubsystemVersion": 5.1,
+            "EntryPoint": "0x764c",
+            "OSVersion": 5.1,
+            "ImageVersion": 5.1,
+            "UninitializedDataSize": 0
+        },
+        "trid": "Win32 Dynamic Link Library (generic) (34.3%)\nWin32 Executable (generic) (23.5%)\nOS/2 Executable (generic) (10.6%)\nClipper DOS Executable (10.5%)\nGeneric Win/DOS Executable (10.4%)",
+        "pe-imphash": "4030a75029b01ea76b13a059ea06f6c5",
+        "pe-resource-list": {
+            "69219095b32110b84633705602798832cebe6f7580d601854ad9af80477c975a": "data",
+            "9a8277832fac7551bb8edfb43ab611005ca68fc32df4311c6931bb604244686d": "data",
+            "77a1efb6136f52dd2372987b13bf486aa75baeacb93bad009aa3e284c57b8694": "data",
+            "7083852e7041ca4a88ad80fe68fd6fd081135863058e3f4caddefb345118d11d": "ASCII text",
+            "2a90e54757add11dd1b39e453a20a832d9336c226621ecd2ee272094ee8020d7": "data"
+        },
+        "pe-overlay": {
+            "chi2": 3462.46533203125,
+            "filetype": "data",
+            "entropy": 7.289454460144043,
+            "offset": 262144,
+            "size": 2096,
+            "md5": "bb94ff61d7fc17587b73cb8eb432028c"
+        },
+        "pe-resource-langs": {
+            "ENGLISH US": 5
+        },
+        "contacted_domains": [
+            "homestarzipset.net",
+            "allmodel-pro.com",
+            "parentmodel.biz",
+            "fullset.link"
+        ],
+        "contacted_urls": [
+            "http://homestarzipset.net/?q=dajazaitjf2sxr%2blhan6rbsej3awmk%2fmexugnzr%2blfytukgsv3s4ndxz4rzfvrovud%2b9dqcj5yngf5xk3q9id9qiqrmzxi%2b3hswydnla9yqe5uhm4o5epwlxttiransk5ghv6bfk0w9y6w5eim9icrtyq9izzcf79ea2ifiabglhha7y84%2bqfnwrnkog4tvibf7q3id5pyvobvej4y5aumh4y4jeos",
+            "http://allmodel-pro.com/get/?q=hyabdhassexf8eeefamd39/ohxcxdprbkmdheg%2bmad8ogpa7/cxzqgxabn%2blecskns4wqbeuj6/f2qiycqvydpb2x3axfdqa%2bm%2bcejll6ftwbuukf64ovouylb/1bmfbtfwznekthxn8wcrxitwaepda3gvnvxaej33lwp%2bcl9eq%2blf0gk/8qmmfi4ypifp87tdfegtzov//v/mzczjpgjpjohpp",
+            "http://parentmodel.biz/?q=dajazaitjf2sxr%2blhan6rbsej3awmk%2fmexugnzr%2blfytukgsv3s4ndxz4rzfvrovud%2b9dqcj5yngf5xk3q9id9qiqrmzxi%2b3hswydnla9yqe5uhm4o5epwlxttiransk5ghv6bfk0w9y6w5eim9icrtyq9izzcf79ea2ifiabglhha7y84%2bqfnwrnkog4tvibf7q3id5pyvobvej4y5aumh4y4jeosupy",
+            "http://fullset.link/?q=dajazaitjf2sxr%2blhan6rbsej3awmk%2fmexugnzr%2blfytukgsv3s4ndxz4rzfvrovud%2b9dqcj5yngf5xk3q9id9qiqrmzxi%2b3hswydnla9yqe5uhm4o5epwlxttiransk5ghv6bfk0w9y6w5eim9icrtyq9izzcf79ea2ifiabglhha7y84%2bqfnwrnkog4tvibf7q3id5pyvobvej4y5aumh4y4jeosupyvch"
+        ],
+        "magic": "PE32 executable for MS Windows (GUI) Intel 80386 32-bit",
+        "sigcheck": {
+            "authentihash": "98c8541d30eb46011837d57e9c105553c9d03d25844fd04169b22a6cca5bb036",
+            "verified": "A certificate was explicitly revoked by its issuer.",
+            "link date": "4:12 PM 5/6/2012",
+            "signing date": "6:38 AM 1/9/2020",
+            "x509": [
+                {
+                    "name": "Daniel Hareuveni",
+                    "algorithm": "sha1RSA",
+                    "valid from": "12:00 AM 7/25/2013",
+                    "valid to": "11:59 PM 7/24/2016",
+                    "serial number": "9A E3 7A 55 37 F1 B6 82 C0 2A 83 5B CC 61 E4 C9",
+                    "cert issuer": "COMODO Code Signing CA 2",
+                    "thumbprint": "FE121FB3EB2FF6B2912251DF32681F804F029A7B",
+                    "valid_usage": "Code Signing"
+                }
+            ],
+            "signers": "Daniel Hareuveni; COMODO Code Signing CA 2; UTN-USERFirst-Object; Sectigo (AddTrust)",
+            "signers details": [
+                {
+                    "status": "This certificate or one of the certificates in the certificate chain is not time valid., Trust for this certificate or one of the certificates in the certificate chain has been revoked.",
+                    "valid usage": "Code Signing",
+                    "name": "Daniel Hareuveni",
+                    "algorithm": "sha1RSA",
+                    "valid from": "11:00 PM 07/24/2013",
+                    "valid to": "10:59 PM 07/24/2016",
+                    "serial number": "00 9A E3 7A 55 37 F1 B6 82 C0 2A 83 5B CC 61 E4 C9",
+                    "cert issuer": "COMODO Code Signing CA 2",
+                    "thumbprint": "FE121FB3EB2FF6B2912251DF32681F804F029A7B"
+                },
+                {
+                    "status": "Valid",
+                    "valid usage": "Code Signing",
+                    "name": "COMODO Code Signing CA 2",
+                    "algorithm": "sha1RSA",
+                    "valid from": "11:00 PM 08/23/2011",
+                    "valid to": "09:48 AM 05/30/2020",
+                    "serial number": "10 70 9D 4F F5 54 08 D7 30 60 01 D8 EA 91 75 BB",
+                    "cert issuer": "UTN-USERFirst-Object",
+                    "thumbprint": "B64771392538D1EB7A9281998791C14AFD0C5035"
+                },
+                {
+                    "status": "Valid",
+                    "valid usage": "All",
+                    "name": "UTN-USERFirst-Object",
+                    "algorithm": "sha1RSA",
+                    "valid from": "07:09 AM 06/07/2005",
+                    "valid to": "09:48 AM 05/30/2020",
+                    "serial number": "42 1A F2 94 09 84 19 1F 52 0A 4B C6 24 26 A7 4B",
+                    "cert issuer": "AddTrust External CA Root",
+                    "thumbprint": "8AD5C9987E6F190BD6F5416E2DE44CCD641D8CDA"
+                },
+                {
+                    "status": "Valid",
+                    "valid usage": "Server Auth, Client Auth, Email Protection, Code Signing, Timestamp Signing, EFS, IPSEC Tunnel, IPSEC User",
+                    "name": "Sectigo (AddTrust)",
+                    "algorithm": "sha1RSA",
+                    "valid from": "09:48 AM 05/30/2000",
+                    "valid to": "09:48 AM 05/30/2020",
+                    "serial number": "01",
+                    "cert issuer": "AddTrust External CA Root",
+                    "thumbprint": "02FAF3E291435468607857694DF5E45B68851868"
+                }
+            ]
+        },
+        "behaviour-v1": {
+            "hooking": [],
+            "network": {
+                "udp": [],
+                "http": [
+                    {
+                        "url": "http://allmodel-pro.com/get/?q=VT235M3Y3IfMlcKdefoj4/yPbE5OoZqqVvPOMYbyCTsN8lDkEnV/Q5gdi97PH/VqgtetkXN7D84XUCIeGowbUgAjwvHlHtE1GWpimcKEj0fY3HRKhAqcEHgnMo/AM8rspJU5W0dkTgyf3sywk5RfqmT8mNKRhhsEQWo7UEeBDeXGasEYrkUFGO58CLBDrAnnI983nwUuRv8PKmz9QNOYWqe1%2BO4N7yJN0bpuSTPOPB1fO1p6p8r6EY069OcYVz4VSbHgrILcp0RcsXszirgdhOBt2JvBR7IJA95XGc3gffd4U4vCIaiHeWaaiAB39t1ORyA6ouUyfqIUT5Z025HWbdD7Gcg0PgfxsGXaE/x5i%2B8TpP9pfPZItKzs5NVCh7IzoLr6LrFDBhvoM9zQ0JgOa%2BhZUGOmhQ0k9wWLR1tJAqGulNn4YqUK207Eu0vfWSHmQVnPvdAivisOx%2B7lTSdmjdJRAn0dxiWFULZXkD4REQnfzh1Fvo/8Jx1RB678",
+                        "method": "GET",
+                        "user-agent": "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36"
+                    },
+                    {
+                        "url": "http://fullset.link/?q=dAjAzaItjf2sXR%2BlhaN6rBSeJ3AWMk%2FMexUGnzR%2BlfytUKGsv3S4ndXz4rzFVROVUd%2B9DQcJ5yNGF5xk3Q9iD9QiQRmzXI%2B3HsWyDNlA9yQE5uHm4o5ePWLXTtIrANSK5GHv6bFk0W9Y6w5EIm9icrTYq9IzZcf79ea2iFIaBGLhhA7y84%2BQfNWRNKog4Tvibf7Q3Id5pyVOBVEj4y5aUMh4Y4jEoSUPyvcHiCEm2RVR0hWIhRY4dbcOk%2FqJWP4AS5hcWaEkpUX3rGto%2FmK4q%2FYCgiEfqF11sMq1w%2FyC%2FkwKZX3h0BcCYdt32q9Y3cOMzeS%2B1SOMh9Do1Qz25ILCgMnzDq%2BUT61TPx1KNoL6CCVly37DClH%2FBpvWbo7hBUWW9E",
+                        "method": "GET",
+                        "user-agent": "Mozilla"
+                    }
+                ],
+                "dns": [
+                    {
+                        "ip": "195.22.4.21",
+                        "hostname": "allmodel-pro.com"
+                    },
+                    {
+                        "ip": "",
+                        "hostname": "homestarzipset.net"
+                    },
+                    {
+                        "ip": "",
+                        "hostname": "parentmodel.biz"
+                    },
+                    {
+                        "ip": "104.239.157.210",
+                        "hostname": "fullset.link"
+                    }
+                ],
+                "tcp": [
+                    "195.22.4.21:80",
+                    "104.239.157.210:80"
+                ]
+            },
+            "service": {
+                "controlled": [],
+                "opened": [
+                    {
+                        "name": "RASMAN",
+                        "success": true
+                    }
+                ],
+                "created": [],
+                "started": [],
+                "opened-managers": [
+                    {
+                        "machine": "localhost",
+                        "success": true,
+                        "database": "SERVICES_ACTIVE_DATABASE"
+                    }
+                ],
+                "deleted": []
+            },
+            "extra": [],
+            "process": {
+                "shellcmds": [],
+                "terminated": [],
+                "tree": [
+                    {
+                        "pid": 176,
+                        "name": "07a0e85064677b0b832a7898c32d56b30de3a827e70754e7b4fc81685a80c140",
+                        "children": []
+                    }
+                ],
+                "injected": [],
+                "created": []
+            },
+            "hosts_file": null,
+            "windows": {
+                "searched": []
+            },
+            "runtime-dlls": [
+                {
+                    "file": "advapi32.dll",
+                    "success": true
+                },
+                {
+                    "file": "oleaut32.dll",
+                    "success": true
+                },
+                {
+                    "file": "wininet.dll",
+                    "success": true
+                },
+                {
+                    "file": "shell32.dll",
+                    "success": true
+                },
+                {
+                    "file": "iphlpapi.dll",
+                    "success": true
+                },
+                {
+                    "file": "imagehlp.dll",
+                    "success": true
+                },
+                {
+                    "file": "secur32.dll",
+                    "success": true
+                },
+                {
+                    "file": "clbcatq.dll",
+                    "success": true
+                },
+                {
+                    "file": "wsock32",
+                    "success": true
+                },
+                {
+                    "file": "ws2_32",
+                    "success": true
+                },
+                {
+                    "file": "comctl32.dll",
+                    "success": true
+                },
+                {
+                    "file": "rasapi32.dll",
+                    "success": true
+                },
+                {
+                    "file": "ole32.dll",
+                    "success": true
+                },
+                {
+                    "file": "mpr.dll",
+                    "success": true
+                },
+                {
+                    "file": "rtutils.dll",
+                    "success": true
+                },
+                {
+                    "file": "rpcrt4.dll",
+                    "success": true
+                },
+                {
+                    "file": "rasman.dll",
+                    "success": true
+                },
+                {
+                    "file": "c:\\windows\\system32\\msv1_0.dll",
+                    "success": true
+                },
+                {
+                    "file": "sensapi.dll",
+                    "success": true
+                },
+                {
+                    "file": "ntdll.dll",
+                    "success": true
+                },
+                {
+                    "file": "userenv.dll",
+                    "success": true
+                },
+                {
+                    "file": "netapi32.dll",
+                    "success": true
+                },
+                {
+                    "file": "urlmon.dll",
+                    "success": true
+                },
+                {
+                    "file": "c:\\windows\\system32\\mswsock.dll",
+                    "success": true
+                },
+                {
+                    "file": "dnsapi.dll",
+                    "success": true
+                },
+                {
+                    "file": "rasadhlp.dll",
+                    "success": true
+                },
+                {
+                    "file": "hnetcfg.dll",
+                    "success": true
+                },
+                {
+                    "file": "c:\\windows\\system32\\wshtcpip.dll",
+                    "success": true
+                }
+            ],
+            "mutex": {
+                "opened": [
+                    {
+                        "mutex": "RasPbFile",
+                        "success": true
+                    }
+                ],
+                "created": [
+                    {
+                        "mutex": "RasPbFile",
+                        "success": false
+                    }
+                ]
+            },
+            "registry": {
+                "deleted": [],
+                "set": []
+            },
+            "filesystem": {
+                "opened": [
+                    {
+                        "path": "\\\\.\\Ip",
+                        "success": true
+                    },
+                    {
+                        "path": "c:\\07a0e85064677b0b832a7898c32d56b30de3a827e70754e7b4fc81685a80c140.dat",
+                        "success": false
+                    },
+                    {
+                        "path": "c:\\07a0e85064677b0b832a7898c32d56b30de3a827e70754e7b4fc81685a80c140",
+                        "success": true
+                    },
+                    {
+                        "path": "C:\\Documents and Settings\\All Users\\Application Data\\{09ee88b7-452b-ff4a-09ee-e88b745222dd}\\07a0e85064677b0b832a7898c32d56b30de3a827e70754e7b4fc81685a80c140",
+                        "success": true
+                    },
+                    {
+                        "path": "C:\\Documents and Settings\\All Users\\Application Data\\{09ee88b7-452b-ff4a-09ee-e88b745222dd}\\07a0e85064677b0b832a7898c32d56b30de3a827e70754e7b4fc81685a80c140.dat",
+                        "success": true
+                    },
+                    {
+                        "path": "C:\\WINDOWS\\Registration\\R000000000007.clb",
+                        "success": true
+                    },
+                    {
+                        "path": "C:\\WINDOWS\\Tasks\\NeonGlow.job",
+                        "success": false
+                    },
+                    {
+                        "path": "C:\\WINDOWS\\Tasks\\NeonGlow.job",
+                        "success": true
+                    },
+                    {
+                        "path": "\\\\.\\PIPE\\lsarpc",
+                        "success": true
+                    },
+                    {
+                        "path": "\\\\.\\PIPE\\ROUTER",
+                        "success": true
+                    },
+                    {
+                        "path": "c:\\documents and settings\\all users\\application data\\{09ee88b7-452b-ff4a-09ee-e88b745222dd}\\07a0e85064677b0b832a7898c32d56b30de3a827e70754e7b4fc81685a80c140.dat",
+                        "success": true
+                    },
+                    {
+                        "path": "c:\\documents and settings\\all users\\application data\\{09ee88b7-452b-ff4a-09ee-e88b745222dd}\\f5f0a776e029df51",
+                        "success": false
+                    },
+                    {
+                        "path": "c:\\documents and settings\\all users\\application data\\{09ee88b7-452b-ff4a-09ee-e88b745222dd}\\f5f0a776e029df51",
+                        "success": true
+                    },
+                    {
+                        "path": "c:\\documents and settings\\all users\\application data\\{09ee88b7-452b-ff4a-09ee-e88b745222dd}\\8caa2bd281a0ceff",
+                        "success": true
+                    },
+                    {
+                        "path": "c:\\autoexec.bat",
+                        "success": true
+                    }
+                ],
+                "read": [
+                    {
+                        "path": "c:\\07a0e85064677b0b832a7898c32d56b30de3a827e70754e7b4fc81685a80c140",
+                        "success": true
+                    },
+                    {
+                        "path": "C:\\WINDOWS\\Registration\\R000000000007.clb",
+                        "success": true
+                    },
+                    {
+                        "path": "c:\\documents and settings\\all users\\application data\\{09ee88b7-452b-ff4a-09ee-e88b745222dd}\\07a0e85064677b0b832a7898c32d56b30de3a827e70754e7b4fc81685a80c140.dat",
+                        "success": true
+                    },
+                    {
+                        "path": "c:\\autoexec.bat",
+                        "success": true
+                    }
+                ],
+                "moved": [],
+                "downloaded": [],
+                "written": [
+                    {
+                        "path": "C:\\Documents and Settings\\All Users\\Application Data\\{09ee88b7-452b-ff4a-09ee-e88b745222dd}\\07a0e85064677b0b832a7898c32d56b30de3a827e70754e7b4fc81685a80c140",
+                        "success": true
+                    },
+                    {
+                        "path": "C:\\Documents and Settings\\All Users\\Application Data\\{09ee88b7-452b-ff4a-09ee-e88b745222dd}\\07a0e85064677b0b832a7898c32d56b30de3a827e70754e7b4fc81685a80c140.dat",
+                        "success": true
+                    },
+                    {
+                        "path": "C:\\WINDOWS\\Tasks\\NeonGlow.job",
+                        "success": true
+                    }
+                ],
+                "replaced": [],
+                "deleted": [
+                    {
+                        "path": "C:\\WINDOWS\\Tasks\\NeonGlow.job",
+                        "success": false
+                    }
+                ],
+                "copied": []
+            }
+        },
+        "main_icon": {
+            "raw_md5": "37bca75dbddb7483e5a4c387798d04c1",
+            "dhash": "e0e2fae6b696c6cc"
+        },
+        "positives_delta": 9,
+        "pe-resource-detail": [
+            {
+                "lang": "ENGLISH US",
+                "chi2": 200234.6875,
+                "filetype": "data",
+                "entropy": 5.751129150390625,
+                "sha256": "2a90e54757add11dd1b39e453a20a832d9336c226621ecd2ee272094ee8020d7",
+                "type": "RT_ICON"
+            },
+            {
+                "lang": "ENGLISH US",
+                "chi2": 49251.28125,
+                "filetype": "data",
+                "entropy": 6.417579650878906,
+                "sha256": "69219095b32110b84633705602798832cebe6f7580d601854ad9af80477c975a",
+                "type": "RT_ICON"
+            },
+            {
+                "lang": "ENGLISH US",
+                "chi2": 9946.7265625,
+                "filetype": "data",
+                "entropy": 6.51042366027832,
+                "sha256": "9a8277832fac7551bb8edfb43ab611005ca68fc32df4311c6931bb604244686d",
+                "type": "RT_ICON"
+            },
+            {
+                "lang": "ENGLISH US",
+                "chi2": 3685.33251953125,
+                "filetype": "data",
+                "entropy": 2.4584920406341553,
+                "sha256": "77a1efb6136f52dd2372987b13bf486aa75baeacb93bad009aa3e284c57b8694",
+                "type": "RT_GROUP_ICON"
+            },
+            {
+                "lang": "ENGLISH US",
+                "chi2": 5725.7158203125,
+                "filetype": "ASCII text",
+                "entropy": 5.237605571746826,
+                "sha256": "7083852e7041ca4a88ad80fe68fd6fd081135863058e3f4caddefb345118d11d",
+                "type": "RT_MANIFEST"
+            }
+        ],
+        "first_seen_itw": "2009-02-04 06:12:50",
+        "pe-resource-types": {
+            "RT_ICON": 3,
+            "RT_GROUP_ICON": 1,
+            "RT_MANIFEST": 1
+        },
+        "pe-timestamp": 1336317158,
+        "imports": {
+            "KERNEL32.dll": [
+                "HeapSize",
+                "GetLastError",
+                "InitializeCriticalSectionAndSpinCount",
+                "HeapFree",
+                "GetStdHandle",
+                "EnterCriticalSection",
+                "LCMapStringW",
+                "VirtualAllocEx",
+                "GetModuleFileNameW",
+                "GetConsoleCP",
+                "GetOEMCP",
+                "QueryPerformanceCounter",
+                "IsDebuggerPresent",
+                "ExitProcess",
+                "TlsAlloc",
+                "GetEnvironmentStringsW",
+                "FlushFileBuffers",
+                "GetModuleFileNameA",
+                "RtlUnwind",
+                "IsProcessorFeaturePresent",
+                "DeleteCriticalSection",
+                "GetCurrentProcess",
+                "GetConsoleMode",
+                "GetStringTypeW",
+                "LocalAlloc",
+                "MapViewOfFileEx",
+                "WriteConsoleW",
+                "LoadLibraryExW",
+                "GetCPInfo",
+                "UnhandledExceptionFilter",
+                "TlsGetValue",
+                "MultiByteToWideChar",
+                "GetStartupInfoW",
+                "SetFilePointerEx",
+                "FreeEnvironmentStringsW",
+                "GetCommandLineA",
+                "GetProcAddress",
+                "GetProcessHeap",
+                "SetStdHandle",
+                "WideCharToMultiByte",
+                "LoadLibraryW",
+                "TlsFree",
+                "SetUnhandledExceptionFilter",
+                "WriteFile",
+                "CloseHandle",
+                "GetSystemTimeAsFileTime",
+                "CreateFileMappingA",
+                "GetACP",
+                "HeapReAlloc",
+                "DecodePointer",
+                "GetModuleHandleW",
+                "HeapAlloc",
+                "TerminateProcess",
+                "GetModuleHandleExW",
+                "IsValidCodePage",
+                "OutputDebugStringW",
+                "CreateFileW",
+                "InterlockedDecrement",
+                "Sleep",
+                "GetFileType",
+                "TlsSetValue",
+                "EncodePointer",
+                "GetCurrentThreadId",
+                "LeaveCriticalSection",
+                "GetCurrentProcessId",
+                "SetLastError",
+                "InterlockedIncrement"
+            ]
+        },
+        "suspicious-insight": true,
+        "pe-entry-point": 30284,
+        "sections": [
+            [
+                ".text",
+                4096,
+                50944,
+                51200,
+                "6.35",
+                "9b943e6c2e9939563114669a596f2a77"
+            ],
+            [
+                ".rdata",
+                57344,
+                40694,
+                40960,
+                "2.94",
+                "66fc6a356d1e952dfe05f7db1a86979d"
+            ],
+            [
+                ".data",
+                98304,
+                23796,
+                4096,
+                "2.19",
+                "c92f947a0fcb56a284dfa1de1f520ae1"
+            ],
+            [
+                ".data3",
+                122880,
+                34686,
+                34816,
+                "7.99",
+                "9866df5b72ffc7102296f81dc11c1b36"
+            ],
+            [
+                ".data1",
+                159744,
+                64807,
+                65024,
+                "6.73",
+                "60e692ba2464992eaf141ae7d92e976d"
+            ],
+            [
+                ".data2",
+                225280,
+                42533,
+                43008,
+                "7.98",
+                "f7afe6a73273e2f3309d02c8e2b143f5"
+            ],
+            [
+                ".rsrc",
+                270336,
+                16120,
+                16384,
+                "6.09",
+                "5e2a2469fe125ce292daf90e99b2cbff"
+            ],
+            [
+                ".reloc",
+                286720,
+                5366,
+                5632,
+                "4.83",
+                "638f8d321809ed40a043b8b34d1e318c"
+            ]
+        ],
+        "pe-machine-type": 332
+    },
+    "size": 264240,
+    "scan_id": "07a0e85064677b0b832a7898c32d56b30de3a827e70754e7b4fc81685a80c140-1578551836",
+    "total": 73,
+    "harmless_votes": 0,
+    "verbose_msg": "Scan finished, information embedded",
+    "sha256": "07a0e85064677b0b832a7898c32d56b30de3a827e70754e7b4fc81685a80c140",
+    "type": "Win32 EXE",
+    "scans": {
+        "Bkav": {
+            "detected": true,
+            "version": "1.3.0.9899",
+            "result": "W32.HfsAdware.22DC",
+            "update": "20200108"
+        },
+        "MicroWorld-eScan": {
+            "detected": true,
+            "version": "14.0.297.0",
+            "result": "Adware.Mplug.LO",
+            "update": "20200109"
+        },
+        "CMC": {
+            "detected": false,
+            "version": "1.1.0.977",
+            "result": null,
+            "update": "20190321"
+        },
+        "CAT-QuickHeal": {
+            "detected": true,
+            "version": "14.00",
+            "result": "PUA.Danielhare.Gen",
+            "update": "20200108"
+        },
+        "McAfee": {
+            "detected": true,
+            "version": "6.0.6.653",
+            "result": "MultiPlug",
+            "update": "20200109"
+        },
+        "Cylance": {
+            "detected": true,
+            "version": "2.3.1.101",
+            "result": "Unsafe",
+            "update": "20200109"
+        },
+        "Zillya": {
+            "detected": true,
+            "version": "2.0.0.3992",
+            "result": "Adware.MultiPlugGen.Win32.26",
+            "update": "20200108"
+        },
+        "SUPERAntiSpyware": {
+            "detected": false,
+            "version": "5.6.0.1032",
+            "result": null,
+            "update": "20200103"
+        },
+        "Sangfor": {
+            "detected": true,
+            "version": "1.0",
+            "result": "Malware",
+            "update": "20200107"
+        },
+        "K7AntiVirus": {
+            "detected": true,
+            "version": "11.86.32992",
+            "result": "Unwanted-Program ( 004c93fb1 )",
+            "update": "20200109"
+        },
+        "Alibaba": {
+            "detected": true,
+            "version": "0.3.0.5",
+            "result": "AdWare:Win32/MultiPlug.7258f2b7",
+            "update": "20190527"
+        },
+        "K7GW": {
+            "detected": true,
+            "version": "11.86.32992",
+            "result": "Adware ( 004c75191 )",
+            "update": "20200109"
+        },
+        "Cybereason": {
+            "detected": true,
+            "version": "1.2.449",
+            "result": "malicious.8e735e",
+            "update": "20190616"
+        },
+        "Arcabit": {
+            "detected": true,
+            "version": "1.0.0.869",
+            "result": "Adware.Mplug.LO",
+            "update": "20200109"
+        },
+        "TrendMicro": {
+            "detected": false,
+            "version": "11.0.0.1006",
+            "result": null,
+            "update": "20200109"
+        },
+        "BitDefenderTheta": {
+            "detected": true,
+            "version": "7.2.37796.0",
+            "result": "Gen:NN.ZexaF.33558.qGX@aeLN33gi",
+            "update": "20191223"
+        },
+        "F-Prot": {
+            "detected": true,
+            "version": "4.7.1.166",
+            "result": "W32/S-72dd57c8!Eldorado",
+            "update": "20200109"
+        },
+        "Symantec": {
+            "detected": true,
+            "version": "1.11.0.0",
+            "result": "ML.Attribute.HighConfidence",
+            "update": "20200109"
+        },
+        "TotalDefense": {
+            "detected": false,
+            "version": "37.1.62.1",
+            "result": null,
+            "update": "20200109"
+        },
+        "Baidu": {
+            "detected": true,
+            "version": "1.0.0.2",
+            "result": "Win32.Adware.Generic.bb",
+            "update": "20190318"
+        },
+        "APEX": {
+            "detected": true,
+            "version": "5.103",
+            "result": "Malicious",
+            "update": "20200107"
+        },
+        "Paloalto": {
+            "detected": true,
+            "version": "1.0",
+            "result": "generic.ml",
+            "update": "20200109"
+        },
+        "ClamAV": {
+            "detected": true,
+            "version": "0.102.1.0",
+            "result": "Win.Adware.Mplug-2656",
+            "update": "20200108"
+        },
+        "Kaspersky": {
+            "detected": true,
+            "version": "15.0.1.13",
+            "result": "not-a-virus:AdWare.Win32.MultiPlug.ofgs",
+            "update": "20200109"
+        },
+        "BitDefender": {
+            "detected": true,
+            "version": "7.2",
+            "result": "Adware.Mplug.LO",
+            "update": "20200109"
+        },
+        "NANO-Antivirus": {
+            "detected": true,
+            "version": "1.0.134.25031",
+            "result": "Trojan.Win32.WebPick.dukref",
+            "update": "20200109"
+        },
+        "AegisLab": {
+            "detected": true,
+            "version": "4.2",
+            "result": "Riskware.Win32.Generic.1!c",
+            "update": "20191220"
+        },
+        "Avast": {
+            "detected": true,
+            "version": "18.4.3895.0",
+            "result": "Win32:FakeDownload-G [PUP]",
+            "update": "20200109"
+        },
+        "Tencent": {
+            "detected": false,
+            "version": "1.0.0.1",
+            "result": null,
+            "update": "20200109"
+        },
+        "Ad-Aware": {
+            "detected": true,
+            "version": "3.0.5.370",
+            "result": "Adware.Mplug.LO",
+            "update": "20200109"
+        },
+        "Emsisoft": {
+            "detected": true,
+            "version": "2018.12.0.1641",
+            "result": "Adware.Mplug.LO (B)",
+            "update": "20200109"
+        },
+        "Comodo": {
+            "detected": true,
+            "version": "31941",
+            "result": "Application.Win32.MultiPlug.HD@5stckz",
+            "update": "20200109"
+        },
+        "F-Secure": {
+            "detected": true,
+            "version": "12.0.86.52",
+            "result": "Adware.ADWARE/MultiPlug.Gen7",
+            "update": "20200109"
+        },
+        "DrWeb": {
+            "detected": true,
+            "version": "7.0.42.9300",
+            "result": "Trojan.PWS.Qqpass.11245",
+            "update": "20200109"
+        },
+        "VIPRE": {
+            "detected": true,
+            "version": "80650",
+            "result": "Trojan.Win32.Generic!BT",
+            "update": "20200109"
+        },
+        "Invincea": {
+            "detected": true,
+            "version": "6.3.6.26157",
+            "result": "heuristic",
+            "update": "20191211"
+        },
+        "McAfee-GW-Edition": {
+            "detected": true,
+            "version": "v2017.3010",
+            "result": "BehavesLike.Win32.MultiPlug.dh",
+            "update": "20200109"
+        },
+        "Trapmine": {
+            "detected": true,
+            "version": "3.2.16.890",
+            "result": "malicious.high.ml.score",
+            "update": "20191216"
+        },
+        "FireEye": {
+            "detected": true,
+            "version": "29.7.0.0",
+            "result": "Generic.mg.cc910328e735e933",
+            "update": "20200109"
+        },
+        "Sophos": {
+            "detected": true,
+            "version": "4.98.0",
+            "result": "MultiPlug (PUA)",
+            "update": "20200109"
+        },
+        "SentinelOne": {
+            "detected": true,
+            "version": "1.12.1.57",
+            "result": "DFI - Malicious PE",
+            "update": "20191218"
+        },
+        "Cyren": {
+            "detected": true,
+            "version": "6.2.2.2",
+            "result": "W32/S-72dd57c8!Eldorado",
+            "update": "20200109"
+        },
+        "Jiangmin": {
+            "detected": true,
+            "version": "16.0.100",
+            "result": "AdWare.MultiPlug.akcn",
+            "update": "20200109"
+        },
+        "Webroot": {
+            "detected": true,
+            "version": "1.0.0.403",
+            "result": "Pua.Downloadmanager",
+            "update": "20200109"
+        },
+        "Avira": {
+            "detected": true,
+            "version": "8.3.3.8",
+            "result": "ADWARE/MultiPlug.Gen7",
+            "update": "20200109"
+        },
+        "Fortinet": {
+            "detected": true,
+            "version": "6.2.137.0",
+            "result": "W32/Generic.AC.1AC122!tr",
+            "update": "20200109"
+        },
+        "Antiy-AVL": {
+            "detected": true,
+            "version": "3.0.0.1",
+            "result": "GrayWare[AdWare:not-a-virus]/Win32.MultiPlug.heur",
+            "update": "20200109"
+        },
+        "Kingsoft": {
+            "detected": false,
+            "version": "2013.8.14.323",
+            "result": null,
+            "update": "20200109"
+        },
+        "Endgame": {
+            "detected": true,
+            "version": "3.0.15",
+            "result": "malicious (high confidence)",
+            "update": "20190918"
+        },
+        "Microsoft": {
+            "detected": true,
+            "version": "1.1.16600.7",
+            "result": "BrowserModifier:Win32/Diplugem",
+            "update": "20200109"
+        },
+        "ViRobot": {
+            "detected": false,
+            "version": "2014.3.20.0",
+            "result": null,
+            "update": "20200109"
+        },
+        "ZoneAlarm": {
+            "detected": true,
+            "version": "1.0",
+            "result": "not-a-virus:AdWare.Win32.MultiPlug.ofgs",
+            "update": "20200109"
+        },
+        "Avast-Mobile": {
+            "detected": false,
+            "version": "200106-02",
+            "result": null,
+            "update": "20200106"
+        },
+        "TACHYON": {
+            "detected": false,
+            "version": "2020-01-09.04",
+            "result": null,
+            "update": "20200109"
+        },
+        "AhnLab-V3": {
+            "detected": true,
+            "version": "3.17.0.26111",
+            "result": "PUP/Win32.MultiPlug.R159606",
+            "update": "20200108"
+        },
+        "Acronis": {
+            "detected": true,
+            "version": "1.1.1.58",
+            "result": "suspicious",
+            "update": "20200107"
+        },
+        "VBA32": {
+            "detected": true,
+            "version": "4.3.0",
+            "result": "BScope.Adware.MultiPlug",
+            "update": "20200108"
+        },
+        "ALYac": {
+            "detected": true,
+            "version": "1.1.1.5",
+            "result": "Adware.Mplug.LO",
+            "update": "20200109"
+        },
+        "MAX": {
+            "detected": true,
+            "version": "2019.9.16.1",
+            "result": "malware (ai score=98)",
+            "update": "20200109"
+        },
+        "Malwarebytes": {
+            "detected": true,
+            "version": "3.6.4.330",
+            "result": "PUP.Optional.MultiPlug",
+            "update": "20200109"
+        },
+        "Zoner": {
+            "detected": false,
+            "version": "1.0.0.1",
+            "result": null,
+            "update": "20200109"
+        },
+        "ESET-NOD32": {
+            "detected": true,
+            "version": "20642",
+            "result": "a variant of Win32/Adware.MultiPlug.NJ",
+            "update": "20200109"
+        },
+        "TrendMicro-HouseCall": {
+            "detected": false,
+            "version": "10.0.0.1040",
+            "result": null,
+            "update": "20200109"
+        },
+        "Rising": {
+            "detected": true,
+            "version": "25.0.0.24",
+            "result": "Adware.MulitiPlug!1.A802 (CLOUD)",
+            "update": "20200109"
+        },
+        "Yandex": {
+            "detected": true,
+            "version": "5.5.2.24",
+            "result": "PUA.MultiPlug!",
+            "update": "20200108"
+        },
+        "Ikarus": {
+            "detected": true,
+            "version": "0.1.5.2",
+            "result": "Win32.PolyCrypt",
+            "update": "20200108"
+        },
+        "eGambit": {
+            "detected": true,
+            "version": null,
+            "result": "Unsafe.AI_Score_100%",
+            "update": "20200109"
+        },
+        "GData": {
+            "detected": true,
+            "version": "A:25.24514B:26.17292",
+            "result": "Win32.Trojan-Spy.Emotet.DR@gen",
+            "update": "20200109"
+        },
+        "MaxSecure": {
+            "detected": true,
+            "version": "1.0.0.1",
+            "result": "not-a-virus:AdWare.Win32.MultiPlug.OFGS",
+            "update": "20200108"
+        },
+        "AVG": {
+            "detected": true,
+            "version": "18.4.3895.0",
+            "result": "FileRepMalware [PUP]",
+            "update": "20200109"
+        },
+        "Panda": {
+            "detected": true,
+            "version": "4.6.4.2",
+            "result": "PUP/TSUploader",
+            "update": "20200108"
+        },
+        "CrowdStrike": {
+            "detected": true,
+            "version": "1.0",
+            "result": "win/malicious_confidence_100% (D)",
+            "update": "20190702"
+        },
+        "Qihoo-360": {
+            "detected": true,
+            "version": "1.0.0.1120",
+            "result": "Win32/Virus.Adware.178",
+            "update": "20200109"
+        }
+    },
+    "tags": [
+        "revoked-cert",
+        "peexe",
+        "signed",
+        "nxdomain",
+        "overlay"
+    ],
+    "authentihash": "98c8541d30eb46011837d57e9c105553c9d03d25844fd04169b22a6cca5bb036",
+    "unique_sources": 2,
+    "positives": 62,
+    "ssdeep": "6144:S/dFPvKCFWfXHu7Z4mqId9y/iHFFhe0jBmv/:ovPvKMA3u7MIMKFljBmv/",
+    "md5": "cc910328e735e933bd9e27d2ca0b1c64",
+    "permalink": "https://www.virustotal.com/gui/file/07a0e85064677b0b832a7898c32d56b30de3a827e70754e7b4fc81685a80c140/detection/f-07a0e85064677b0b832a7898c32d56b30de3a827e70754e7b4fc81685a80c140-1578551836",
+    "sha1": "d4c06600b895dbf6a41812cf1bdd3d13278191c1",
+    "resource": "cc910328e735e933bd9e27d2ca0b1c64",
+    "response_code": 1,
+    "community_reputation": 0,
+    "malicious_votes": 0,
+    "ITW_urls": [],
+    "last_seen": "2020-01-09 06:37:16"
+}
